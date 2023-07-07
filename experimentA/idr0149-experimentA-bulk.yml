@@ -1,5 +1,5 @@
 ---
-path: "idr0000-experimentA-filePaths.tsv"
+path: "idr0149-experimentA-filePaths.tsv"
 continue: true
 transfer: "ln_s"
 parallel_upload: "10"

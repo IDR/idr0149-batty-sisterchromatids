@@ -1,0 +1,638 @@
+image_name	condition	spearman_correlation_coefficient	separation_score	figure_panel
+211110_5325_WT_15h_release_ctrl_hemi_zoom4_8_stain_scc1_cycb1_g2_rep1_czi-03-05.czi #1.tif_registered.tif	wt_g2_one_sister_labelled	0.708808041042204	0.46633	Fig1e, Fig EV1i
+211110_5325_WT_15h_release_ctrl_hemi_zoom4_8_stain_scc1_cycb1_g2_rep1_czi-03-05.czi #2.tif_registered.tif	wt_g2_one_sister_labelled	0.707079890896378	0.470873	Fig1e, Fig EV1i
+211110_5325_WT_15h_release_ctrl_hemi_zoom4_8_stain_scc1_cycb1_g2_rep1_czi-03-05.czi #3.tif_registered.tif	wt_g2_one_sister_labelled	0.766762924915025	0.313978	Fig1e, Fig EV1i
+211110_5325_WT_15h_release_ctrl_hemi_zoom4_8_stain_scc1_cycb1_g2_rep1_czi-03-05.czi #4.tif_registered.tif	wt_g2_one_sister_labelled	0.705690022692521	0.474527	Fig1e, Fig EV1i
+211110_5325_WT_15h_release_ctrl_hemi_zoom4_8_stain_scc1_cycb1_g2_rep1_czi-03-05.czi #5.tif_registered.tif	wt_g2_one_sister_labelled	0.732940703820663	0.40289	Fig1e, Fig EV1i
+211110_5325_WT_15h_release_ctrl_hemi_zoom4_8_stain_scc1_cycb1_g2_rep1_czi-03-05.czi #6.tif_registered.tif	wt_g2_one_sister_labelled	0.767203922559814	0.312818	Fig1e, Fig EV1i
+211110_5325_WT_15h_release_ctrl_hemi_zoom4_8_stain_scc1_cycb1_g2_rep1_czi-05-09.tif_registered.tif	wt_g2_one_sister_labelled	0.699055263158557	0.491968	Fig1e, Fig EV1i
+211110_5325_WT_15h_release_ctrl_hemi_zoom4_8_stain_scc1_cycb1_g2_rep1_czi-07-10.tif_registered.tif	wt_g2_one_sister_labelled	0.72058499600518	0.435371	Fig1e, Fig EV1i
+211110_5325_WT_15h_release_ctrl_hemi_zoom4_8_stain_scc1_cycb1_g2_rep1_czi-08-11.tif_registered.tif	wt_g2_one_sister_labelled	0.687862718474682	0.521391	Fig1e, Fig EV1i
+211110_5325_WT_15h_release_ctrl_hemi_zoom4_8_stain_scc1_cycb1_g2_rep1_czi-10-12.czi #1.tif_registered.tif	wt_g2_one_sister_labelled	0.689579313680437	0.516879	Fig1e, Fig EV1i
+211110_5325_WT_15h_release_ctrl_hemi_zoom4_8_stain_scc1_cycb1_g2_rep1_czi-10-12.czi #2.tif_registered.tif	wt_g2_one_sister_labelled	0.747585789117685	0.364391	Fig1e, Fig EV1i
+211110_5325_WT_15h_release_ctrl_hemi_zoom4_8_stain_scc1_cycb1_g2_rep2_czi-01-15-18.tif_registered.tif	wt_g2_one_sister_labelled	0.745516540864821	0.36983	Fig1e, Fig EV1i
+211110_5325_WT_15h_release_ctrl_hemi_zoom4_8_stain_scc1_cycb1_g2_rep2_czi-01-16-19.tif_registered.tif	wt_g2_one_sister_labelled	0.708356848472629	0.467516	Fig1e, Fig EV1i
+211110_5325_WT_15h_release_ctrl_hemi_zoom4_8_stain_scc1_cycb1_g2_rep2_czi-01-17-20.tif_registered.tif	wt_g2_one_sister_labelled	0.728387823146683	0.414859	Fig1e, Fig EV1i
+211110_5325_WT_15h_release_ctrl_hemi_zoom4_8_stain_scc1_cycb1_g2_rep2_czi-02-21-23.tif_registered.tif	wt_g2_one_sister_labelled	0.75315463370528	0.349751	Fig1e, Fig EV1i
+211110_5325_WT_15h_release_ctrl_hemi_zoom4_8_stain_scc1_cycb1_g2_rep2_czi-03-28-32.tif_registered.tif	wt_g2_one_sister_labelled	0.704588426094938	0.477423	Fig1e, Fig EV1i
+211110_5325_WT_15h_release_ctrl_hemi_zoom4_8_stain_scc1_cycb1_g2_rep2_czi-03-29-33.tif_registered.tif	wt_g2_one_sister_labelled	0.65527285182146	0.607064	Fig1e, Fig EV1i
+211110_5325_WT_15h_release_ctrl_hemi_zoom4_8_stain_scc1_cycb1_g2_rep2_czi-03-30-34.tif_registered.tif	wt_g2_one_sister_labelled	0.67554240324334	0.553779	Fig1e, Fig EV1i
+211110_5325_WT_15h_release_ctrl_hemi_zoom4_8_stain_scc1_cycb1_rep2_06-35.czi #1.tif_registered.tif	wt_g2_one_sister_labelled	0.600938251918673	0.749899	Fig1e, Fig EV1i
+211110_5325_WT_15h_release_ctrl_hemi_zoom4_8_stain_scc1_cycb1_rep2_06-35.czi #2.tif_registered.tif	wt_g2_one_sister_labelled	0.742889805992441	0.376736	Fig1e, Fig EV1i
+220125_5388_WT_c1_hemi_G2_15h_release_minus_ICRF_zoom4.8-08-08.czi #1.tif_registered.tif	wt_g2_one_sister_labelled	0.741991294629699	0.379098	Fig1e, Fig EV1i
+220125_5388_WT_c1_hemi_G2_15h_release_minus_ICRF_zoom4.8-08-08.czi #2.tif_registered.tif	wt_g2_one_sister_labelled	0.715351666258591	0.449128	Fig1e, Fig EV1i
+220125_5388_WT_c1_hemi_G2_15h_release_minus_ICRF_zoom4.8-08-08.czi #3.tif_registered.tif	wt_g2_one_sister_labelled	0.760524139527484	0.330378	Fig1e, Fig EV1i
+220125_5388_WT_c1_hemi_G2_15h_release_minus_ICRF_zoom4.8-08-08.czi #4.tif_registered.tif	wt_g2_one_sister_labelled	0.734313789086213	0.39928	Fig1e, Fig EV1i
+220125_5388_WT_c1_hemi_G2_rep1_15h_release_minus_ICRF_zoom4.8-05-05.tif_registered.tif	wt_g2_one_sister_labelled	0.760478749984378	0.330498	Fig1e, Fig EV1i
+220125_5388_WT_c1_hemi_G2_rep1_15h_release_minus_ICRF_zoom4.8-06-06.tif_registered.tif	wt_g2_one_sister_labelled	0.76045206303207	0.330568	Fig1e, Fig EV1i
+220125_5388_WT_c1_hemi_G2_rep1_15h_release_minus_ICRF_zoom4.8-07-07.tif_registered.tif	wt_g2_one_sister_labelled	0.757397586356399	0.338597	Fig1e, Fig EV1i
+220125_5388_wt_c1_rep2_hemi_G2_15h_release_zoom4_8-02-45.czi #1.tif_registered.tif	wt_g2_one_sister_labelled	0.750068483838588	0.357864	Fig1e, Fig EV1i
+220125_5388_wt_c1_rep2_hemi_G2_15h_release_zoom4_8-02-45.czi #2.tif_registered.tif	wt_g2_one_sister_labelled	0.78656189792193	0.26193	Fig1e, Fig EV1i
+220125_5388_wt_c1_rep2_hemi_G2_15h_release_zoom4_8-02-45.czi #3.tif_registered.tif	wt_g2_one_sister_labelled	0.730282749007372	0.409877	Fig1e, Fig EV1i
+220125_5388_wt_c1_rep2_hemi_G2_15h_release_zoom4_8-02-45.czi #4.tif_registered.tif	wt_g2_one_sister_labelled	0.749908008870056	0.358286	Fig1e, Fig EV1i
+220125_5388_wt_c1_rep2_hemi_G2_15h_release_zoom4_8-03-46.tif_registered.tif	wt_g2_one_sister_labelled	0.785456382554108	0.264836	Fig1e, Fig EV1i
+220125_5388_wt_c1_rep2_hemi_G2_15h_release_zoom4_8-04-47.czi #1.tif_registered.tif	wt_g2_one_sister_labelled	0.751063754124844	0.355248	Fig1e, Fig EV1i
+220125_5388_wt_c1_rep2_hemi_G2_15h_release_zoom4_8-04-47.czi #2.tif_registered.tif	wt_g2_one_sister_labelled	0.748460544920609	0.362091	Fig1e, Fig EV1i
+220125_5388_wt_c1_rep2_hemi_G2_15h_release_zoom4_8-08-48.czi #1.tif_registered.tif	wt_g2_one_sister_labelled	0.776407150771534	0.288625	Fig1e, Fig EV1i
+220125_5388_wt_c1_rep2_hemi_G2_15h_release_zoom4_8-08-48.czi #2.tif_registered.tif	wt_g2_one_sister_labelled	0.763696432483122	0.322039	Fig1e, Fig EV1i
+220125_5388_wt_c1_rep2_hemi_G2_15h_release_zoom4_8-09-49.tif_registered.tif	wt_g2_one_sister_labelled	0.766764900973498	0.313972	Fig1e, Fig EV1i
+220125_5388_wt_c2_rep1_hemi_G2_15h_release_zoom4_8-01-53.czi #1.tif_registered.tif	wt_g2_one_sister_labelled	0.768557319906354	0.30926	Fig1e, Fig EV1i
+220125_5388_wt_c2_rep1_hemi_G2_15h_release_zoom4_8-01-53.czi #2.tif_registered.tif	wt_g2_one_sister_labelled	0.781560642021247	0.275077	Fig1e, Fig EV1i
+220125_5388_wt_c2_rep1_hemi_G2_15h_release_zoom4_8-02-66.czi #1.tif_registered.tif	wt_g2_one_sister_labelled	0.763856326767794	0.321618	Fig1e, Fig EV1i
+220125_5388_wt_c2_rep1_hemi_G2_15h_release_zoom4_8-02-66.czi #2.tif_registered.tif	wt_g2_one_sister_labelled	0.770347543773237	0.304554	Fig1e, Fig EV1i
+220125_5388_wt_c2_rep1_hemi_G2_15h_release_zoom4_8-02-66.czi #3.tif_registered.tif	wt_g2_one_sister_labelled	0.778548657855737	0.282995	Fig1e, Fig EV1i
+220125_5388_wt_c2_rep1_hemi_G2_15h_release_zoom4_8-02-66.czi #5.tif_registered.tif	wt_g2_one_sister_labelled	0.810219289253921	0.199739	Fig1e, Fig EV1i
+220125_5388_wt_c2_rep1_hemi_G2_15h_release_zoom4_8-03-54-56.tif_registered.tif	wt_g2_one_sister_labelled	0.758695172538244	0.335186	Fig1e, Fig EV1i
+220125_5388_wt_c2_rep2_hemi_G2_15h_release_zoom4_8-02-67.tif_registered.tif	wt_g2_one_sister_labelled	0.761221921492599	0.328544	Fig1e, Fig EV1i
+220125_5388_wt_c2_rep2_hemi_G2_15h_release_zoom4_8-02-71.tif_registered.tif	wt_g2_one_sister_labelled	0.720923020230337	0.434482	Fig1e, Fig EV1i
+220125_5388_wt_c2_rep2_hemi_G2_15h_release_zoom4_8-04-68.tif_registered.tif	wt_g2_one_sister_labelled	0.764042595644139	0.321129	Fig1e, Fig EV1i
+220125_5388_wt_c2_rep2_hemi_G2_15h_release_zoom4_8-09-69.czi #1.tif_registered.tif	wt_g2_one_sister_labelled	0.717021555521294	0.444738	Fig1e, Fig EV1i
+220125_5388_wt_c2_rep2_hemi_G2_15h_release_zoom4_8-09-69.czi #2.tif_registered.tif	wt_g2_one_sister_labelled	0.689772271691134	0.516372	Fig1e, Fig EV1i
+220125_5388_wt_c2_rep2_hemi_G2_15h_release_zoom4_8-12-70.tif_registered.tif	wt_g2_one_sister_labelled	0.779713553404615	0.279933	Fig1e, Fig EV1i
+220601_5517_wt_hemi_15h_release_g2_rep1_zoom4_8-01-70.czi #1.tif_registered.tif	wt_g2_one_sister_labelled	0.798065050597411	0.23169	Fig1e, Fig EV1i
+220601_5517_wt_hemi_15h_release_g2_rep1_zoom4_8-01-70.czi #3.tif_registered.tif	wt_g2_one_sister_labelled	0.747547299772558	0.364492	Fig1e, Fig EV1i
+220601_5517_wt_hemi_15h_release_g2_rep1_zoom4_8-01-70.czi #4.tif_registered.tif	wt_g2_one_sister_labelled	0.757590954519511	0.338089	Fig1e, Fig EV1i
+220601_5517_wt_hemi_15h_release_g2_rep1_zoom4_8-01-70.czi #5.tif_registered.tif	wt_g2_one_sister_labelled	0.782287092838467	0.273167	Fig1e, Fig EV1i
+220601_5517_wt_hemi_15h_release_g2_rep1_zoom4_8-01-70.czi #6.tif_registered.tif	wt_g2_one_sister_labelled	0.731499937071887	0.406677	Fig1e, Fig EV1i
+220601_5517_wt_hemi_15h_release_g2_rep1_zoom4_8-02-71.czi #1.tif_registered.tif	wt_g2_one_sister_labelled	0.786632266348344	0.261745	Fig1e, Fig EV1i
+220601_5517_wt_hemi_15h_release_g2_rep1_zoom4_8-02-71.czi #2.tif_registered.tif	wt_g2_one_sister_labelled	0.761747155222143	0.327163	Fig1e, Fig EV1i
+220601_5517_wt_hemi_15h_release_g2_rep1_zoom4_8-03-72.czi #1.tif_registered.tif	wt_g2_one_sister_labelled	0.748531855990873	0.361904	Fig1e, Fig EV1i
+220601_5517_wt_hemi_15h_release_g2_rep1_zoom4_8-03-72.czi #2.tif_registered.tif	wt_g2_one_sister_labelled	0.802397396859386	0.220301	Fig1e, Fig EV1i
+220601_5517_wt_hemi_15h_release_g2_rep1_zoom4_8-03-72.czi #3.tif_registered.tif	wt_g2_one_sister_labelled	0.728296946573155	0.415097	Fig1e, Fig EV1i
+220601_5517_wt_hemi_15h_release_g2_rep1_zoom4_8-03-72.czi #4.tif_registered.tif	wt_g2_one_sister_labelled	0.786066652994024	0.263232	Fig1e, Fig EV1i
+220601_5517_wt_hemi_15h_release_g2_rep2_zoom4_8-01-63-66.tif_registered.tif	wt_g2_one_sister_labelled	0.761931030152247	0.32668	Fig1e, Fig EV1i
+220601_5517_wt_hemi_15h_release_g2_rep2_zoom4_8-02-67.czi #1.tif_registered.tif	wt_g2_one_sister_labelled	0.793158653109248	0.244588	Fig1e, Fig EV1i
+220601_5517_wt_hemi_15h_release_g2_rep2_zoom4_8-02-67.czi #2.tif_registered.tif	wt_g2_one_sister_labelled	0.800153336877223	0.2262	Fig1e, Fig EV1i
+220601_5517_wt_hemi_15h_release_g2_rep2_zoom4_8-02-67.czi #3.tif_registered.tif	wt_g2_one_sister_labelled	0.778969636228089	0.281888	Fig1e, Fig EV1i
+220601_5517_wt_hemi_15h_release_g2_rep2_zoom4_8-02-67.czi #5.tif_registered.tif	wt_g2_one_sister_labelled	0.771500234318824	0.301524	Fig1e, Fig EV1i
+220601_5517_wt_hemi_15h_release_g2_rep2_zoom4_8-03-68.tif_registered.tif	wt_g2_one_sister_labelled	0.767051706494906	0.313218	Fig1e, Fig EV1i
+220601_5517_wt_hemi_15h_release_g2_rep2_zoom4_8-04-69.czi #1.tif_registered.tif	wt_g2_one_sister_labelled	0.798877387255221	0.229555	Fig1e, Fig EV1i
+220601_5517_wt_hemi_15h_release_g2_rep2_zoom4_8-04-69.czi #2.tif_registered.tif	wt_g2_one_sister_labelled	0.736177399138777	0.394381	Fig1e, Fig EV1i
+5163_NIPBL_G2_depletion_hemi_plus_auxin_rep1-03-18.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.808636967510185	0.203899	Fig1e, Fig EV4h
+5163_NIPBL_G2_depletion_hemi_plus_auxin_rep1-07-19.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.780083258203928	0.278961	Fig1e, Fig EV4h
+5163_NIPBL_G2_depletion_hemi_plus_auxin_rep1-10-20.czi #1.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.788947737148345	0.255658	Fig1e, Fig EV4h
+5163_NIPBL_G2_depletion_hemi_plus_auxin_rep1-10-20.czi #3.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.77882276673641	0.282275	Fig1e, Fig EV4h
+5163_NIPBL_G2_depletion_hemi_plus_auxin_rep1-10-20.czi #4.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.785012875813982	0.266002	Fig1e, Fig EV4h
+5163_NIPBL_G2_depletion_hemi_plus_auxin_rep1-12-21.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.800266017422784	0.225904	Fig1e, Fig EV4h
+5163_NIPBL_G2_depletion_hemi_plus_auxin_rep1-13-22.czi #1.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.796803734865585	0.235006	Fig1e, Fig EV4h
+5163_NIPBL_G2_depletion_hemi_plus_auxin_rep1-13-22.czi #2.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.818634201490873	0.177618	Fig1e, Fig EV4h
+5163_NIPBL_G2_depletion_hemi_plus_auxin_rep1-15-23.czi #1.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.802090197107239	0.221109	Fig1e, Fig EV4h
+5163_NIPBL_G2_depletion_hemi_plus_auxin_rep1-15-23.czi #2.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.805213990091488	0.212897	Fig1e, Fig EV4h
+5163_NIPBL_G2_depletion_hemi_plus_auxin_rep1-16-24.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.798317123151158	0.231028	Fig1e, Fig EV4h
+5163_NIPBL_G2_depletion_hemi_plus_auxin_rep2-01-25.czi #1.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.793857065098299	0.242752	Fig1e, Fig EV4h
+5163_NIPBL_G2_depletion_hemi_plus_auxin_rep2-01-25.czi #2.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.784208544221991	0.268116	Fig1e, Fig EV4h
+5163_NIPBL_G2_depletion_hemi_plus_auxin_rep2-02-26.czi #2.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.812633315285698	0.193393	Fig1e, Fig EV4h
+5163_NIPBL_G2_depletion_hemi_plus_auxin_rep2-02-26.czi #3.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.797942399234711	0.232013	Fig1e, Fig EV4h
+5163_NIPBL_G2_depletion_hemi_plus_auxin_rep2-02-26.czi #4.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.778036843291826	0.284341	Fig1e, Fig EV4h
+5163_NIPBL_G2_depletion_hemi_plus_auxin_rep2-03-27.czi #1.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.793057399833441	0.244854	Fig1e, Fig EV4h
+5163_NIPBL_G2_depletion_hemi_plus_auxin_rep2-04-28.czi #1.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.798508665554939	0.230524	Fig1e, Fig EV4h
+5163_NIPBL_G2_depletion_hemi_plus_auxin_rep2-04-28.czi #2.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.784245713446702	0.268019	Fig1e, Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_hemi_zoom4_8_stain_scc1_cycb1_g2_rep1-05-49-50.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.75132227056245	0.354568	Fig1e, Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_hemi_zoom4_8_stain_scc1_cycb1_g2_rep1-05-49-51.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.805236518203587	0.212838	Fig1e, Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_hemi_zoom4_8_stain_scc1_cycb1_g2_rep1-05-49-52.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.834231433046374	0.136616	Fig1e, Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_hemi_zoom4_8_stain_scc1_cycb1_g2_rep1-05-49-53.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.762220861703567	0.325918	Fig1e, Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_hemi_zoom4_8_stain_scc1_cycb1_g2_rep1-05-49-54.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.843418798163064	0.112464	Fig1e, Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_hemi_zoom4_8_stain_scc1_cycb1_g2_rep1-05-49-56.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.796368042332965	0.236151	Fig1e, Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_hemi_zoom4_8_stain_scc1_cycb1_g2_rep1-czi-03-36-46.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.818787343048417	0.177215	Fig1e, Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_hemi_zoom4_8_stain_scc1_cycb1_g2_rep1_czi-04-48.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.809394139104323	0.201908	Fig1e, Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_hemi_zoom4_8_stain_scc1_cycb1_g2_rep1_czi-04-59.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.871320117000965	0.039116	Fig1e, Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_hemi_zoom4_8_stain_scc1_cycb1_g2_rep1_czi-06-60-61.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.79759854137484	0.232917	Fig1e, Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_hemi_zoom4_8_stain_scc1_cycb1_g2_rep2-01-70.czi #2.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.844207627156272	0.11039	Fig1e, Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_hemi_zoom4_8_stain_scc1_cycb1_g2_rep2-11-66.czi #1.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.828109304660558	0.15271	Fig1e, Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_hemi_zoom4_8_stain_scc1_cycb1_g2_rep2-11-66.czi #2.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.82868581092688	0.151194	Fig1e, Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_hemi_zoom4_8_stain_scc1_cycb1_g2_rep2-24-68.czi #1.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.822656826420221	0.167043	Fig1e, Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_hemi_zoom4_8_stain_scc1_cycb1_g2_rep2-24-68.czi #2.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.83979311949201	0.121995	Fig1e, Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_hemi_zoom4_8_stain_scc1_cycb1_g2_rep2_czi-01-64.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.81787220403403	0.179621	Fig1e, Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_hemi_zoom4_8_stain_scc1_cycb1_g2_rep2_czi-02-65.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.8389512876345	0.124208	Fig1e, Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_hemi_zoom4_8_stain_scc1_cycb1_g2_rep2_czi-02-71.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.85649925731236	0.078078	Fig1e, Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_hemi_zoom4_8_stain_scc1_cycb1_g2_rep2_czi-19-67.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.870934795937702	0.040129	Fig1e, Fig EV4h
+220202_5388_2045_nipbl_dep_c1_rep1_hemi_zoom4_8-02-145.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.768589927357564	0.309175	Fig1e, Fig EV4h
+220202_5388_2045_nipbl_dep_c1_rep1_hemi_zoom4_8-09-146.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.768935582495679	0.308266	Fig1e, Fig EV4h
+220202_5388_2045_nipbl_dep_c1_rep1_hemi_zoom4_8-19-147.czi.czi #3.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.762721238226727	0.324602	Fig1e, Fig EV4h
+220202_5388_2045_nipbl_dep_c1_rep1_hemi_zoom4_8-25-148.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.804727793419393	0.214175	Fig1e, Fig EV4h
+220202_5388_2045_nipbl_dep_c1_rep2_hemi_zoom4_8-01-151-152.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.797013982572151	0.234453	Fig1e, Fig EV4h
+220202_5388_2045_nipbl_dep_c1_rep2_hemi_zoom4_8-01-151-153.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.814816729787457	0.187653	Fig1e, Fig EV4h
+220202_5388_2045_nipbl_dep_c1_rep2_hemi_zoom4_8-01-151-154.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.833684782456122	0.138053	Fig1e, Fig EV4h
+220202_5388_2045_nipbl_dep_c1_rep2_hemi_zoom4_8-01-151-156.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.812608064743277	0.193459	Fig1e, Fig EV4h
+220202_5388_2045_nipbl_dep_c1_rep2_hemi_zoom4_8-01-151-157.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.844542850930751	0.109509	Fig1e, Fig EV4h
+220202_5388_2045_nipbl_dep_c1_rep2_hemi_zoom4_8-07-158.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.798056085795995	0.231714	Fig1e, Fig EV4h
+220202_5388_2045_nipbl_dep_c2_rep2_hemi_zoom4_8-02-167.czi #2.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.835963036748402	0.132064	Fig1e, Fig EV4h
+220202_5388_2045_nipbl_dep_c2_rep2_hemi_zoom4_8-06-168.czi #1.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.808813840250291	0.203434	Fig1e, Fig EV4h
+220202_5388_2045_nipbl_dep_c2_rep2_hemi_zoom4_8-06-168.czi #2.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.784299917518901	0.267876	Fig1e, Fig EV4h
+220202_5388_2045_nipbl_dep_c2_rep2_hemi_zoom4_8-09-169.czi #1.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.844023076107207	0.110875	Fig1e, Fig EV4h
+220202_5388_2045_nipbl_dep_c2_rep2_hemi_zoom4_8-09-169.czi #2.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.835580336250839	0.13307	Fig1e, Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_hemi_zoom4_8_stain_scc1_cycb1_g2_rep1-czi-03-36-43.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.777314693656705	0.286239	Fig1e, Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_hemi_zoom4_8_stain_scc1_cycb1_g2_rep1-czi-03-36-45.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.805746648005309	0.211497	Fig1e, Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_hemi_zoom4_8_stain_scc1_cycb1_g2_rep1_czi-03-58.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.78758115773165	0.25925	Fig1e, Fig EV4h
+220919_5618_2045_nipbl_dep_hemi_ro_15h_rel_cycb1_zoom4_8_rep1-161.czi #01.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.87401125278392	0.032042	Fig1e, Fig EV4h
+220919_5618_2045_nipbl_dep_hemi_ro_15h_rel_cycb1_zoom4_8_rep1-161.czi #02.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.826033427399462	0.158167	Fig1e, Fig EV4h
+220919_5618_2045_nipbl_dep_hemi_ro_15h_rel_cycb1_zoom4_8_rep1-161.czi #03.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.795262215259532	0.239058	Fig1e, Fig EV4h
+220919_5618_2045_nipbl_dep_hemi_ro_15h_rel_cycb1_zoom4_8_rep1-161.czi #04.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.864304693421139	0.057559	Fig1e, Fig EV4h
+220919_5618_2045_nipbl_dep_hemi_ro_15h_rel_cycb1_zoom4_8_rep1-161.czi #05.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.864951530916925	0.055858	Fig1e, Fig EV4h
+220919_5618_2045_nipbl_dep_hemi_ro_15h_rel_cycb1_zoom4_8_rep1-161.czi #07.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.861034518563124	0.066155	Fig1e, Fig EV4h
+220919_5618_2045_nipbl_dep_hemi_ro_15h_rel_cycb1_zoom4_8_rep1-161.czi #08.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.843222693693027	0.112979	Fig1e, Fig EV4h
+220919_5618_2045_nipbl_dep_hemi_ro_15h_rel_cycb1_zoom4_8_rep1-161.czi #09.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.841627304101389	0.117173	Fig1e, Fig EV4h
+220919_5618_2045_nipbl_dep_hemi_ro_15h_rel_cycb1_zoom4_8_rep1-161.czi #10.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.7902225716779	0.252307	Fig1e, Fig EV4h
+220919_5618_2045_nipbl_dep_hemi_ro_15h_rel_cycb1_zoom4_8_rep1-161.czi #11.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.799744386882722	0.227276	Fig1e, Fig EV4h
+220919_5618_2045_nipbl_dep_hemi_ro_15h_rel_cycb1_zoom4_8_rep1-161.czi #12.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.840150111823401	0.121056	Fig1e, Fig EV4h
+220919_5618_2045_nipbl_dep_hemi_ro_15h_rel_cycb1_zoom4_8_rep1-161.czi #13.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.823336664895395	0.165256	Fig1e, Fig EV4h
+220919_5618_2045_nipbl_dep_hemi_ro_15h_rel_cycb1_zoom4_8_rep1-161.czi #14.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.868883230612774	0.045523	Fig1e, Fig EV4h
+220919_5618_2045_nipbl_dep_hemi_ro_15h_rel_cycb1_zoom4_8_rep1-161.czi #15.tif_registered.tif	nipbl_dep_g2_one_sister_labelled	0.867933042854914	0.04802	Fig1e, Fig EV4h
+220202_5388_2056_smc4_dep_c1_rep1_hemi_zoom4_8-02-100.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.761267810240378	0.328423	Fig1e, Fig EV3h
+220202_5388_2056_smc4_dep_c1_rep1_hemi_zoom4_8-03-101.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.715662134580249	0.448312	Fig1e, Fig EV3h
+220202_5388_2056_smc4_dep_c1_rep1_hemi_zoom4_8-04-102.czi #1.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.781129814100996	0.27621	Fig1e, Fig EV3h
+220202_5388_2056_smc4_dep_c1_rep1_hemi_zoom4_8-04-102.czi #2.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.68166744898251	0.537678	Fig1e, Fig EV3h
+220202_5388_2056_smc4_dep_c1_rep1_hemi_zoom4_8-06-103.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.73684113600807	0.392636	Fig1e, Fig EV3h
+220202_5388_2056_smc4_dep_c1_rep1_hemi_zoom4_8-09-105.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.73488254769184	0.397785	Fig1e, Fig EV3h
+220202_5388_2056_smc4_dep_c1_rep1_hemi_zoom4_8-10-106.czi #1.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.747451973629479	0.364742	Fig1e, Fig EV3h
+220202_5388_2056_smc4_dep_c1_rep1_hemi_zoom4_8-10-106.czi #2.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.710141393361767	0.462825	Fig1e, Fig EV3h
+220202_5388_2056_smc4_dep_c1_rep2_hemi_zoom4_8-01-107.czi #1.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.700710507895598	0.487617	Fig1e, Fig EV3h
+220202_5388_2056_smc4_dep_c1_rep2_hemi_zoom4_8-01-107.czi #2.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.741334373374812	0.380824	Fig1e, Fig EV3h
+220202_5388_2056_smc4_dep_c1_rep2_hemi_zoom4_8-01-108.czi #1.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.786756992402406	0.261417	Fig1e, Fig EV3h
+220202_5388_2056_smc4_dep_c1_rep2_hemi_zoom4_8-01-108.czi #2.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.746456939729077	0.367358	Fig1e, Fig EV3h
+220202_5388_2056_smc4_dep_c1_rep2_hemi_zoom4_8-01-108.czi #3.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.780817892995251	0.27703	Fig1e, Fig EV3h
+220202_5388_2056_smc4_dep_c1_rep2_hemi_zoom4_8-01-108.czi #4.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.726476976090888	0.419882	Fig1e, Fig EV3h
+220202_5388_2056_smc4_dep_c1_rep2_hemi_zoom4_8-02-109.czi #1.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.745379699939593	0.37019	Fig1e, Fig EV3h
+220202_5388_2056_smc4_dep_c1_rep2_hemi_zoom4_8-02-109.czi #2.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.697065948577776	0.497198	Fig1e, Fig EV3h
+220202_5388_2056_smc4_dep_c1_rep2_hemi_zoom4_8-02-109.czi #3.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.745103695704398	0.370916	Fig1e, Fig EV3h
+220202_5388_2056_smc4_dep_c2_rep1_hemi_zoom4_8-01-110.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.738314595424684	0.388763	Fig1e, Fig EV3h
+220202_5388_2056_smc4_dep_c2_rep1_hemi_zoom4_8-03-111.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.731573074257788	0.406485	Fig1e, Fig EV3h
+220202_5388_2056_smc4_dep_c2_rep1_hemi_zoom4_8-04-112.czi #1.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.737434040978834	0.391078	Fig1e, Fig EV3h
+220202_5388_2056_smc4_dep_c2_rep1_hemi_zoom4_8-04-112.czi #2.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.755319084559792	0.344061	Fig1e, Fig EV3h
+220202_5388_2056_smc4_dep_c2_rep1_hemi_zoom4_8-04-112.czi #3.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.729912610733713	0.41085	Fig1e, Fig EV3h
+220202_5388_2056_smc4_dep_c2_rep1_hemi_zoom4_8-04-112.czi #4.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.755288220560892	0.344142	Fig1e, Fig EV3h
+220202_5388_2056_smc4_dep_c2_rep1_hemi_zoom4_8-06-113.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.717924971317807	0.442363	Fig1e, Fig EV3h
+220202_5388_2056_smc4_dep_c2_rep1_hemi_zoom4_8-07-114.czi #1.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.773210685108172	0.297028	Fig1e, Fig EV3h
+220202_5388_2056_smc4_dep_c2_rep1_hemi_zoom4_8-07-114.czi #2.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.702084634453911	0.484005	Fig1e, Fig EV3h
+220202_5388_2056_smc4_dep_c2_rep1_hemi_zoom4_8-09-115.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.741118805446434	0.381391	Fig1e, Fig EV3h
+220202_5388_2056_smc4_dep_c2_rep2_hemi_zoom4_8-02-129.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.754406280365098	0.346461	Fig1e, Fig EV3h
+220531_5517_2056_SMC4_dep_g2_15h_hemi_rep2-01-42.czi #2.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.765812915758567	0.316475	Fig1e, Fig EV3h
+220531_5517_2056_SMC4_dep_g2_15h_hemi_rep2-01-42.czi #3.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.734833806454383	0.397913	Fig1e, Fig EV3h
+220531_5517_2056_SMC4_dep_g2_15h_hemi_rep2-01-42.czi #6.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.80268691549579	0.21954	Fig1e, Fig EV3h
+220531_5517_2056_SMC4_dep_g2_15h_hemi_rep2-01-42.czi #7.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.766434010726071	0.314842	Fig1e, Fig EV3h
+220531_5517_2056_SMC4_dep_g2_15h_hemi_rep2-01-42.czi #8.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.76027602965371	0.33103	Fig1e, Fig EV3h
+220531_5517_2056_SMC4_dep_g2_15h_hemi_rep2-02-43.czi #1.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.719266135755338	0.438838	Fig1e, Fig EV3h
+220531_5517_2056_SMC4_dep_g2_15h_hemi_rep2-02-43.czi #2.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.767027193759057	0.313283	Fig1e, Fig EV3h
+220531_5517_2056_SMC4_dep_g2_15h_hemi_rep2-02-43.czi #3.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.720001082058579	0.436906	Fig1e, Fig EV3h
+220531_5517_2056_SMC4_dep_g2_15h_hemi_rep2-02-43.czi #4.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.778362438241063	0.283485	Fig1e, Fig EV3h
+220531_5517_2056_SMC4_dep_g2_15h_hemi_rep2-02-43.czi #5.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.740144100326715	0.383953	Fig1e, Fig EV3h
+220531_5517_2056_SMC4_dep_g2_15h_hemi_rep2-02-43.czi #6.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.762128756041854	0.32616	Fig1e, Fig EV3h
+220531_5517_2056_SMC4_dep_g2_15h_hemi_rep2-02-43.czi #8.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.768575383352235	0.309213	Fig1e, Fig EV3h
+220531_5517_2056_SMC4_dep_g2_15h_hemi_rep3-01-40.czi #1.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.79602543576915	0.237052	Fig1e, Fig EV3h
+220531_5517_2056_SMC4_dep_g2_15h_hemi_rep3-01-40.czi #2.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.713133447982673	0.454959	Fig1e, Fig EV3h
+220531_5517_2056_SMC4_dep_g2_15h_hemi_rep3-01-40.czi #3.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.736929454340227	0.392404	Fig1e, Fig EV3h
+220531_5517_2056_SMC4_dep_g2_15h_hemi_rep3-01-40.czi #4.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.699795985025024	0.490021	Fig1e, Fig EV3h
+220531_5517_2056_SMC4_dep_g2_15h_hemi_rep3-01-40.czi #6.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.731615145450977	0.406374	Fig1e, Fig EV3h
+220531_5517_2056_SMC4_dep_g2_15h_hemi_rep3-01-40.czi #7.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.748083289513715	0.363083	Fig1e, Fig EV3h
+220531_5517_2056_SMC4_dep_g2_15h_hemi_rep3-02-41.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.702433588717558	0.483087	Fig1e, Fig EV3h
+220531_5517_2056_SMC4_dep_g2_15h_hemi_rep2-01-42.czi #1.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.765812915758567	0.316475	Fig1e, Fig EV3h
+220531_5517_2056_SMC4_dep_g2_15h_hemi_rep2-02-43.czi #7.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.766956852435582	0.313468	Fig1e, Fig EV3h
+220531_5517_2056_SMC4_dep_g2_15h_hemi_rep3-01-40.czi #5.tif_registered.tif	smc4_dep_g2_one_sister_labelled	0.731615145450977	0.406374	Fig1e, Fig EV3h
+220207_5389_2045_nipbl_dep_c1_rep1_60min_stlc_hemi_zoom5-01-12.czi #1.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.451946836096866	1.14157	Fig1d, Fig EV4g
+220207_5389_2045_nipbl_dep_c1_rep1_60min_stlc_hemi_zoom5-01-12.czi #2.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.459709616347825	1.121163	Fig1d, Fig EV4g
+220207_5389_2045_nipbl_dep_c1_rep1_60min_stlc_hemi_zoom5-01-12.czi #3.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.584637137952327	0.792752	Fig1d, Fig EV4g
+220207_5389_2045_nipbl_dep_c1_rep1_60min_stlc_hemi_zoom5-01-12.czi #4.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.4956902952206	1.026577	Fig1d, Fig EV4g
+220207_5389_2045_nipbl_dep_c1_rep1_60min_stlc_hemi_zoom5-01-12.czi #5.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.504642401155437	1.003043	Fig1d, Fig EV4g
+220207_5389_2045_nipbl_dep_c1_rep1_60min_stlc_hemi_zoom5-01-12.czi #6.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.540116406390884	0.909789	Fig1d, Fig EV4g
+220207_5389_2045_nipbl_dep_c1_rep1_60min_stlc_hemi_zoom5-01-12.czi #7.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.520563312446993	0.96119	Fig1d, Fig EV4g
+220207_5389_2045_nipbl_dep_c1_rep1_60min_stlc_hemi_zoom5-01-12.czi #8.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.473943334502488	1.083745	Fig1d, Fig EV4g
+220207_5389_2045_nipbl_dep_c1_rep2_60min_stlc_hemi_zoom5-01-10.czi #1.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.536086657598625	0.920382	Fig1d, Fig EV4g
+220207_5389_2045_nipbl_dep_c1_rep2_60min_stlc_hemi_zoom5-01-10.czi #2.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.484476224739385	1.056056	Fig1d, Fig EV4g
+220207_5389_2045_nipbl_dep_c1_rep2_60min_stlc_hemi_zoom5-01-10.czi #3.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.46002940149967	1.120322	Fig1d, Fig EV4g
+220207_5389_2045_nipbl_dep_c1_rep2_60min_stlc_hemi_zoom5-01-10.czi #4.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.486186933793321	1.051559	Fig1d, Fig EV4g
+220207_5389_2045_nipbl_dep_c1_rep2_60min_stlc_hemi_zoom5-01-10.czi #5.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.501260544428389	1.011933	Fig1d, Fig EV4g
+220207_5389_2045_nipbl_dep_c1_rep2_60min_stlc_hemi_zoom5-01-10.czi #7.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.538362746737418	0.914399	Fig1d, Fig EV4g
+220207_5389_2045_nipbl_dep_c1_rep2_60min_stlc_hemi_zoom5-02-11.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.50238347047826	1.008981	Fig1d, Fig EV4g
+220207_5389_2045_nipbl_dep_c2_rep1_60min_stlc_hemi_zoom5-01-09.czi #1.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.508928208291189	0.991777	Fig1d, Fig EV4g
+220207_5389_2045_nipbl_dep_c2_rep1_60min_stlc_hemi_zoom5-01-09.czi #2.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.512299377070853	0.982914	Fig1d, Fig EV4g
+220207_5389_2045_nipbl_dep_c2_rep1_60min_stlc_hemi_zoom5-01-09.czi #3.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.468314300808052	1.098543	Fig1d, Fig EV4g
+220207_5389_2045_nipbl_dep_c2_rep1_60min_stlc_hemi_zoom5-01-09.czi #4.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.556724841389351	0.866128	Fig1d, Fig EV4g
+220207_5389_2045_nipbl_dep_c2_rep1_60min_stlc_hemi_zoom5-01-09.czi #5.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.504630638086059	1.003074	Fig1d, Fig EV4g
+220207_5389_2045_nipbl_dep_c2_rep1_60min_stlc_hemi_zoom5-01-09.czi #6.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.49063908336813	1.039855	Fig1d, Fig EV4g
+220207_5389_2045_nipbl_dep_c2_rep1_60min_stlc_hemi_zoom5-01-09.czi #7.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.559954665189677	0.857638	Fig1d, Fig EV4g
+220207_5389_2045_nipbl_dep_c2_rep1_60min_stlc_hemi_zoom5-01-09.czi #8.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.541013259968512	0.907431	Fig1d, Fig EV4g
+220207_5389_2045_nipbl_dep_c2_rep2_60min_stlc_hemi_zoom5-01-07.czi #1.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.507876755678925	0.994541	Fig1d, Fig EV4g
+220207_5389_2045_nipbl_dep_c2_rep2_60min_stlc_hemi_zoom5-01-07.czi #2.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.549079996542657	0.886225	Fig1d, Fig EV4g
+220207_5389_2045_nipbl_dep_c2_rep2_60min_stlc_hemi_zoom5-01-07.czi #3.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.497494674869835	1.021833	Fig1d, Fig EV4g
+220207_5389_2045_nipbl_dep_c2_rep2_60min_stlc_hemi_zoom5-01-07.czi #4.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.598565458192696	0.756137	Fig1d, Fig EV4g
+220207_5389_2045_nipbl_dep_c2_rep2_60min_stlc_hemi_zoom5-02-08.czi #1.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.580609749507008	0.803339	Fig1d, Fig EV4g
+220207_5389_2045_nipbl_dep_c2_rep2_60min_stlc_hemi_zoom5-02-08.czi #2.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.472631740192086	1.087193	Fig1d, Fig EV4g
+220207_5389_2045_nipbl_dep_c2_rep2_60min_stlc_hemi_zoom5-02-08.czi #3.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.488385590445092	1.045779	Fig1d, Fig EV4g
+220207_5389_2045_nipbl_dep_c2_rep2_60min_stlc_hemi_zoom5-02-08.czi #4.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.587095517995752	0.786289	Fig1d, Fig EV4g
+220919_5618_2045_nipbl_dep_hemi_prometa_60min_stlc_cycb1_zoom5_rep1-06-33.czi #3.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.535436398826854	0.922091	Fig1d, Fig EV4g
+220919_5618_2045_nipbl_dep_hemi_prometa_60min_stlc_cycb1_zoom5_rep1-06-33.czi #4.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.494402140360467	1.029963	Fig1d, Fig EV4g
+220919_5618_2045_nipbl_dep_hemi_prometa_60min_stlc_cycb1_zoom5_rep1-06-33.czi #5.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.553953781430769	0.873413	Fig1d, Fig EV4g
+220919_5618_2045_nipbl_dep_hemi_prometa_60min_stlc_cycb1_zoom5_rep1-08-34.czi #1.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.504897106140881	1.002374	Fig1d, Fig EV4g
+220919_5618_2045_nipbl_dep_hemi_prometa_60min_stlc_cycb1_zoom5_rep1-08-34.czi #2.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.409640071666447	1.252786	Fig1d, Fig EV4g
+220919_5618_2045_nipbl_dep_hemi_prometa_60min_stlc_cycb1_zoom5_rep1-08-34.czi #3.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.542326418612619	0.903979	Fig1d, Fig EV4g
+220919_5618_2045_nipbl_dep_hemi_prometa_60min_stlc_cycb1_zoom5_rep1-08-34.czi #4.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.483099478866446	1.059675	Fig1d, Fig EV4g
+220919_5618_2045_nipbl_dep_hemi_prometa_60min_stlc_cycb1_zoom5_rep2-02-35.czi #1.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.525628747034451	0.947874	Fig1d, Fig EV4g
+220919_5618_2045_nipbl_dep_hemi_prometa_60min_stlc_cycb1_zoom5_rep2-02-35.czi #2.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.513084592148047	0.98085	Fig1d, Fig EV4g
+220919_5618_2045_nipbl_dep_hemi_prometa_60min_stlc_cycb1_zoom5_rep2-02-35.czi #3.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.528204462081027	0.941103	Fig1d, Fig EV4g
+220919_5618_2045_nipbl_dep_hemi_prometa_60min_stlc_cycb1_zoom5_rep2-02-35.czi #4.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.595223269543399	0.764923	Fig1d, Fig EV4g
+220919_5618_2045_nipbl_dep_hemi_prometa_60min_stlc_cycb1_zoom5_rep2-04-36.czi #1.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.463207124121132	1.111969	Fig1d, Fig EV4g
+220919_5618_2045_nipbl_dep_hemi_prometa_60min_stlc_cycb1_zoom5_rep2-04-36.czi #2.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.452487574132591	1.140148	Fig1d, Fig EV4g
+220919_5618_2045_nipbl_dep_hemi_prometa_60min_stlc_cycb1_zoom5_rep2-04-36.czi #3.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.445755833930548	1.157845	Fig1d, Fig EV4g
+220919_5618_2045_nipbl_dep_hemi_prometa_60min_stlc_cycb1_zoom5_rep2-04-36.czi #4.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.511625515099196	0.984686	Fig1d, Fig EV4g
+220919_5618_2045_nipbl_dep_hemi_prometa_60min_stlc_cycb1_zoom5_rep2-04-36.czi #5.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.546515766479334	0.892966	Fig1d, Fig EV4g
+220919_5618_2045_nipbl_dep_hemi_prometa_60min_stlc_cycb1_zoom5_rep2-04-36.czi #6.tif_registered.tif	nipbl_dep_prometa_one_sister_labelled	0.520263740948985	0.961978	Fig1d, Fig EV4g
+5275_2056_smc4_depleted_hemi_prometa_30min_stlc_zoom5_rep1-111.czi #1.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.812996151987526	0.192439	Fig1d, Fig EV3g
+5275_2056_smc4_depleted_hemi_prometa_30min_stlc_zoom5_rep1-111.czi #2.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.882401184671894	0.009986	Fig1d, Fig EV3g
+5275_2056_smc4_depleted_hemi_prometa_30min_stlc_zoom5_rep1-111.czi #3.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.810799205619123	0.198214	Fig1d, Fig EV3g
+5275_2056_smc4_depleted_hemi_prometa_30min_stlc_zoom5_rep1-111.czi #4.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.733485079219418	0.401459	Fig1d, Fig EV3g
+5275_2056_smc4_depleted_hemi_prometa_30min_stlc_zoom5_rep1-20-112.czi #1.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.720080564336855	0.436697	Fig1d, Fig EV3g
+5275_2056_smc4_depleted_hemi_prometa_30min_stlc_zoom5_rep1-20-112.czi #2.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.804052820127463	0.215949	Fig1d, Fig EV3g
+5275_2056_smc4_depleted_hemi_prometa_30min_stlc_zoom5_rep1-20-112.czi #3.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.762299844838046	0.32571	Fig1d, Fig EV3g
+5275_2056_smc4_depleted_hemi_prometa_30min_stlc_zoom5_rep1-20-112.czi #4.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.730447910260172	0.409443	Fig1d, Fig EV3g
+5275_2056_smc4_depleted_hemi_prometa_30min_stlc_zoom5_rep1-30-114.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.696100424919721	0.499736	Fig1d, Fig EV3g
+5275_2056_smc4_depleted_hemi_prometa_30min_stlc_zoom5_rep1-33-115.czi #1.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.725234977222031	0.423147	Fig1d, Fig EV3g
+5275_2056_smc4_depleted_hemi_prometa_30min_stlc_zoom5_rep1-33-115.czi #2.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.819285164441887	0.175907	Fig1d, Fig EV3g
+5275_2056_smc4_depleted_hemi_prometa_30min_stlc_zoom5_rep1-33-115.czi #3.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.780324111037205	0.278328	Fig1d, Fig EV3g
+5275_2056_smc4_depleted_hemi_prometa_30min_stlc_zoom5_rep2-01-128.czi #1.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.780998034726512	0.276556	Fig1d, Fig EV3g
+5275_2056_smc4_depleted_hemi_prometa_30min_stlc_zoom5_rep2-01-128.czi #2.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.73589462459576	0.395125	Fig1d, Fig EV3g
+5275_2056_smc4_depleted_hemi_prometa_30min_stlc_zoom5_rep2-01-128.czi #3.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.785174404291442	0.265577	Fig1d, Fig EV3g
+5275_2056_smc4_depleted_hemi_prometa_30min_stlc_zoom5_rep2-01-128.czi #4.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.795760616231432	0.237748	Fig1d, Fig EV3g
+5275_2056_smc4_depleted_hemi_prometa_30min_stlc_zoom5_rep2-03-127.czi #1.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.745278714060608	0.370456	Fig1d, Fig EV3g
+5275_2056_smc4_depleted_hemi_prometa_30min_stlc_zoom5_rep2-03-127.czi #2.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.78696187134042	0.260878	Fig1d, Fig EV3g
+5275_2056_smc4_depleted_hemi_prometa_30min_stlc_zoom5_rep2-03-127.czi #3.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.827139511410409	0.155259	Fig1d, Fig EV3g
+5275_2056_smc4_depleted_hemi_prometa_30min_stlc_zoom5_rep2-03-127.czi #6.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.746023360651051	0.368498	Fig1d, Fig EV3g
+5275_2056_smc4_depleted_hemi_prometa_30min_stlc_zoom5_rep2-08-129.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.743675949828034	0.374669	Fig1d, Fig EV3g
+220124_5388_2056_c1_smc4_depleted_rep1_prometa_60min_15h_release_hemi_zoom5-02-83.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.744445973130009	0.372645	Fig1d, Fig EV3g
+220124_5388_2056_c1_smc4_depleted_rep1_prometa_60min_15h_release_hemi_zoom5-04-84.czi #1.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.831770150963325	0.143086	Fig1d, Fig EV3g
+220124_5388_2056_c1_smc4_depleted_rep1_prometa_60min_15h_release_hemi_zoom5-04-84.czi #3.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.826431844821243	0.157119	Fig1d, Fig EV3g
+220124_5388_2056_c1_smc4_depleted_rep1_prometa_60min_15h_release_hemi_zoom5-04-84.czi #4.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.812508870495618	0.19372	Fig1d, Fig EV3g
+220124_5388_2056_c1_smc4_depleted_rep1_prometa_60min_15h_release_hemi_zoom5-04-84.czi #5.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.831677448705058	0.14333	Fig1d, Fig EV3g
+220124_5388_2056_c1_smc4_depleted_rep1_prometa_60min_15h_release_hemi_zoom5-04-84.czi #6.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.882935460436348	0.008582	Fig1d, Fig EV3g
+220124_5388_2056_c1_smc4_depleted_rep1_prometa_60min_15h_release_hemi_zoom5-04-84.czi #7.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.843368182507937	0.112597	Fig1d, Fig EV3g
+220124_5388_2056_c1_smc4_depleted_rep1_prometa_60min_15h_release_hemi_zoom5-04-84.czi #8.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.826491652367785	0.156962	Fig1d, Fig EV3g
+220124_5388_2056_c1_smc4_depleted_rep1_prometa_60min_15h_release_hemi_zoom5-04-84.czi #9.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.917664154068048	-0.08271	Fig1d, Fig EV3g
+220124_5388_2056_c1_smc4_depleted_rep2_prometa_60min_15h_release_hemi_zoom5-02-85.czi #01.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.76870900842463	0.308862	Fig1d, Fig EV3g
+220124_5388_2056_c1_smc4_depleted_rep2_prometa_60min_15h_release_hemi_zoom5-02-85.czi #02.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.815428585331661	0.186045	Fig1d, Fig EV3g
+220124_5388_2056_c1_smc4_depleted_rep2_prometa_60min_15h_release_hemi_zoom5-02-85.czi #04.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.78912808285195	0.255184	Fig1d, Fig EV3g
+220124_5388_2056_c1_smc4_depleted_rep2_prometa_60min_15h_release_hemi_zoom5-02-85.czi #05.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.800943826033867	0.224122	Fig1d, Fig EV3g
+220124_5388_2056_c1_smc4_depleted_rep2_prometa_60min_15h_release_hemi_zoom5-02-85.czi #06.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.798153815635907	0.231457	Fig1d, Fig EV3g
+220124_5388_2056_c1_smc4_depleted_rep2_prometa_60min_15h_release_hemi_zoom5-02-85.czi #07.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.807372697630064	0.207222	Fig1d, Fig EV3g
+220124_5388_2056_c1_smc4_depleted_rep2_prometa_60min_15h_release_hemi_zoom5-02-85.czi #08.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.785534844470611	0.26463	Fig1d, Fig EV3g
+220124_5388_2056_c1_smc4_depleted_rep2_prometa_60min_15h_release_hemi_zoom5-02-85.czi #09.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.824930122932594	0.161067	Fig1d, Fig EV3g
+220124_5388_2056_c1_smc4_depleted_rep2_prometa_60min_15h_release_hemi_zoom5-02-85.czi #10.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.804020883855481	0.216033	Fig1d, Fig EV3g
+220124_5388_2056_c2_smc4_depleted_rep1_prometa_60min_15h_release_hemi_zoom5-01-86.czi #01.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.830985306912615	0.145149	Fig1d, Fig EV3g
+220124_5388_2056_c2_smc4_depleted_rep1_prometa_60min_15h_release_hemi_zoom5-01-86.czi #02.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.79542301555136	0.238636	Fig1d, Fig EV3g
+220124_5388_2056_c2_smc4_depleted_rep1_prometa_60min_15h_release_hemi_zoom5-01-86.czi #03.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.879343257009272	0.018025	Fig1d, Fig EV3g
+220124_5388_2056_c2_smc4_depleted_rep1_prometa_60min_15h_release_hemi_zoom5-01-86.czi #04.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.78732150473569	0.259933	Fig1d, Fig EV3g
+220124_5388_2056_c2_smc4_depleted_rep1_prometa_60min_15h_release_hemi_zoom5-01-86.czi #05.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.810563426196783	0.198834	Fig1d, Fig EV3g
+220124_5388_2056_c2_smc4_depleted_rep1_prometa_60min_15h_release_hemi_zoom5-01-86.czi #06.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.819835940919461	0.174459	Fig1d, Fig EV3g
+220124_5388_2056_c2_smc4_depleted_rep1_prometa_60min_15h_release_hemi_zoom5-01-86.czi #07.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.776726533079682	0.287785	Fig1d, Fig EV3g
+220124_5388_2056_c2_smc4_depleted_rep1_prometa_60min_15h_release_hemi_zoom5-01-86.czi #08.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.76828934100726	0.309965	Fig1d, Fig EV3g
+220124_5388_2056_c2_smc4_depleted_rep1_prometa_60min_15h_release_hemi_zoom5-01-86.czi #09.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.822713876455239	0.166893	Fig1d, Fig EV3g
+220124_5388_2056_c2_smc4_depleted_rep1_prometa_60min_15h_release_hemi_zoom5-01-86.czi #10.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.805982313349186	0.210877	Fig1d, Fig EV3g
+220124_5388_2056_c2_smc4_depleted_rep2_prometa_60min_15h_release_hemi_zoom5-01-87.czi #02.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.827541700332992	0.154202	Fig1d, Fig EV3g
+220124_5388_2056_c2_smc4_depleted_rep2_prometa_60min_15h_release_hemi_zoom5-01-87.czi #03.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.798958769603542	0.229341	Fig1d, Fig EV3g
+220124_5388_2056_c2_smc4_depleted_rep2_prometa_60min_15h_release_hemi_zoom5-01-87.czi #04.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.825186960667423	0.160392	Fig1d, Fig EV3g
+220124_5388_2056_c2_smc4_depleted_rep2_prometa_60min_15h_release_hemi_zoom5-01-87.czi #05.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.798983442374378	0.229276	Fig1d, Fig EV3g
+220124_5388_2056_c2_smc4_depleted_rep2_prometa_60min_15h_release_hemi_zoom5-01-87.czi #06.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.787086179905715	0.260552	Fig1d, Fig EV3g
+220124_5388_2056_c2_smc4_depleted_rep2_prometa_60min_15h_release_hemi_zoom5-01-87.czi #07.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.832997882096805	0.139858	Fig1d, Fig EV3g
+220124_5388_2056_c2_smc4_depleted_rep2_prometa_60min_15h_release_hemi_zoom5-01-87.czi #08.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.794752231562934	0.240399	Fig1d, Fig EV3g
+220124_5388_2056_c2_smc4_depleted_rep2_prometa_60min_15h_release_hemi_zoom5-01-87.czi #09.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.714623173671754	0.451043	Fig1d, Fig EV3g
+220124_5388_2056_c2_smc4_depleted_rep2_prometa_60min_15h_release_hemi_zoom5-01-87.czi #10.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.81164885462463	0.195981	Fig1d, Fig EV3g
+220530_5517_2056_smc4_dep_15h_g2_hemi_stlc_rep1-01-73.czi #1.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.79738546262678	0.233477	Fig1d, Fig EV3g
+220530_5517_2056_smc4_dep_15h_g2_hemi_stlc_rep1-01-73.czi #2.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.792450919238977	0.246449	Fig1d, Fig EV3g
+220530_5517_2056_smc4_dep_15h_g2_hemi_stlc_rep1-01-73.czi #3.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.722883729634477	0.429328	Fig1d, Fig EV3g
+220530_5517_2056_smc4_dep_15h_g2_hemi_stlc_rep1-01-73.czi #5.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.741976990660848	0.379135	Fig1d, Fig EV3g
+220530_5517_2056_smc4_dep_15h_g2_hemi_stlc_rep1-01-73.czi #6.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.842505512270085	0.114865	Fig1d, Fig EV3g
+220530_5517_2056_smc4_dep_15h_g2_hemi_stlc_rep1-01-73.czi #7.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.807399286195837	0.207152	Fig1d, Fig EV3g
+220530_5517_2056_smc4_dep_15h_g2_hemi_stlc_rep1-01-73.czi #8.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.826089571258567	0.158019	Fig1d, Fig EV3g
+220530_5517_2056_smc4_dep_15h_g2_hemi_stlc_rep2-01-72.czi #1.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.819264504236217	0.175961	Fig1d, Fig EV3g
+220530_5517_2056_smc4_dep_15h_g2_hemi_stlc_rep2-01-72.czi #2.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.848521038368745	0.099051	Fig1d, Fig EV3g
+220530_5517_2056_smc4_dep_15h_g2_hemi_stlc_rep2-01-72.czi #4.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.805564018650107	0.211977	Fig1d, Fig EV3g
+220530_5517_2056_smc4_dep_15h_g2_hemi_stlc_rep2-01-72.czi #5.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.798431254861664	0.230728	Fig1d, Fig EV3g
+220530_5517_2056_smc4_dep_15h_g2_hemi_stlc_rep3-02-71.czi #1.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.821256138510331	0.170725	Fig1d, Fig EV3g
+220530_5517_2056_smc4_dep_15h_g2_hemi_stlc_rep3-02-71.czi #2.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.831713268708222	0.143235	Fig1d, Fig EV3g
+220530_5517_2056_smc4_dep_15h_g2_hemi_stlc_rep3-02-71.czi #3.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.774554644977216	0.293495	Fig1d, Fig EV3g
+220530_5517_2056_smc4_dep_15h_g2_hemi_stlc_rep3-02-71.czi #4.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.764773203900469	0.319208	Fig1d, Fig EV3g
+220530_5517_2056_smc4_dep_15h_g2_hemi_stlc_rep3-02-71.czi #5.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.761078367988342	0.328921	Fig1d, Fig EV3g
+220530_5517_2056_smc4_dep_15h_g2_hemi_stlc_rep3-02-71.czi #6.tif_registered.tif	smc4_dep_prometa_one_sister_labelled	0.794261254230479	0.24169	Fig1d, Fig EV3g
+5003_WT_20min_hemi_5_meta_rep1_zoom-01-94.czi #2.tif_registered.tif	wt_prometa_one_sister_labelled	0.444484692906227	1.161186	Fig. 1d, Fig EV1g, h
+5003_WT_20min_hemi_5_meta_rep1_zoom-01-94.czi #4.tif_registered.tif	wt_prometa_one_sister_labelled	0.46416908315279	1.10944	Fig. 1d, Fig EV1g, h
+5003_WT_20min_hemi_5_meta_rep1_zoom-05-95.czi #1.tif_registered.tif	wt_prometa_one_sister_labelled	0.469507254704589	1.095407	Fig. 1d, Fig EV1g, h
+5003_WT_20min_hemi_5_meta_rep1_zoom-09-97 #10.tif_registered.tif	wt_prometa_one_sister_labelled	0.43522886820515	1.185518	Fig. 1d, Fig EV1g, h
+5003_WT_20min_hemi_5_meta_rep1_zoom-09-97 #11.tif_registered.tif	wt_prometa_one_sister_labelled	0.466703871069159	1.102776	Fig. 1d, Fig EV1g, h
+5003_WT_20min_hemi_5_meta_rep2_zoom-01-99.czi #1.tif_registered.tif	wt_prometa_one_sister_labelled	0.506949121847946	0.996979	Fig. 1d, Fig EV1g, h
+5003_WT_20min_hemi_5_meta_rep2_zoom-01-99.czi #2.tif_registered.tif	wt_prometa_one_sister_labelled	0.49822250025301	1.01992	Fig. 1d, Fig EV1g, h
+5003_WT_20min_hemi_5_meta_rep2_zoom-01-99.czi #3.tif_registered.tif	wt_prometa_one_sister_labelled	0.54180439777094	0.905351	Fig. 1d, Fig EV1g, h
+5003_WT_20min_hemi_5_meta_rep2_zoom-01-99.czi #5.tif_registered.tif	wt_prometa_one_sister_labelled	0.510932299954808	0.986508	Fig. 1d, Fig EV1g, h
+211108_5325_WT_12h_release_hemi_60min_STLC_zoom5_stain_smc4_cycb1_prometa_rep1-03-04.czi #1.tif_registered.tif	wt_prometa_one_sister_labelled	0.567930059852365	0.836672	Fig. 1d, Fig EV1g, h
+211108_5325_WT_12h_release_hemi_60min_STLC_zoom5_stain_smc4_cycb1_prometa_rep1-03-04.czi #2.tif_registered.tif	wt_prometa_one_sister_labelled	0.515708236342738	0.973953	Fig. 1d, Fig EV1g, h
+211108_5325_WT_12h_release_hemi_60min_STLC_zoom5_stain_smc4_cycb1_prometa_rep1-03-04.czi #3.tif_registered.tif	wt_prometa_one_sister_labelled	0.554122285459669	0.87297	Fig. 1d, Fig EV1g, h
+211108_5325_WT_12h_release_hemi_60min_STLC_zoom5_stain_smc4_cycb1_prometa_rep1-03-04.czi #4.tif_registered.tif	wt_prometa_one_sister_labelled	0.508649649227214	0.992509	Fig. 1d, Fig EV1g, h
+211108_5325_WT_12h_release_hemi_60min_STLC_zoom5_stain_smc4_cycb1_prometa_rep1-03-04.czi #6.tif_registered.tif	wt_prometa_one_sister_labelled	0.583432959493523	0.795918	Fig. 1d, Fig EV1g, h
+211108_5325_WT_12h_release_hemi_60min_STLC_zoom5_stain_smc4_cycb1_prometa_rep1-03-04.czi #8.tif_registered.tif	wt_prometa_one_sister_labelled	0.45532793258755	1.132682	Fig. 1d, Fig EV1g, h
+211108_5325_WT_12h_release_hemi_60min_STLC_zoom5_stain_smc4_cycb1_prometa_rep1-03-04.czi #9.tif_registered.tif	wt_prometa_one_sister_labelled	0.535147796368321	0.92285	Fig. 1d, Fig EV1g, h
+211108_5325_WT_12h_release_hemi_60min_STLC_zoom5_stain_smc4_cycb1_prometa_rep2-05-05.czi #1.tif_registered.tif	wt_prometa_one_sister_labelled	0.548040471101071	0.888958	Fig. 1d, Fig EV1g, h
+211108_5325_WT_12h_release_hemi_60min_STLC_zoom5_stain_smc4_cycb1_prometa_rep2-05-05.czi #2.tif_registered.tif	wt_prometa_one_sister_labelled	0.478329377083009	1.072215	Fig. 1d, Fig EV1g, h
+211108_5325_WT_12h_release_hemi_60min_STLC_zoom5_stain_smc4_cycb1_prometa_rep2-05-05.czi #3.tif_registered.tif	wt_prometa_one_sister_labelled	0.564451595732412	0.845816	Fig. 1d, Fig EV1g, h
+211108_5325_WT_12h_release_hemi_60min_STLC_zoom5_stain_smc4_cycb1_prometa_rep2-09-06.czi #2.tif_registered.tif	wt_prometa_one_sister_labelled	0.406744720016131	1.260398	Fig. 1d, Fig EV1g, h
+211108_5325_WT_12h_release_hemi_60min_STLC_zoom5_stain_smc4_cycb1_prometa_rep2-09-06.czi #3.tif_registered.tif	wt_prometa_one_sister_labelled	0.427673403714019	1.20538	Fig. 1d, Fig EV1g, h
+211108_5325_WT_12h_release_hemi_60min_STLC_zoom5_stain_smc4_cycb1_prometa_rep2-09-06.czi #4.tif_registered.tif	wt_prometa_one_sister_labelled	0.43353898473703	1.189961	Fig. 1d, Fig EV1g, h
+211108_5325_WT_12h_release_hemi_60min_STLC_zoom5_stain_smc4_cycb1_prometa_rep2-09-06.czi #5.tif_registered.tif	wt_prometa_one_sister_labelled	0.479392973582455	1.069419	Fig. 1d, Fig EV1g, h
+211108_5325_WT_12h_release_hemi_60min_STLC_zoom5_stain_smc4_cycb1_prometa_rep2-09-06.czi #6.tif_registered.tif	wt_prometa_one_sister_labelled	0.547397611119226	0.890648	Fig. 1d, Fig EV1g, h
+220207_5389_WT_c1_rep1_prometa_60min_stlc_hemi_zoom5-07-37-38.tif_registered.tif	wt_prometa_one_sister_labelled	0.503873314031915	1.005065	Fig. 1d, Fig EV1g, h
+220207_5389_WT_c1_rep1_prometa_60min_stlc_hemi_zoom5-07-37-39.tif_registered.tif	wt_prometa_one_sister_labelled	0.51409100576981	0.978205	Fig. 1d, Fig EV1g, h
+220207_5389_WT_c1_rep1_prometa_60min_stlc_hemi_zoom5-07-37-40.tif_registered.tif	wt_prometa_one_sister_labelled	0.503295891944025	1.006583	Fig. 1d, Fig EV1g, h
+220207_5389_WT_c1_rep1_prometa_60min_stlc_hemi_zoom5-07-37-41.tif_registered.tif	wt_prometa_one_sister_labelled	0.546423974637258	0.893207	Fig. 1d, Fig EV1g, h
+220207_5389_WT_c1_rep1_prometa_60min_stlc_hemi_zoom5-07-37-42.tif_registered.tif	wt_prometa_one_sister_labelled	0.5279963143632	0.94165	Fig. 1d, Fig EV1g, h
+220207_5389_WT_c1_rep1_prometa_60min_stlc_hemi_zoom5-07-37-43.tif_registered.tif	wt_prometa_one_sister_labelled	0.579210926668793	0.807016	Fig. 1d, Fig EV1g, h
+220207_5389_WT_c1_rep1_prometa_60min_stlc_hemi_zoom5-08-45.czi #1.tif_registered.tif	wt_prometa_one_sister_labelled	0.504194687259771	1.00422	Fig. 1d, Fig EV1g, h
+220207_5389_WT_c1_rep1_prometa_60min_stlc_hemi_zoom5-08-45.czi #2.tif_registered.tif	wt_prometa_one_sister_labelled	0.531024516579798	0.933689	Fig. 1d, Fig EV1g, h
+220207_5389_WT_c1_rep1_prometa_60min_stlc_hemi_zoom5-08-45.czi #3.tif_registered.tif	wt_prometa_one_sister_labelled	0.491584783035545	1.037369	Fig. 1d, Fig EV1g, h
+220207_5389_WT_c1_rep1_prometa_60min_stlc_hemi_zoom5-08-45.czi #4.tif_registered.tif	wt_prometa_one_sister_labelled	0.478532316503041	1.071682	Fig. 1d, Fig EV1g, h
+220207_5389_WT_c1_rep2_prometa_60min_stlc_hemi_zoom5-01-48-49.tif_registered.tif	wt_prometa_one_sister_labelled	0.590788463950855	0.776581	Fig. 1d, Fig EV1g, h
+220207_5389_WT_c1_rep2_prometa_60min_stlc_hemi_zoom5-01-48-50.tif_registered.tif	wt_prometa_one_sister_labelled	0.487090650934264	1.049183	Fig. 1d, Fig EV1g, h
+220207_5389_WT_c1_rep2_prometa_60min_stlc_hemi_zoom5-01-48-51.tif_registered.tif	wt_prometa_one_sister_labelled	0.460230123570245	1.119795	Fig. 1d, Fig EV1g, h
+220207_5389_WT_c1_rep2_prometa_60min_stlc_hemi_zoom5-01-48-52.tif_registered.tif	wt_prometa_one_sister_labelled	0.593949573862474	0.768271	Fig. 1d, Fig EV1g, h
+220207_5389_WT_c1_rep2_prometa_60min_stlc_hemi_zoom5-01-48-53.tif_registered.tif	wt_prometa_one_sister_labelled	0.5505931427786	0.882247	Fig. 1d, Fig EV1g, h
+220207_5389_WT_c1_rep2_prometa_60min_stlc_hemi_zoom5-01-48-54.tif_registered.tif	wt_prometa_one_sister_labelled	0.572401300684665	0.824918	Fig. 1d, Fig EV1g, h
+220207_5389_WT_c1_rep2_prometa_60min_stlc_hemi_zoom5-01-48-55.tif_registered.tif	wt_prometa_one_sister_labelled	0.469209106592332	1.096191	Fig. 1d, Fig EV1g, h
+220207_5389_WT_c1_rep2_prometa_60min_stlc_hemi_zoom5-02-59.czi #1.tif_registered.tif	wt_prometa_one_sister_labelled	0.45494370648606	1.133692	Fig. 1d, Fig EV1g, h
+220207_5389_WT_c2_rep1_prometa_60min_stlc_hemi_zoom5-06-75.czi #1.tif_registered.tif	wt_prometa_one_sister_labelled	0.527946605397753	0.941781	Fig. 1d, Fig EV1g, h
+220207_5389_WT_c2_rep1_prometa_60min_stlc_hemi_zoom5-06-75.czi #3.tif_registered.tif	wt_prometa_one_sister_labelled	0.496754198138939	1.02378	Fig. 1d, Fig EV1g, h
+220207_5389_WT_c2_rep1_prometa_60min_stlc_hemi_zoom5-06-75.czi #4.tif_registered.tif	wt_prometa_one_sister_labelled	0.537867387696496	0.915701	Fig. 1d, Fig EV1g, h
+220207_5389_WT_c2_rep1_prometa_60min_stlc_hemi_zoom5-06-75.czi #5.tif_registered.tif	wt_prometa_one_sister_labelled	0.491853501514698	1.036663	Fig. 1d, Fig EV1g, h
+220207_5389_WT_c2_rep1_prometa_60min_stlc_hemi_zoom5-06-75.czi #6.tif_registered.tif	wt_prometa_one_sister_labelled	0.624885646728617	0.686946	Fig. 1d, Fig EV1g, h
+220207_5389_WT_c2_rep1_prometa_60min_stlc_hemi_zoom5-09-76.czi #1.tif_registered.tif	wt_prometa_one_sister_labelled	0.575812260968194	0.815951	Fig. 1d, Fig EV1g, h
+220207_5389_WT_c2_rep1_prometa_60min_stlc_hemi_zoom5-09-76.czi #2.tif_registered.tif	wt_prometa_one_sister_labelled	0.513551977184192	0.979622	Fig. 1d, Fig EV1g, h
+220207_5389_WT_c2_rep1_prometa_60min_stlc_hemi_zoom5-09-76.czi #3.tif_registered.tif	wt_prometa_one_sister_labelled	0.528270300111901	0.94093	Fig. 1d, Fig EV1g, h
+220207_5389_WT_c2_rep2_prometa_60min_stlc_hemi_zoom5-03-77.czi #1.tif_registered.tif	wt_prometa_one_sister_labelled	0.52464506886256	0.95046	Fig. 1d, Fig EV1g, h
+220207_5389_WT_c2_rep2_prometa_60min_stlc_hemi_zoom5-03-77.czi #2.tif_registered.tif	wt_prometa_one_sister_labelled	0.486846155792231	1.049826	Fig. 1d, Fig EV1g, h
+220207_5389_WT_c2_rep2_prometa_60min_stlc_hemi_zoom5-03-77.czi #3.tif_registered.tif	wt_prometa_one_sister_labelled	0.514318989798588	0.977605	Fig. 1d, Fig EV1g, h
+220207_5389_WT_c2_rep2_prometa_60min_stlc_hemi_zoom5-03-77.czi #4.tif_registered.tif	wt_prometa_one_sister_labelled	0.5961057373994	0.762603	Fig. 1d, Fig EV1g, h
+220207_5389_WT_c2_rep2_prometa_60min_stlc_hemi_zoom5-03-77.czi #5.tif_registered.tif	wt_prometa_one_sister_labelled	0.549437704422731	0.885285	Fig. 1d, Fig EV1g, h
+220207_5389_WT_c2_rep2_prometa_60min_stlc_hemi_zoom5-03-77.czi #6.tif_registered.tif	wt_prometa_one_sister_labelled	0.615398623036034	0.711886	Fig. 1d, Fig EV1g, h
+220207_5389_WT_c2_rep2_prometa_60min_stlc_hemi_zoom5-04-78.czi #1.tif_registered.tif	wt_prometa_one_sister_labelled	0.496713613082372	1.023886	Fig. 1d, Fig EV1g, h
+220207_5389_WT_c2_rep2_prometa_60min_stlc_hemi_zoom5-04-78.czi #2.tif_registered.tif	wt_prometa_one_sister_labelled	0.560301701018752	0.856725	Fig. 1d, Fig EV1g, h
+220405_wt_prometa_rep2_hemi_stain_smc4_cycb1_zoom4_8-01-147.tif_registered.tif	wt_prometa_one_sister_labelled	0.465282216539087	1.106514	Fig. 1d, Fig EV1g, h
+220405_wt_prometa_rep2_hemi_stain_smc4_cycb1_zoom4_8-02-148.czi #1.tif_registered.tif	wt_prometa_one_sister_labelled	0.468265805818993	1.09867	Fig. 1d, Fig EV1g, h
+220405_wt_prometa_rep2_hemi_stain_smc4_cycb1_zoom4_8-02-148.czi #2.tif_registered.tif	wt_prometa_one_sister_labelled	0.468473842625057	1.098123	Fig. 1d, Fig EV1g, h
+220405_wt_prometa_rep2_hemi_stain_smc4_cycb1_zoom4_8-02-148.czi #4.tif_registered.tif	wt_prometa_one_sister_labelled	0.582010793297022	0.799656	Fig. 1d, Fig EV1g, h
+220405_wt_prometa_rep2_hemi_stain_smc4_cycb1_zoom4_8-02-148.czi #5.tif_registered.tif	wt_prometa_one_sister_labelled	0.523646304699141	0.953085	Fig. 1d, Fig EV1g, h
+220405_wt_prometa_rep2_hemi_stain_smc4_cycb1_zoom4_8-02-148.czi #6.tif_registered.tif	wt_prometa_one_sister_labelled	0.460037517980018	1.120301	Fig. 1d, Fig EV1g, h
+220405_wt_prometa_rep4_hemi_stain_smc4_cycb1_zoom4_8-02-150.czi #1.tif_registered.tif	wt_prometa_one_sister_labelled	0.584280285494506	0.79369	Fig. 1d, Fig EV1g, h
+220405_wt_prometa_rep4_hemi_stain_smc4_cycb1_zoom4_8-02-150.czi #2.tif_registered.tif	wt_prometa_one_sister_labelled	0.54870186239653	0.887219	Fig. 1d, Fig EV1g, h
+220405_wt_prometa_rep4_hemi_stain_smc4_cycb1_zoom4_8-02-150.czi #3.tif_registered.tif	wt_prometa_one_sister_labelled	0.442832455736437	1.16553	Fig. 1d, Fig EV1g, h
+220530_5517_WT_hemi_15h_G2_prometa_rep1_stlc-05-16-18.tif_registered.tif	wt_prometa_one_sister_labelled	0.50009702608537	1.014992	Fig. 1d, Fig EV1g, h
+220530_5517_WT_hemi_15h_G2_prometa_rep1_stlc-05-16-19.tif_registered.tif	wt_prometa_one_sister_labelled	0.48411217058117	1.057013	Fig. 1d, Fig EV1g, h
+220530_5517_WT_hemi_15h_G2_prometa_rep1_stlc-05-16-20.tif_registered.tif	wt_prometa_one_sister_labelled	0.577551874414551	0.811378	Fig. 1d, Fig EV1g, h
+220530_5517_WT_hemi_15h_G2_prometa_rep1_stlc-05-16-22.tif_registered.tif	wt_prometa_one_sister_labelled	0.474844183286219	1.081377	Fig. 1d, Fig EV1g, h
+220530_5517_WT_hemi_15h_G2_prometa_rep2_stlc-01-09-10.tif_registered.tif	wt_prometa_one_sister_labelled	0.454530969292517	1.134777	Fig. 1d, Fig EV1g, h
+220530_5517_WT_hemi_15h_G2_prometa_rep2_stlc-01-09-14.tif_registered.tif	wt_prometa_one_sister_labelled	0.436949261658041	1.180996	Fig. 1d, Fig EV1g, h
+220530_5517_WT_hemi_15h_G2_prometa_rep2_stlc-01-09-15.tif_registered.tif	wt_prometa_one_sister_labelled	0.480597043649744	1.066254	Fig. 1d, Fig EV1g, h
+220530_5517_WT_hemi_15h_G2_prometa_rep3_stlc-06-08.czi #1.tif_registered.tif	wt_prometa_one_sister_labelled	0.480879094231007	1.065512	Fig. 1d, Fig EV1g, h
+220530_5517_WT_hemi_15h_G2_prometa_rep3_stlc-06-08.czi #2.tif_registered.tif	wt_prometa_one_sister_labelled	0.390898395639478	1.302055	Fig. 1d, Fig EV1g, h
+220530_5517_WT_hemi_15h_G2_prometa_rep3_stlc-06-08.czi #3.tif_registered.tif	wt_prometa_one_sister_labelled	0.484587038039683	1.055765	Fig. 1d, Fig EV1g, h
+220530_5517_WT_hemi_15h_G2_prometa_rep3_stlc-06-08.czi #4.tif_registered.tif	wt_prometa_one_sister_labelled	0.379455751038982	1.332135	Fig. 1d, Fig EV1g, h
+220530_5517_WT_hemi_15h_G2_prometa_rep3_stlc-06-08.czi #6.tif_registered.tif	wt_prometa_one_sister_labelled	0.486950525394979	1.049552	Fig. 1d, Fig EV1g, h
+220530_5517_WT_hemi_15h_G2_prometa_rep4_stlc-05-07.czi #1.tif_registered.tif	wt_prometa_one_sister_labelled	0.422837322884626	1.218093	Fig. 1d, Fig EV1g, h
+220530_5517_WT_hemi_15h_G2_prometa_rep4_stlc-05-07.czi #3.tif_registered.tif	wt_prometa_one_sister_labelled	0.462085703942565	1.114917	Fig. 1d, Fig EV1g, h
+220530_5517_WT_hemi_15h_G2_prometa_rep4_stlc-05-07.czi #5.tif_registered.tif	wt_prometa_one_sister_labelled	0.479122678103443	1.07013	Fig. 1d, Fig EV1g, h
+220530_5517_WT_hemi_15h_G2_prometa_rep4_stlc-05-07.czi #6.tif_registered.tif	wt_prometa_one_sister_labelled	0.501561508577699	1.011142	Fig. 1d, Fig EV1g, h
+211110_5325_WT_15h_release_fully_zoom4_8_stain_scc1_cycb1_g2_rep1-02-53.czi #1.tif_registered.tif	wt_g2_two_sister_labelled	0.831572037770824	0.143607	Fig EV1i
+211110_5325_WT_15h_release_fully_zoom4_8_stain_scc1_cycb1_g2_rep1-02-53.czi #2.tif_registered.tif	wt_g2_two_sister_labelled	0.818534932151813	0.177879	Fig EV1i
+211110_5325_WT_15h_release_fully_zoom4_8_stain_scc1_cycb1_g2_rep1-02-53.czi #3.tif_registered.tif	wt_g2_two_sister_labelled	0.83854505719838	0.125276	Fig EV1i
+211110_5325_WT_15h_release_fully_zoom4_8_stain_scc1_cycb1_g2_rep1-03-54.tif_registered.tif	wt_g2_two_sister_labelled	0.849961647229152	0.095264	Fig EV1i
+211110_5325_WT_15h_release_fully_zoom4_8_stain_scc1_cycb1_g2_rep1-07-56.tif_registered.tif	wt_g2_two_sister_labelled	0.882655554387213	0.009318	Fig EV1i
+211110_5325_WT_15h_release_fully_zoom4_8_stain_scc1_cycb1_g2_rep2-02-38.czi #1.tif_registered.tif	wt_g2_two_sister_labelled	0.859896126844997	0.069148	Fig EV1i
+211110_5325_WT_15h_release_fully_zoom4_8_stain_scc1_cycb1_g2_rep2-04-39-40.tif_registered.tif	wt_g2_two_sister_labelled	0.816098630267415	0.184283	Fig EV1i
+211110_5325_WT_15h_release_fully_zoom4_8_stain_scc1_cycb1_g2_rep2-07-47-48.tif_registered.tif	wt_g2_two_sister_labelled	0.860476841727907	0.067621	Fig EV1i
+220126_5388_wt_c1_rep1_fully_G2_15h_release_zoom4_8-01-88-90.tif_registered.tif	wt_g2_two_sister_labelled	0.867494551257048	0.049173	Fig EV1i
+220126_5388_wt_c1_rep1_fully_G2_15h_release_zoom4_8-01-88-94.tif_registered.tif	wt_g2_two_sister_labelled	0.864506896963212	0.057027	Fig EV1i
+220126_5388_wt_c1_rep1_fully_G2_15h_release_zoom4_8-05-98.czi #1.tif_registered.tif	wt_g2_two_sister_labelled	0.87394656269279	0.032212	Fig EV1i
+220126_5388_wt_c1_rep2_fully_G2_15h_release_zoom4_8-03-81.tif_registered.tif	wt_g2_two_sister_labelled	0.883593175680337	0.006853	Fig EV1i
+220126_5388_wt_c2_rep1_fully_G2_15h_release_zoom4_8-02-79.czi #1.tif_registered.tif	wt_g2_two_sister_labelled	0.834748425580028	0.135257	Fig EV1i
+220126_5388_wt_c2_rep1_fully_G2_15h_release_zoom4_8-02-79.czi #2.tif_registered.tif	wt_g2_two_sister_labelled	0.885212769799721	0.002595	Fig EV1i
+220126_5388_wt_c2_rep1_fully_G2_15h_release_zoom4_8-02-79.czi #3.tif_registered.tif	wt_g2_two_sister_labelled	0.892099573843591	-0.01551	Fig EV1i
+220126_5388_wt_c2_rep1_fully_G2_15h_release_zoom4_8-02-79.czi #4.tif_registered.tif	wt_g2_two_sister_labelled	0.872068244145795	0.03715	Fig EV1i
+220126_5388_wt_c2_rep1_fully_G2_15h_release_zoom4_8-02-79.czi #5.tif_registered.tif	wt_g2_two_sister_labelled	0.856242422489085	0.078753	Fig EV1i
+220126_5388_wt_c2_rep1_fully_G2_15h_release_zoom4_8-03-80.czi #1.tif_registered.tif	wt_g2_two_sister_labelled	0.892663183475449	-0.01699	Fig EV1i
+220126_5388_wt_c2_rep1_fully_G2_15h_release_zoom4_8-03-80.czi #2.tif_registered.tif	wt_g2_two_sister_labelled	0.855505892211702	0.080689	Fig EV1i
+220126_5388_wt_c2_rep2_fully_G2_15h_release_zoom4_8-01-72.tif_registered.tif	wt_g2_two_sister_labelled	0.880372140713761	0.01532	Fig EV1i
+220126_5388_wt_c2_rep2_fully_G2_15h_release_zoom4_8-02-74.tif_registered.tif	wt_g2_two_sister_labelled	0.892149129024566	-0.01564	Fig EV1i
+220126_5388_wt_c2_rep2_fully_G2_15h_release_zoom4_8-03-75.czi #1.tif_registered.tif	wt_g2_two_sister_labelled	0.900070147903793	-0.03646	Fig EV1i
+220126_5388_wt_c2_rep2_fully_G2_15h_release_zoom4_8-03-75.czi #2.tif_registered.tif	wt_g2_two_sister_labelled	0.898293313560851	-0.03179	Fig EV1i
+220126_5388_wt_c2_rep2_fully_G2_15h_release_zoom4_8-05-76-78.tif_registered.tif	wt_g2_two_sister_labelled	0.904931796261884	-0.04924	Fig EV1i
+220601_5517_wt_fully_15h_release_g2_rep1_zoom4_8-02-49-50.tif_registered.tif	wt_g2_two_sister_labelled	0.812406705486035	0.193989	Fig EV1i
+220601_5517_wt_fully_15h_release_g2_rep1_zoom4_8-03-56.czi #1.tif_registered.tif	wt_g2_two_sister_labelled	0.899192060736828	-0.03415	Fig EV1i
+220601_5517_wt_fully_15h_release_g2_rep1_zoom4_8-03-56.czi #2.tif_registered.tif	wt_g2_two_sister_labelled	0.8514212790691	0.091427	Fig EV1i
+220601_5517_wt_fully_15h_release_g2_rep1_zoom4_8-03-56.czi #3.tif_registered.tif	wt_g2_two_sister_labelled	0.816696392791924	0.182712	Fig EV1i
+220601_5517_wt_fully_15h_release_g2_rep1_zoom4_8-04-57.czi #1.tif_registered.tif	wt_g2_two_sister_labelled	0.882883275271169	0.008719	Fig EV1i
+220601_5517_wt_fully_15h_release_g2_rep1_zoom4_8-04-57.czi #2.tif_registered.tif	wt_g2_two_sister_labelled	0.888670734292895	-0.0065	Fig EV1i
+220601_5517_wt_fully_15h_release_g2_rep1_zoom4_8-04-57.czi #3.tif_registered.tif	wt_g2_two_sister_labelled	0.840297538377545	0.120669	Fig EV1i
+220601_5517_wt_fully_15h_release_g2_rep1_zoom4_8-05-58.czi #1.tif_registered.tif	wt_g2_two_sister_labelled	0.840355945539717	0.120515	Fig EV1i
+220601_5517_wt_fully_15h_release_g2_rep1_zoom4_8-05-58.czi #2.tif_registered.tif	wt_g2_two_sister_labelled	0.862398050924094	0.062571	Fig EV1i
+220601_5517_wt_fully_15h_release_g2_rep1_zoom4_8-06-59.czi #1.tif_registered.tif	wt_g2_two_sister_labelled	0.912973746169311	-0.07038	Fig EV1i
+220601_5517_wt_fully_15h_release_g2_rep1_zoom4_8-06-59.czi #2.tif_registered.tif	wt_g2_two_sister_labelled	0.875378543739573	0.028448	Fig EV1i
+220601_5517_wt_fully_15h_release_g2_rep2_zoom4_8-01-60.czi #1.tif_registered.tif	wt_g2_two_sister_labelled	0.894884832655078	-0.02283	Fig EV1i
+220601_5517_wt_fully_15h_release_g2_rep2_zoom4_8-01-60.czi #2.tif_registered.tif	wt_g2_two_sister_labelled	0.883012535899068	0.008379	Fig EV1i
+220601_5517_wt_fully_15h_release_g2_rep2_zoom4_8-01-60.czi #3.tif_registered.tif	wt_g2_two_sister_labelled	0.875250544042745	0.028784	Fig EV1i
+220601_5517_wt_fully_15h_release_g2_rep2_zoom4_8-01-62.czi #1.tif_registered.tif	wt_g2_two_sister_labelled	0.871985611956382	0.037367	Fig EV1i
+220601_5517_wt_fully_15h_release_g2_rep2_zoom4_8-01-62.czi #3.tif_registered.tif	wt_g2_two_sister_labelled	0.876356624001592	0.025876	Fig EV1i
+220601_5517_wt_fully_15h_release_g2_rep2_zoom4_8-01-62.czi #4.tif_registered.tif	wt_g2_two_sister_labelled	0.900333153066454	-0.03715	Fig EV1i
+220601_5517_wt_fully_15h_release_g2_rep2_zoom4_8-02-61.czi #2.tif_registered.tif	wt_g2_two_sister_labelled	0.848782995747067	0.098362	Fig EV1i
+220601_5517_wt_fully_15h_release_g2_rep2_zoom4_8-02-61.czi #3.tif_registered.tif	wt_g2_two_sister_labelled	0.869392763565865	0.044183	Fig EV1i
+220601_5517_wt_fully_15h_release_g2_rep2_zoom4_8-02-61.czi #4.tif_registered.tif	wt_g2_two_sister_labelled	0.865251095163394	0.055071	Fig EV1i
+211108_5325_WT_12h_release_fully_30min_STLC_zoom5_stain_smc4_cycb1_prometa_rep2-01-10.czi #1.tif_registered.tif	wt_prometa_two_sister_labelled	0.914940949479008	-0.07555	Fig EV1g, h
+211108_5325_WT_12h_release_fully_30min_STLC_zoom5_stain_smc4_cycb1_prometa_rep2-01-10.czi #2.tif_registered.tif	wt_prometa_two_sister_labelled	0.9116187158971	-0.06682	Fig EV1g, h
+211108_5325_WT_12h_release_fully_30min_STLC_zoom5_stain_smc4_cycb1_prometa_rep2-01-10.czi #3.tif_registered.tif	wt_prometa_two_sister_labelled	0.912216209698638	-0.06839	Fig EV1g, h
+211108_5325_WT_12h_release_fully_60min_STLC_zoom5_stain_smc4_cycb1_prometa_rep1-02-08.czi #1.tif_registered.tif	wt_prometa_two_sister_labelled	0.901629310205168	-0.04056	Fig EV1g, h
+211108_5325_WT_12h_release_fully_60min_STLC_zoom5_stain_smc4_cycb1_prometa_rep1-02-08.czi #2.tif_registered.tif	wt_prometa_two_sister_labelled	0.917336282992332	-0.08185	Fig EV1g, h
+211108_5325_WT_12h_release_fully_60min_STLC_zoom5_stain_smc4_cycb1_prometa_rep1-02-08.czi #3.tif_registered.tif	wt_prometa_two_sister_labelled	0.924234310527503	-0.09999	Fig EV1g, h
+211108_5325_WT_12h_release_fully_60min_STLC_zoom5_stain_smc4_cycb1_prometa_rep1-02-08.czi #4.tif_registered.tif	wt_prometa_two_sister_labelled	0.923097627289719	-0.097	Fig EV1g, h
+211108_5325_WT_12h_release_fully_60min_STLC_zoom5_stain_smc4_cycb1_prometa_rep1-02-08.czi #6.tif_registered.tif	wt_prometa_two_sister_labelled	0.916849773072196	-0.08057	Fig EV1g, h
+211108_5325_WT_12h_release_fully_60min_STLC_zoom5_stain_smc4_cycb1_prometa_rep1-02-08.czi #7.tif_registered.tif	wt_prometa_two_sister_labelled	0.931502562239284	-0.11909	Fig EV1g, h
+211108_5325_WT_12h_release_fully_60min_STLC_zoom5_stain_smc4_cycb1_prometa_rep1-02-08.czi #8.tif_registered.tif	wt_prometa_two_sister_labelled	0.916018219491758	-0.07839	Fig EV1g, h
+211108_5325_WT_12h_release_fully_60min_STLC_zoom5_stain_smc4_cycb1_prometa_rep2-03-07..czi #2.tif_registered.tif	wt_prometa_two_sister_labelled	0.921523784435193	-0.09286	Fig EV1g, h
+211108_5325_WT_12h_release_fully_60min_STLC_zoom5_stain_smc4_cycb1_prometa_rep2-03-07.czi #1.tif_registered.tif	wt_prometa_two_sister_labelled	0.917421630776623	-0.08208	Fig EV1g, h
+211108_5325_WT_12h_release_fully_60min_STLC_zoom5_stain_smc4_cycb1_prometa_rep2-03-07.czi #5.tif_registered.tif	wt_prometa_two_sister_labelled	0.900366012782664	-0.03724	Fig EV1g, h
+211108_5325_WT_12h_release_fully_60min_STLC_zoom5_stain_smc4_cycb1_prometa_rep2-03-07.czi #6.tif_registered.tif	wt_prometa_two_sister_labelled	0.908852194061281	-0.05955	Fig EV1g, h
+211108_5325_WT_12h_release_fully_60min_STLC_zoom5_stain_smc4_cycb1_prometa_rep2-03-07.czi #7.tif_registered.tif	wt_prometa_two_sister_labelled	0.880617277556418	0.014676	Fig EV1g, h
+220207_5389_WT_c1_rep1_prometa_60min_stlc_fully_zoom5-06-06.tif_registered.tif	wt_prometa_two_sister_labelled	0.850878408351264	0.092854	Fig EV1g, h
+220207_5389_WT_c1_rep1_prometa_60min_stlc_fully_zoom5-07-07-08.tif_registered.tif	wt_prometa_two_sister_labelled	0.891488492542013	-0.0139	Fig EV1g, h
+220207_5389_WT_c1_rep1_prometa_60min_stlc_fully_zoom5-09-10.czi #1.tif_registered.tif	wt_prometa_two_sister_labelled	0.896098890668523	-0.02602	Fig EV1g, h
+220207_5389_WT_c1_rep1_prometa_60min_stlc_fully_zoom5-09-10.czi #2.tif_registered.tif	wt_prometa_two_sister_labelled	0.883677368430388	0.006632	Fig EV1g, h
+220207_5389_WT_c1_rep1_prometa_60min_stlc_fully_zoom5-09-10.czi #3.tif_registered.tif	wt_prometa_two_sister_labelled	0.859965253076081	0.068966	Fig EV1g, h
+220207_5389_WT_c1_rep1_prometa_60min_stlc_fully_zoom5-09-10.czi #4.tif_registered.tif	wt_prometa_two_sister_labelled	0.880226953747483	0.015702	Fig EV1g, h
+220207_5389_WT_c1_rep2_prometa_60min_stlc_fully_zoom5-01-13-14.tif_registered.tif	wt_prometa_two_sister_labelled	0.894036802851069	-0.0206	Fig EV1g, h
+220207_5389_WT_c1_rep2_prometa_60min_stlc_fully_zoom5-01-13-15.tif_registered.tif	wt_prometa_two_sister_labelled	0.880007547463228	0.016279	Fig EV1g, h
+220207_5389_WT_c1_rep2_prometa_60min_stlc_fully_zoom5-02-23.czi #1.tif_registered.tif	wt_prometa_two_sister_labelled	0.872886384422441	0.034999	Fig EV1g, h
+220207_5389_WT_c1_rep2_prometa_60min_stlc_fully_zoom5-02-23.czi #2.tif_registered.tif	wt_prometa_two_sister_labelled	0.907519295374657	-0.05604	Fig EV1g, h
+220207_5389_WT_c1_rep2_prometa_60min_stlc_fully_zoom5-02-23.czi #3.tif_registered.tif	wt_prometa_two_sister_labelled	0.923065549059962	-0.09691	Fig EV1g, h
+220207_5389_WT_c1_rep2_prometa_60min_stlc_fully_zoom5-02-23.czi #4.tif_registered.tif	wt_prometa_two_sister_labelled	0.89260239212286	-0.01683	Fig EV1g, h
+220207_5389_WT_c1_rep2_prometa_60min_stlc_fully_zoom5-02-23.czi #5.tif_registered.tif	wt_prometa_two_sister_labelled	0.891740750757236	-0.01457	Fig EV1g, h
+220207_5389_WT_c1_rep2_prometa_60min_stlc_fully_zoom5-02-23.czi #6.tif_registered.tif	wt_prometa_two_sister_labelled	0.836242794786256	0.131328	Fig EV1g, h
+220207_5389_WT_c2_rep1_prometa_60min_stlc_fully_zoom5-01-24.czi #1.tif_registered.tif	wt_prometa_two_sister_labelled	0.906411492231736	-0.05313	Fig EV1g, h
+220207_5389_WT_c2_rep1_prometa_60min_stlc_fully_zoom5-01-24.czi #2.tif_registered.tif	wt_prometa_two_sister_labelled	0.890605538597392	-0.01158	Fig EV1g, h
+220207_5389_WT_c2_rep1_prometa_60min_stlc_fully_zoom5-01-24.czi #3.tif_registered.tif	wt_prometa_two_sister_labelled	0.864723042930841	0.056459	Fig EV1g, h
+220207_5389_WT_c2_rep1_prometa_60min_stlc_fully_zoom5-01-24.czi #4.tif_registered.tif	wt_prometa_two_sister_labelled	0.804714474714866	0.21421	Fig EV1g, h
+220207_5389_WT_c2_rep1_prometa_60min_stlc_fully_zoom5-01-24.czi #5.tif_registered.tif	wt_prometa_two_sister_labelled	0.849986008656731	0.0952	Fig EV1g, h
+220207_5389_WT_c2_rep1_prometa_60min_stlc_fully_zoom5-01-24.czi #6.tif_registered.tif	wt_prometa_two_sister_labelled	0.866239453834721	0.052473	Fig EV1g, h
+220207_5389_WT_c2_rep1_prometa_60min_stlc_fully_zoom5-01-24.czi #7.tif_registered.tif	wt_prometa_two_sister_labelled	0.90615198739124	-0.05245	Fig EV1g, h
+220207_5389_WT_c2_rep2_prometa_60min_stlc_fully_zoom5-03-25.czi #1.tif_registered.tif	wt_prometa_two_sister_labelled	0.848860311295762	0.098159	Fig EV1g, h
+220207_5389_WT_c2_rep2_prometa_60min_stlc_fully_zoom5-03-25.czi #2.tif_registered.tif	wt_prometa_two_sister_labelled	0.845103417725149	0.108035	Fig EV1g, h
+220207_5389_WT_c2_rep2_prometa_60min_stlc_fully_zoom5-03-25.czi #4.tif_registered.tif	wt_prometa_two_sister_labelled	0.859921962930349	0.06908	Fig EV1g, h
+220207_5389_WT_c2_rep2_prometa_60min_stlc_fully_zoom5-03-25.czi #5.tif_registered.tif	wt_prometa_two_sister_labelled	0.846744199344254	0.103722	Fig EV1g, h
+220207_5389_WT_c2_rep2_prometa_60min_stlc_fully_zoom5-03-25.czi #6.tif_registered.tif	wt_prometa_two_sister_labelled	0.89817244867031	-0.03147	Fig EV1g, h
+220207_5389_WT_c2_rep2_prometa_60min_stlc_fully_zoom5-03-25.czi #7.tif_registered.tif	wt_prometa_two_sister_labelled	0.889185764046759	-0.00785	Fig EV1g, h
+220207_5389_WT_c2_rep2_prometa_60min_stlc_fully_zoom5-03-25.czi #8.tif_registered.tif	wt_prometa_two_sister_labelled	0.88829965216827	-0.00552	Fig EV1g, h
+220207_5389_WT_c2_rep2_prometa_60min_stlc_fully_zoom5-03-25.czi #9.tif_registered.tif	wt_prometa_two_sister_labelled	0.849061988181836	0.097629	Fig EV1g, h
+220530_5517_WT_fully_prometa_rep1_stlc-04-68-02.czi #1.tif_registered.tif	wt_prometa_two_sister_labelled	0.883347958328385	0.007497	Fig EV1g, h
+220530_5517_WT_fully_prometa_rep1_stlc-04-68-02.czi #2.tif_registered.tif	wt_prometa_two_sister_labelled	0.911124885728888	-0.06552	Fig EV1g, h
+220530_5517_WT_fully_prometa_rep1_stlc-04-68-02.czi #3.tif_registered.tif	wt_prometa_two_sister_labelled	0.91416450175583	-0.07351	Fig EV1g, h
+220530_5517_WT_fully_prometa_rep1_stlc-04-68-02.czi #4.tif_registered.tif	wt_prometa_two_sister_labelled	0.90528344045095	-0.05017	Fig EV1g, h
+220530_5517_WT_fully_prometa_rep1_stlc-05-03.tif_registered.tif	wt_prometa_two_sister_labelled	0.891371854045156	-0.0136	Fig EV1g, h
+220530_5517_WT_fully_prometa_rep2_stlc-01-68-04.czi #1.tif_registered.tif	wt_prometa_two_sister_labelled	0.843605274822349	0.111974	Fig EV1g, h
+220530_5517_WT_fully_prometa_rep2_stlc-01-68-04.czi #2.tif_registered.tif	wt_prometa_two_sister_labelled	0.851207997433328	0.091987	Fig EV1g, h
+220530_5517_WT_fully_prometa_rep2_stlc-01-68-04.czi #3.tif_registered.tif	wt_prometa_two_sister_labelled	0.88060408545709	0.014711	Fig EV1g, h
+220530_5517_WT_fully_prometa_rep2_stlc-01-68-04.czi #4.tif_registered.tif	wt_prometa_two_sister_labelled	0.850828518309049	0.092985	Fig EV1g, h
+220530_5517_WT_fully_prometa_rep2_stlc-01-68-04.czi #5.tif_registered.tif	wt_prometa_two_sister_labelled	0.893920073082623	-0.02029	Fig EV1g, h
+220530_5517_WT_fully_prometa_rep3_stlc-01-68_05.czi #1.tif_registered.tif	wt_prometa_two_sister_labelled	0.892206495825018	-0.01579	Fig EV1g, h
+220530_5517_WT_fully_prometa_rep3_stlc-01-68_05.czi #3.tif_registered.tif	wt_prometa_two_sister_labelled	0.905832756224959	-0.05161	Fig EV1g, h
+220530_5517_WT_fully_prometa_rep4_stlc-01-06.czi #2.tif_registered.tif	wt_prometa_two_sister_labelled	0.848077954267258	0.100216	Fig EV1g, h
+220530_5517_WT_fully_prometa_rep4_stlc-01-06.czi #3.tif_registered.tif	wt_prometa_two_sister_labelled	0.868974824660743	0.045282	Fig EV1g, h
+220530_5517_WT_fully_prometa_rep4_stlc-01-06.czi #4.tif_registered.tif	wt_prometa_two_sister_labelled	0.871176858735271	0.039493	Fig EV1g, h
+211108_5325_WT_12h_release_hemi_noRO_zoom4_8_stain_scc1_cycb1_g2_rep1-03-21.czi #1.tif_registered.tif	wt_g2_one_sister_labelled_no_ro3306	0.726820735661264	0.418978	Fig. EV2f
+211108_5325_WT_12h_release_hemi_noRO_zoom4_8_stain_scc1_cycb1_g2_rep1-03-21.czi #2.tif_registered.tif	wt_g2_one_sister_labelled_no_ro3306	0.777412464382	0.285982	Fig. EV2f
+211108_5325_WT_12h_release_hemi_noRO_zoom4_8_stain_scc1_cycb1_g2_rep1-03-21.czi #3.tif_registered.tif	wt_g2_one_sister_labelled_no_ro3306	0.789948743097557	0.253026	Fig. EV2f
+211108_5325_WT_12h_release_hemi_noRO_zoom4_8_stain_scc1_cycb1_g2_rep1-03-21.czi #4.tif_registered.tif	wt_g2_one_sister_labelled_no_ro3306	0.818823877067563	0.177119	Fig. EV2f
+211108_5325_WT_12h_release_hemi_noRO_zoom4_8_stain_scc1_cycb1_g2_rep1-03-21.czi #6.tif_registered.tif	wt_g2_one_sister_labelled_no_ro3306	0.754168349342996	0.347086	Fig. EV2f
+211108_5325_WT_12h_release_hemi_noRO_zoom4_8_stain_scc1_cycb1_g2_rep1-19-20.czi #1.tif_registered.tif	wt_g2_one_sister_labelled_no_ro3306	0.784006390395549	0.268648	Fig. EV2f
+211108_5325_WT_12h_release_hemi_noRO_zoom4_8_stain_scc1_cycb1_g2_rep1-19-20.czi #2.tif_registered.tif	wt_g2_one_sister_labelled_no_ro3306	0.778300708265694	0.283647	Fig. EV2f
+211108_5325_WT_12h_release_hemi_noRO_zoom4_8_stain_scc1_cycb1_g2_rep2-08-23.tif_registered.tif	wt_g2_one_sister_labelled_no_ro3306	0.649245926988492	0.622908	Fig. EV2f
+211108_5325_WT_12h_release_hemi_noRO_zoom4_8_stain_scc1_cycb1g2_rep2-07-22.czi #1.tif_registered.tif	wt_g2_one_sister_labelled_no_ro3306	0.781645294853535	0.274855	Fig. EV2f
+211108_5325_WT_12h_release_hemi_noRO_zoom4_8_stain_scc1_cycb1g2_rep2-07-22.czi #2.tif_registered.tif	wt_g2_one_sister_labelled_no_ro3306	0.782896819154796	0.271565	Fig. EV2f
+211108_5325_WT_12h_release_hemi_noRO_zoom4_8_stain_scc1_cycb1g2_rep2-07-22.czi #3.tif_registered.tif	wt_g2_one_sister_labelled_no_ro3306	0.776562981034986	0.288215	Fig. EV2f
+211108_5325_WT_12h_release_hemi_noRO_zoom4_8_stain_scc1_cycb1g2_rep2-07-22.czi #4.tif_registered.tif	wt_g2_one_sister_labelled_no_ro3306	0.726872103363531	0.418843	Fig. EV2f
+211108_5325_WT_12h_release_hemi_noRO_zoom4_8_stain_scc1_cycb1g2_rep2-07-22.czi #5.tif_registered.tif	wt_g2_one_sister_labelled_no_ro3306	0.746404998424081	0.367495	Fig. EV2f
+211108_5325_WT_12h_release_hemi_noRO_zoom4_8_stain_scc1_cycb1g2_rep2-07-22.czi #6.tif_registered.tif	wt_g2_one_sister_labelled_no_ro3306	0.707792635408397	0.468999	Fig. EV2f
+211108_5325_WT_12h_release_hemi_noRO_zoom4_8_stain_scc1_cycb1g2_rep2-07-22.czi #8.tif_registered.tif	wt_g2_one_sister_labelled_no_ro3306	0.730555030402474	0.409161	Fig. EV2f
+211108_5325_WT_12h_release_hemi_noRO_zoom4_8_stain_scc1_cycb1g2_rep2-07-22.czi #9.tif_registered.tif	wt_g2_one_sister_labelled_no_ro3306	0.658975976868636	0.597329	Fig. EV2f
+220202_5388_2056_smc4_dep_c1_rep1_fully_zoom4_8-01-142.czi #1.tif_registered.tif	smc4_dep_g2_two_sister_labelled	0.834685413937241	0.135422	Fig EV3h
+220202_5388_2056_smc4_dep_c1_rep1_fully_zoom4_8-01-142.czi #2.tif_registered.tif	smc4_dep_g2_two_sister_labelled	0.88382612899556	0.00624	Fig EV3h
+220202_5388_2056_smc4_dep_c1_rep1_fully_zoom4_8-01-142.czi #3.tif_registered.tif	smc4_dep_g2_two_sister_labelled	0.844709152214654	0.109072	Fig EV3h
+220202_5388_2056_smc4_dep_c1_rep1_fully_zoom4_8-02-43.tif_registered.tif	smc4_dep_g2_two_sister_labelled	0.813872095191324	0.190136	Fig EV3h
+220202_5388_2056_smc4_dep_c1_rep2_fully_zoom4_8-02-141.czi #1.tif_registered.tif	smc4_dep_g2_two_sister_labelled	0.887472245855542	-0.00334	Fig EV3h
+220202_5388_2056_smc4_dep_c1_rep2_fully_zoom4_8-02-141.czi #2.tif_registered.tif	smc4_dep_g2_two_sister_labelled	0.85911581341155	0.071199	Fig EV3h
+220202_5388_2056_smc4_dep_c1_rep2_fully_zoom4_8-02-141.czi #3.tif_registered.tif	smc4_dep_g2_two_sister_labelled	0.882795003174015	0.008951	Fig EV3h
+220202_5388_2056_smc4_dep_c1_rep2_fully_zoom4_8-02-141.czi #4.tif_registered.tif	smc4_dep_g2_two_sister_labelled	0.876408539079851	0.02574	Fig EV3h
+220202_5388_2056_smc4_dep_c2_rep1_fully_zoom4_8-01-135.tif_registered.tif	smc4_dep_g2_two_sister_labelled	0.822865361215736	0.166495	Fig EV3h
+220202_5388_2056_smc4_dep_c2_rep1_fully_zoom4_8-02-136.tif_registered.tif	smc4_dep_g2_two_sister_labelled	0.904139918983023	-0.04716	Fig EV3h
+220202_5388_2056_smc4_dep_c2_rep1_fully_zoom4_8-03-137.tif_registered.tif	smc4_dep_g2_two_sister_labelled	0.854723860388987	0.082745	Fig EV3h
+220202_5388_2056_smc4_dep_c2_rep1_fully_zoom4_8-05-138.tif_registered.tif	smc4_dep_g2_two_sister_labelled	0.902799946604095	-0.04364	Fig EV3h
+220202_5388_2056_smc4_dep_c2_rep1_fully_zoom4_8-06-139.tif_registered.tif	smc4_dep_g2_two_sister_labelled	0.875694802986928	0.027616	Fig EV3h
+220202_5388_2056_smc4_dep_c2_rep2_fully_zoom4_8-01-134.czi #1.tif_registered.tif	smc4_dep_g2_two_sister_labelled	0.871093202608082	0.039713	Fig EV3h
+220202_5388_2056_smc4_dep_c2_rep2_fully_zoom4_8-01-134.czi #2.tif_registered.tif	smc4_dep_g2_two_sister_labelled	0.867655021559767	0.048751	Fig EV3h
+220202_5388_2056_smc4_dep_c2_rep2_fully_zoom4_8-02-133.czi #1.tif_registered.tif	smc4_dep_g2_two_sister_labelled	0.891895829961429	-0.01497	Fig EV3h
+220202_5388_2056_smc4_dep_c2_rep2_fully_zoom4_8-02-133.czi #3.tif_registered.tif	smc4_dep_g2_two_sister_labelled	0.822263529936582	0.168077	Fig EV3h
+220531_5517_2056_SMC4_dep_g2_15h_fully_rep1-03-38.czi #2.tif_registered.tif	smc4_dep_g2_two_sister_labelled	0.809751331822264	0.200969	Fig EV3h
+220531_5517_2056_SMC4_dep_g2_15h_fully_rep1-04-39.tif_registered.tif	smc4_dep_g2_two_sister_labelled	0.855258241208905	0.08134	Fig EV3h
+5275_2056_smc4_depleted_fully_prometa_30min_stlc_zoom5_rep1-01-14.czi #1.tif_registered.tif	smc4_dep_prometa_two_sister_labelled	0.889390456226302	-0.00839	Fig EV3g
+5275_2056_smc4_depleted_fully_prometa_30min_stlc_zoom5_rep1-01-14.czi #2.tif_registered.tif	smc4_dep_prometa_two_sister_labelled	0.877166284240549	0.023748	Fig EV3g
+5275_2056_smc4_depleted_fully_prometa_30min_stlc_zoom5_rep1-01-14.czi #4.tif_registered.tif	smc4_dep_prometa_two_sister_labelled	0.908112341235891	-0.0576	Fig EV3g
+5275_2056_smc4_depleted_fully_prometa_30min_stlc_zoom5_rep1-02-15.tif_registered.tif	smc4_dep_prometa_two_sister_labelled	0.887299607318404	-0.00289	Fig EV3g
+5275_2056_smc4_depleted_fully_prometa_30min_stlc_zoom5_rep2-01-13.czi #1.tif_registered.tif	smc4_dep_prometa_two_sister_labelled	0.879388646350751	0.017906	Fig EV3g
+5275_2056_smc4_depleted_fully_prometa_30min_stlc_zoom5_rep2-01-13.czi #2.tif_registered.tif	smc4_dep_prometa_two_sister_labelled	0.890947681881534	-0.01248	Fig EV3g
+5275_2056_smc4_depleted_fully_prometa_30min_stlc_zoom5_rep2-01-13.czi #3.tif_registered.tif	smc4_dep_prometa_two_sister_labelled	0.869030641461914	0.045135	Fig EV3g
+5275_2056_smc4_depleted_fully_prometa_30min_stlc_zoom5_rep2-01-13.czi #4.tif_registered.tif	smc4_dep_prometa_two_sister_labelled	0.872224497132289	0.036739	Fig EV3g
+5275_2056_smc4_depleted_fully_prometa_30min_stlc_zoom5_rep2-01-13.czi #5.tif_registered.tif	smc4_dep_prometa_two_sister_labelled	0.875880948429653	0.027127	Fig EV3g
+5275_2056_smc4_depleted_fully_prometa_30min_stlc_zoom5_rep2-01-13.czi #6.tif_registered.tif	smc4_dep_prometa_two_sister_labelled	0.912710521266681	-0.06969	Fig EV3g
+220124_5388_2056_c1_smc4_depleted_rep1_prometa_60min_15h_release_fully_zoom5-01-88-90.tif_registered.tif	smc4_dep_prometa_two_sister_labelled	0.89475077395152	-0.02248	Fig EV3g
+220124_5388_2056_c1_smc4_depleted_rep1_prometa_60min_15h_release_fully_zoom5-02-97-98.tif_registered.tif	smc4_dep_prometa_two_sister_labelled	0.869528678228109	0.043826	Fig EV3g
+220124_5388_2056_c1_smc4_depleted_rep1_prometa_60min_15h_release_fully_zoom5-02-97-99.tif_registered.tif	smc4_dep_prometa_two_sister_labelled	0.879687237530398	0.017121	Fig EV3g
+220124_5388_2056_c2_smc4_depleted_rep1_prometa_60min_15h_release_fully_zoom5-01-02.czi #1.tif_registered.tif	smc4_dep_prometa_two_sister_labelled	0.883237792366816	0.007787	Fig EV3g
+220124_5388_2056_c2_smc4_depleted_rep1_prometa_60min_15h_release_fully_zoom5-01-02.czi #3.tif_registered.tif	smc4_dep_prometa_two_sister_labelled	0.88851984021706	-0.0061	Fig EV3g
+220124_5388_2056_c2_smc4_depleted_rep1_prometa_60min_15h_release_fully_zoom5-01-02.czi #4.tif_registered.tif	smc4_dep_prometa_two_sister_labelled	0.910905422469369	-0.06495	Fig EV3g
+220124_5388_2056_c2_smc4_depleted_rep1_prometa_60min_15h_release_fully_zoom5-01-02.czi #5.tif_registered.tif	smc4_dep_prometa_two_sister_labelled	0.91241534516406	-0.06892	Fig EV3g
+220124_5388_2056_c2_smc4_depleted_rep2_prometa_60min_15h_release_fully_zoom5-02-03.czi #1.tif_registered.tif	smc4_dep_prometa_two_sister_labelled	0.86733273323292	0.049598	Fig EV3g
+220124_5388_2056_c2_smc4_depleted_rep2_prometa_60min_15h_release_fully_zoom5-02-03.czi #2.tif_registered.tif	smc4_dep_prometa_two_sister_labelled	0.898192329382152	-0.03153	Fig EV3g
+220124_5388_2056_c2_smc4_depleted_rep2_prometa_60min_15h_release_fully_zoom5-02-03.czi #3.tif_registered.tif	smc4_dep_prometa_two_sister_labelled	0.904581499179922	-0.04832	Fig EV3g
+220124_5388_2056_c2_smc4_depleted_rep2_prometa_60min_15h_release_fully_zoom5-02-03.czi #4.tif_registered.tif	smc4_dep_prometa_two_sister_labelled	0.865578135650851	0.054211	Fig EV3g
+220530_5517_2056_smc4_dep_15h_g2_fully_stlc_rep1-01-70.czi #2.tif_registered.tif	smc4_dep_prometa_two_sister_labelled	0.85966347626503	0.06976	Fig EV3g
+220530_5517_2056_smc4_dep_15h_g2_fully_stlc_rep1-01-70.czi #5.tif_registered.tif	smc4_dep_prometa_two_sister_labelled	0.874260070344651	0.031388	Fig EV3g
+220530_5517_2056_smc4_dep_15h_g2_fully_stlc_rep1-01-70.czi #7.tif_registered.tif	smc4_dep_prometa_two_sister_labelled	0.905938175101108	-0.05189	Fig EV3g
+220530_5517_2056_smc4_dep_15h_g2_fully_stlc_rep1-01-70.czi #8.tif_registered.tif	smc4_dep_prometa_two_sister_labelled	0.851056121602531	0.092387	Fig EV3g
+220530_5517_2056_smc4_dep_15h_g2_fully_stlc_rep1-01-70.czi #9.tif_registered.tif	smc4_dep_prometa_two_sister_labelled	0.864514532453369	0.057007	Fig EV3g
+220207_5389_2045_nipbl_dep_c1_rep1_60min_stlc_fully_zoom5-03-01.czi #1.tif_registered.tif	nipbl_dep_prometa_two_sister_labelled	0.92792131543517	-0.10968	Fig EV4g
+220207_5389_2045_nipbl_dep_c1_rep1_60min_stlc_fully_zoom5-03-01.czi #2.tif_registered.tif	nipbl_dep_prometa_two_sister_labelled	0.901223217002697	-0.03949	Fig EV4g
+220207_5389_2045_nipbl_dep_c1_rep1_60min_stlc_fully_zoom5-03-01.czi #3.tif_registered.tif	nipbl_dep_prometa_two_sister_labelled	0.905506886348592	-0.05075	Fig EV4g
+220207_5389_2045_nipbl_dep_c1_rep1_60min_stlc_fully_zoom5-03-01.czi #4.tif_registered.tif	nipbl_dep_prometa_two_sister_labelled	0.902426651660205	-0.04266	Fig EV4g
+220207_5389_2045_nipbl_dep_c1_rep2_60min_stlc_fully_zoom5-02.czi #1.tif_registered.tif	nipbl_dep_prometa_two_sister_labelled	0.905204522538822	-0.04996	Fig EV4g
+220207_5389_2045_nipbl_dep_c1_rep2_60min_stlc_fully_zoom5-02.czi #2.tif_registered.tif	nipbl_dep_prometa_two_sister_labelled	0.871447562962442	0.038781	Fig EV4g
+220207_5389_2045_nipbl_dep_c1_rep2_60min_stlc_fully_zoom5-02.czi #3.tif_registered.tif	nipbl_dep_prometa_two_sister_labelled	0.931550716921583	-0.11922	Fig EV4g
+220207_5389_2045_nipbl_dep_c1_rep2_60min_stlc_fully_zoom5-02.czi #4.tif_registered.tif	nipbl_dep_prometa_two_sister_labelled	0.934495580370761	-0.12696	Fig EV4g
+220207_5389_2045_nipbl_dep_c2_rep1_60min_stlc_fully_zoom5-01-03.czi #1.tif_registered.tif	nipbl_dep_prometa_two_sister_labelled	0.922247174325023	-0.09476	Fig EV4g
+220207_5389_2045_nipbl_dep_c2_rep1_60min_stlc_fully_zoom5-01-03.czi #2.tif_registered.tif	nipbl_dep_prometa_two_sister_labelled	0.924589965889415	-0.10092	Fig EV4g
+220207_5389_2045_nipbl_dep_c2_rep1_60min_stlc_fully_zoom5-03-04.tif_registered.tif	nipbl_dep_prometa_two_sister_labelled	0.941109644075985	-0.14435	Fig EV4g
+220207_5389_2045_nipbl_dep_c2_rep1_60min_stlc_fully_zoom5-04-05.tif_registered.tif	nipbl_dep_prometa_two_sister_labelled	0.856255169045708	0.078719	Fig EV4g
+220207_5389_2045_nipbl_dep_c2_rep2_60min_stlc_fully_zoom5--01-06.czi #1.tif_registered.tif	nipbl_dep_prometa_two_sister_labelled	0.875433326589056	0.028304	Fig EV4g
+220207_5389_2045_nipbl_dep_c2_rep2_60min_stlc_fully_zoom5--01-06.czi #2.tif_registered.tif	nipbl_dep_prometa_two_sister_labelled	0.912019120945062	-0.06787	Fig EV4g
+220207_5389_2045_nipbl_dep_c2_rep2_60min_stlc_fully_zoom5--01-06.czi #3.tif_registered.tif	nipbl_dep_prometa_two_sister_labelled	0.896426012058312	-0.02688	Fig EV4g
+220207_5389_2045_nipbl_dep_c2_rep2_60min_stlc_fully_zoom5--01-06.czi #4.tif_registered.tif	nipbl_dep_prometa_two_sister_labelled	0.916461860250345	-0.07955	Fig EV4g
+220207_5389_2045_nipbl_dep_c2_rep2_60min_stlc_fully_zoom5--01-06.czi #5.tif_registered.tif	nipbl_dep_prometa_two_sister_labelled	0.879247520659369	0.018277	Fig EV4g
+220919_5618_2045_nipbl_dep_fully_prometa_60min_stlc_cycb1_zoom5_rep1-01-38.czi #1.tif_registered.tif	nipbl_dep_prometa_two_sister_labelled	0.919183663507644	-0.08671	Fig EV4g
+220919_5618_2045_nipbl_dep_fully_prometa_60min_stlc_cycb1_zoom5_rep1-01-38.czi #2.tif_registered.tif	nipbl_dep_prometa_two_sister_labelled	0.904484388037719	-0.04807	Fig EV4g
+220919_5618_2045_nipbl_dep_fully_prometa_60min_stlc_cycb1_zoom5_rep1-01-38.czi #3.tif_registered.tif	nipbl_dep_prometa_two_sister_labelled	0.847620383291313	0.101419	Fig EV4g
+220919_5618_2045_nipbl_dep_fully_prometa_60min_stlc_cycb1_zoom5_rep1-01-38.czi #4.tif_registered.tif	nipbl_dep_prometa_two_sister_labelled	0.888083617042067	-0.00495	Fig EV4g
+220919_5618_2045_nipbl_dep_fully_prometa_60min_stlc_cycb1_zoom5_rep1-01-38.czi #5.tif_registered.tif	nipbl_dep_prometa_two_sister_labelled	0.880361084560334	0.015349	Fig EV4g
+220919_5618_2045_nipbl_dep_fully_prometa_60min_stlc_cycb1_zoom5_rep2-01-37.czi #4.tif_registered.tif	nipbl_dep_prometa_two_sister_labelled	0.877562828452537	0.022705	Fig EV4g
+220919_5618_2045_nipbl_dep_fully_prometa_60min_stlc_cycb1_zoom5_rep2-01-37.czi #5.tif_registered.tif	nipbl_dep_prometa_two_sister_labelled	0.898144557261958	-0.0314	Fig EV4g
+5163_NIPBL_G2_depletion_fully_plus_auxin_rep2-05-30.czi #1.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.910050107351992	-0.0627	Fig EV4h
+5163_NIPBL_G2_depletion_fully_plus_auxin_rep2-05-30.czi #2.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.89898541912088	-0.03361	Fig EV4h
+5163_NIPBL_G2_depletion_fully_plus_auxin_rep2-05-30.czi #3.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.847602219285411	0.101466	Fig EV4h
+5163_NIPBL_G2_depletion_fully_plus_auxin_rep2-05-30.czi #4.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.901939182675791	-0.04138	Fig EV4h
+5163_NIPBL_G2_depletion_fully_plus_auxin_rep2-06-31.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.905149816460354	-0.04982	Fig EV4h
+5163_NIPBL_G2_depletion_fully_plus_auxin_rep2-07-32.czi #1.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.895356086085716	-0.02407	Fig EV4h
+5163_NIPBL_G2_depletion_fully_plus_auxin_rep2-07-32.czi #2.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.872265988505692	0.03663	Fig EV4h
+5163_NIPBL_G2_depletion_fully_plus_auxin_rep2-07-32.czi #3.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.860152296622807	0.068475	Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_fully_zoom4_8_sstain_scc1_cycb1_g2_rep1-04-37.czi #2.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.842880823342647	0.113878	Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_fully_zoom4_8_sstain_scc1_cycb1_g2_rep1-04-37.czi #3.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.850936499444503	0.092701	Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_fully_zoom4_8_sta...c1_cycb1_g2_rep1-02-27-29.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.839011683598882	0.124049	Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_fully_zoom4_8_sta...c1_cycb1_g2_rep1-02-27-31.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.854937536621959	0.082183	Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_fully_zoom4_8_sta...c1_cycb1_g2_rep2-02-17-18.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.857528888189778	0.075371	Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_fully_zoom4_8_sta...c1_cycb1_g2_rep2-02-17-20.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.862274806751475	0.062895	Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_fully_zoom4_8_sta...c1_cycb1_g2_rep2-02-17-21.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.834082866829279	0.137006	Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_fully_zoom4_8_stain_scc1_cycb1_g2_rep1-01-26.czi #1.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.863052420524491	0.060851	Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_fully_zoom4_8_stain_scc1_cycb1_g2_rep1-01-26.czi #2.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.868733012271368	0.045917	Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_fully_zoom4_8_stain_scc1_cycb1_g2_rep1-01-26.czi #3.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.847454292447524	0.101855	Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_fully_zoom4_8_stain_scc1_cycb1_g2_rep1-03-36.czi #1.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.811557317758835	0.196222	Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_fully_zoom4_8_stain_scc1_cycb1_g2_rep1-03-36.czi #2.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.833231314917342	0.139245	Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_fully_zoom4_8_stain_scc1_cycb1_g2_rep1-03-36.czi #3.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.869794529218192	0.043127	Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_fully_zoom4_8_stain_scc1_cycb1_g2_rep1-04-37.czi #4.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.844953876804395	0.108428	Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_fully_zoom4_8_stain_scc1_cycb1_g2_rep2-02-72.czi #1.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.85063497025418	0.093494	Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_fully_zoom4_8_stain_scc1_cycb1_g2_rep2-02-72.czi #3.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.882031424523383	0.010958	Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_fully_zoom4_8_stain_scc1_cycb1_g2_rep2-02-72.czi #4.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.815094143200587	0.186924	Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_fully_zoom4_8_stain_scc1_cycb1_g2_rep2-02-72.czi #5.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.838056728231192	0.12656	Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_fully_zoom4_8_stain_scc1_cycb1_g2_rep2_03-73.czi #1.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.900296357110592	-0.03706	Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_fully_zoom4_8_stain_scc1_cycb1_g2_rep2_03-73.czi #2.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.876374583018417	0.025829	Fig EV4h
+211110_5325_WT_15h_release_nipbl_depleted_5h_fully_zoom4_8_stain_scc1_cycb1_g2_rep2_03-73.czi #3.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.880722963858417	0.014398	Fig EV4h
+220202_5388_2045_nipbl_dep_c1_rep1_fully_zoom4_8-01-173.czi #1.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.895727873828932	-0.02505	Fig EV4h
+220202_5388_2045_nipbl_dep_c1_rep1_fully_zoom4_8-01-173.czi #2.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.849294563502582	0.097017	Fig EV4h
+220202_5388_2045_nipbl_dep_c1_rep2_fully_zoom4_8-02-172.czi #1.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.873575762583215	0.033187	Fig EV4h
+220202_5388_2045_nipbl_dep_c1_rep2_fully_zoom4_8-02-172.czi #2.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.872817073214509	0.035181	Fig EV4h
+220202_5388_2045_nipbl_dep_c1_rep2_fully_zoom4_8-02-172.czi #3.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.833181916872387	0.139375	Fig EV4h
+220202_5388_2045_nipbl_dep_c1_rep2_fully_zoom4_8-02-172.czi #4.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.867800777182859	0.048368	Fig EV4h
+220202_5388_2045_nipbl_dep_c1_rep2_fully_zoom4_8-02-172.czi #5.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.81641901549552	0.183441	Fig EV4h
+220202_5388_2045_nipbl_dep_c2_rep1_fully_zoom4_8-01-171.czi #1.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.881910581152546	0.011276	Fig EV4h
+220202_5388_2045_nipbl_dep_c2_rep1_fully_zoom4_8-01-171.czi #2.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.806048793095713	0.210702	Fig EV4h
+220202_5388_2045_nipbl_dep_c2_rep1_fully_zoom4_8-01-171.czi #3.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.843993547052467	0.110953	Fig EV4h
+220202_5388_2045_nipbl_dep_c2_rep1_fully_zoom4_8-01-171.czi #4.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.874449907109749	0.030889	Fig EV4h
+220202_5388_2045_nipbl_dep_c2_rep2_fully_zoom4_8-01-170.czi #1.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.869125515728884	0.044886	Fig EV4h
+220202_5388_2045_nipbl_dep_c2_rep2_fully_zoom4_8-01-170.czi #2.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.909212934076577	-0.0605	Fig EV4h
+220202_5388_2045_nipbl_dep_c2_rep2_fully_zoom4_8-01-170.czi #3.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.869970364109201	0.042665	Fig EV4h
+220202_5388_2045_nipbl_dep_c2_rep2_fully_zoom4_8-01-170.czi #4.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.881885365062643	0.011342	Fig EV4h
+220202_5388_2045_nipbl_dep_c2_rep2_fully_zoom4_8-01-170.czi #5.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.861621739895372	0.064612	Fig EV4h
+220202_5388_2045_nipbl_dep_c2_rep2_fully_zoom4_8-01-170.czi #6.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.895668393540132	-0.02489	Fig EV4h
+220202_5388_2045_nipbl_dep_c1_rep1_fully_zoom4_8-01-173.czi #3.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.884446463591344	0.00461	Fig EV4h
+220919_5618_2045_nipbl_dep_fully_ro_15h_rel_cycb1_zoom4_8_rep2-01-151-152.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.818125679603216	0.178955	Fig EV4h
+220919_5618_2045_nipbl_dep_fully_ro_15h_rel_cycb1_zoom4_8_rep2-01-151-153.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.811026788268427	0.197616	Fig EV4h
+220919_5618_2045_nipbl_dep_fully_ro_15h_rel_cycb1_zoom4_8_rep2-02-158.czi #1.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.893674292836095	-0.01965	Fig EV4h
+220919_5618_2045_nipbl_dep_fully_ro_15h_rel_cycb1_zoom4_8_rep2-02-158.czi #2.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.910361583667392	-0.06352	Fig EV4h
+220919_5618_2045_nipbl_dep_fully_ro_15h_rel_cycb1_zoom4_8_rep2-02-158.czi #3.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.900041152580759	-0.03639	Fig EV4h
+220919_5618_2045_nipbl_dep_fully_ro_15h_rel_cycb1_zoom4_8_rep2-03-159.czi #1.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.895731857793339	-0.02506	Fig EV4h
+220919_5618_2045_nipbl_dep_fully_ro_15h_rel_cycb1_zoom4_8_rep2-03-159.czi #2.tif_registered.tif	nipbl_dep_g2_two_sister_labelled	0.891339849529622	-0.01351	Fig EV4h

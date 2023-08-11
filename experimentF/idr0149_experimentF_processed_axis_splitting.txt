@@ -1,0 +1,79 @@
+image_name	condition	length_split_axis	length_single_axis	length_smc_axis	percentage_split_smc_axes	figure_panel	normalised_nuclear_sororin_fluorescence
+220207_5389_WT_c1_rep1_prophase_smc4_axes_60min_stlc_hemi_zoom5-01-46.czi #1.tif_registered.tif	wt_late_prophase	27.43		30.748	89.2090542474307	appendix_fig_s2a	
+220207_5389_WT_c1_rep1_prophase_smc4_axes_60min_stlc_hemi_zoom5-01-46.czi #4.tif_registered.tif	wt_late_prophase	16.293		17.666	92.2280086040983	appendix_fig_s2a	
+220207_5389_WT_c1_rep1_prophase_smc4_axes_60min_stlc_hemi_zoom5-01-46.czi #5.tif_registered.tif	wt_late_prophase	20.203		21.05	95.9762470308789	appendix_fig_s2a	
+220207_5389_WT_c1_rep1_prophase_smc4_axes_60min_stlc_hemi_zoom5-01-46.czi #6.tif_registered.tif	wt_late_prophase	35.334		38.258	92.3571540592817	appendix_fig_s2a	
+220207_5389_WT_c1_rep2_prophase_axes_60min_stlc_hemi_zoom5-01-60.czi #1.tif_registered.tif	wt_late_prophase	30.082		33.815	88.9605204790773	appendix_fig_s2a	
+220207_5389_WT_c1_rep2_prophase_axes_60min_stlc_hemi_zoom5-01-60.czi #2.tif_registered.tif	wt_late_prophase	20.98		25.492	82.300329515142	appendix_fig_s2a	
+220207_5389_WT_c1_rep2_prophase_axes_60min_stlc_hemi_zoom5-01-60.czi #3.tif_registered.tif	wt_late_prophase	19.672		22.105	88.9934403981	appendix_fig_s2a	
+220207_5389_WT_c2_rep2_prophase_axes_60min_stlc_hemi_zoom5-01-79-93.tif_registered.tif	wt_late_prophase	16.433		17.1	96.0994152046784	appendix_fig_s2a	
+220405_wt_prophase_rep1_hemi_stain_smc4_cycb1_zoom4_8-03-140.czi #2.tif_registered.tif	wt_late_prophase	11.421		12.656	90.2417825537295	appendix_fig_s2a	
+220405_wt_prophase_rep1_hemi_stain_smc4_cycb1_zoom4_8-03-140.czi #7.tif_registered.tif	wt_late_prophase	17.093		18.047	94.7138028481188	appendix_fig_s2a	
+220530_5517_WT_hemi_15h_G2_prophase_rep1+2_stlc-01-65.czi #04.tif_registered.tif	wt_late_prophase	12.058		13.755	87.6626681206834	appendix_fig_s2a	
+220211_5389_2096_c1_rep1_wapl_dep_on_hemi_g2_zoom4_8-06-40.czi #1.tif_registered.tif	wapl_depleted_g2		68.216	68.882	0.96687088063645	appendix_fig_s2a	
+220211_5389_2096_c1_rep1_wapl_dep_on_hemi_g2_zoom4_8-06-40.czi #2.tif_registered.tif	wapl_depleted_g2		62.123	68.855	9.7770677510711	appendix_fig_s2a	
+220211_5389_2096_c1_rep1_wapl_dep_on_hemi_g2_zoom4_8-07-41-43.tif_registered.tif	wapl_depleted_g2		64.12	69.132	7.24989874443095	appendix_fig_s2a	
+220211_5389_2096_c1_rep1_wapl_dep_on_hemi_g2_zoom4_8-09-45.tif_registered.tif	wapl_depleted_g2		65.781	72.411	9.1560674483159	appendix_fig_s2a	
+220211_5389_2096_c1_rep2_wapl_dep_on_hemi_g2_zoom4_8-03-52.tif_registered.tif	wapl_depleted_g2		112.142	121.591	7.77113437672194	appendix_fig_s2a	
+220211_5389_2096_c1_rep2_wapl_dep_on_hemi_g2_zoom4_8-09-55.tif_registered.tif	wapl_depleted_g2		68.437	75.165	8.9509745227167	appendix_fig_s2a	
+220211_5389_2096_c1_rep2_wapl_dep_on_hemi_g2_zoom4_8-13-58.czi #1.tif_registered.tif	wapl_depleted_g2		59.9	61.517	2.62854170391925	appendix_fig_s2a	
+220211_5389_2096_c2_rep2_wapl_dep_on_hemi_g2_zoom4_8-05-74.czi #2.tif_registered.tif	wapl_depleted_g2		128.885	141.118	8.66863192505562	appendix_fig_s2a	
+220405_2096_wapl_dep_rep1_hemi_stain_scc1_cycb1_zoom4_8-02-102.czi #2.tif_registered	wapl_depleted_g2		59.466	69.233	14.1074343160054	appendix_fig_s2a	
+.tif220405_2096_wapl_dep_rep2_hemi_stain_scc1_cycb1_zoom4_8-03-105.czi #1.tif_registered	wapl_depleted_g2		94.549	102.195	7.48177503791774	appendix_fig_s2a	
+.tif220405_2096_wapl_dep_rep2_hemi_stain_scc1_cycb1_zoom4_8-04-106.czi #1.tif_registered	wapl_depleted_g2		72.765	72.973	0.285036931467797	appendix_fig_s2a	
+.tif220405_2096_wapl_dep_rep2_hemi_stain_scc1_cycb1_zoom4_8-05-108.czi #1.tif_registered	wapl_depleted_g2		69.172	76.712	9.82897069558869	appendix_fig_s2a	
+.tif220405_2096_wapl_dep_rep2_hemi_stain_scc1_cycb1_zoom4_8-05-108.czi #2.tif_registered	wapl_depleted_g2		60.103	69.055	12.9635797552676	appendix_fig_s2a	
+.tif220211_5389_2096_c1_rep1_wapl_dep_on_hemi_g2_zoom4_8-06-40.czi #1.tif_registered.tif	wapl_depleted_g2		83.663	93.563	10.5811057789938	appendix_fig_s2a	
+220211_5389_2096_c1_rep2_wapl_sor_dep_on_hemi_g2_zoom4_8-03-37.czi #2.tif_registered.tif	wapl_sororin_depleted_g2	42.062		47.872	87.8634692513369	appendix_fig_s2a	
+220211_5389_2096_c1_rep2_wapl_sor_dep_on_hemi_g2_zoom4_8-03-37.czi #5.tif_registered.tif	wapl_sororin_depleted_g2	80.52		93.449	86.164645956618	appendix_fig_s2a	
+220211_5389_2096_c1_rep2_wapl_sor_dep_on_hemi_g2_zoom4_8-03-37.czi #6.tif_registered.tif	wapl_sororin_depleted_g2	51.648		60.313	85.6332797241059	appendix_fig_s2a	
+220211_5389_2096_c1_rep2_wapl_sor_dep_on_hemi_g2_zoom4_8-03-37.czi #7.tif_registered.tif	wapl_sororin_depleted_g2	64.43		75.403	85.4475286129199	appendix_fig_s2a	
+220211_5389_2096_c2_rep1_wapl_sor_dep_on_hemi_g2_zoom4_8-02-38.czi #3.tif_registered.tif	wapl_sororin_depleted_g2	100.748		118.666	84.9004769689717	appendix_fig_s2a	
+220211_5389_2096_c2_rep1_wapl_sor_dep_on_hemi_g2_zoom4_8-02-38.czi #5.tif_registered.tif	wapl_sororin_depleted_g2	105.026		116.549	90.1131712841809	appendix_fig_s2a	
+220211_5389_2096_c2_rep1_wapl_sor_dep_on_hemi_g2_zoom4_8-03-39.czi #1.tif_registered.tif	wapl_sororin_depleted_g2	50.986		59.586	85.5670795153224	appendix_fig_s2a	
+220211_5389_2096_c2_rep1_wapl_sor_dep_on_hemi_g2_zoom4_8-03-39.czi #2.tif_registered.tif	wapl_sororin_depleted_g2	92.257		101.634	90.7737568136647	appendix_fig_s2a	
+220405_2096_wapl_sor_dep_rep1_hemi_stain_scc1_cycb1_zoom4_8-02-109.czi #1.tif_registered.tif	wapl_sororin_depleted_g2	65.881		74.699	88.1952904322682	appendix_fig_s2a	
+220405_2096_wapl_sor_dep_rep1_hemi_stain_scc1_cycb1_zoom4_8-03-110.czi #1.tif_registered.tif	wapl_sororin_depleted_g2	41.39		52.346	79.0700340045084	appendix_fig_s2a	
+220405_2096_wapl_sor_dep_rep2_hemi_stain_scc1_cycb1_zoom4_8-02-115czi #2.tif_registered.tif	wapl_sororin_depleted_g2	94.129		106.859	88.0871054380071	appendix_fig_s2a	
+220405_2096_wapl_sor_dep_rep2_hemi_stain_scc1_cycb1_zoom4_8-03-116.czi #2.tif_registered.tif	wapl_sororin_depleted_g2	80.027		89.936	88.9821650951788	appendix_fig_s2a	
+220405_2096_wapl_sor_dep_rep2_hemi_stain_scc1_cycb1_zoom4_8-05-117.tif_registered.tif	wapl_sororin_depleted_g2	47.949		57.713	83.0818013272573	appendix_fig_s2a	
+230304_1802_wapl_dep_ctrl_si_rep1_zoom4_8_dna_scc1_sor-01-14-17.tif_registered.tif	wapl_depleted_g2_control_sirna		69.56	73.578	5.46087145614182	appendix_fig_s2e	1.280873
+230304_1802_wapl_dep_ctrl_si_rep1_zoom4_8_dna_scc1_sor-01-14-18.tif_registered.tif	wapl_depleted_g2_control_sirna		58.524	60.634	3.47989576805092	appendix_fig_s2e	0.928931
+230304_1802_wapl_dep_ctrl_si_rep1_zoom4_8_dna_scc1_sor-01-14-19.tif_registered.tif	wapl_depleted_g2_control_sirna		78.147	90.843	13.9757603777947	appendix_fig_s2e	0.960308
+230304_1802_wapl_dep_ctrl_si_rep1_zoom4_8_dna_scc1_sor-02-21-23.tif_registered.tif	wapl_depleted_g2_control_sirna		68.846	73.472	6.29627613240417	appendix_fig_s2e	0.880637
+230304_1802_wapl_dep_ctrl_si_rep1_zoom4_8_dna_scc1_sor-02-22-25.tif_registered.tif	wapl_depleted_g2_control_sirna		64.262	69.655	7.74244490704185	appendix_fig_s2e	1.065557
+230304_1802_wapl_dep_ctrl_si_rep2_zoom4_8_dna_scc1_sor-01-26.czi #1.tif_registered.tif	wapl_depleted_g2_control_sirna		76.465	85.311	10.3691200431363	appendix_fig_s2e	0.937837
+230304_1802_wapl_dep_ctrl_si_rep2_zoom4_8_dna_scc1_sor-01-26.czi #4.tif_registered.tif	wapl_depleted_g2_control_sirna		84.074	87.49	3.9044462224254	appendix_fig_s2e	1.050265
+230304_1802_wapl_dep_ctrl_si_rep2_zoom4_8_dna_scc1_sor-01-26.czi #5.tif_registered.tif	wapl_depleted_g2_control_sirna		79.468	84.367	5.80677279030901	appendix_fig_s2e	0.919336
+230304_1802_wapl_dep_ctrl_si_rep2_zoom4_8_dna_scc1_sor-01-26.czi #6.tif_registered.tif	wapl_depleted_g2_control_sirna		77.233	82.418	6.2911014584193	appendix_fig_s2e	1.036317
+230304_1802_wapl_dep_ctrl_si_rep2_zoom4_8_dna_scc1_sor-01-26.czi #8.tif_registered.tif	wapl_depleted_g2_control_sirna		94.585	96.101	1.57750699784603	appendix_fig_s2e	0.940027
+230304_1802_s_si_0_75nm_rep2_zoom4_8_dna_scc1_soror-01-45.czi #1.tif_registered.tif	wapl_depleted_g2_0.75nm_sororin_sirna				26.7681636361622	appendix_fig_s2e	0.619995
+230304_1802_s_si_0_75nm_rep2_zoom4_8_dna_scc1_soror-01-45.czi #2.tif_registered.tif	wapl_depleted_g2_0.75nm_sororin_sirna				29.53860855475	appendix_fig_s2e	0.408561
+230304_1802_s_si_0_75nm_rep2_zoom4_8_dna_scc1_soror-01-45.czi #4.tif_registered.tif	wapl_depleted_g2_0.75nm_sororin_sirna				32.4943755585918	appendix_fig_s2e	0.304986
+230304_1802_s_si_0_75nm_rep2_zoom4_8_dna_scc1_soror-01-45.czi #5.tif_registered.tif	wapl_depleted_g2_0.75nm_sororin_sirna				32.4132031800342	appendix_fig_s2e	0.414307
+230304_1802_s_si_0_75nm_rep2_zoom4_8_dna_scc1_soror-01-45.czi #8.tif_registered.tif	wapl_depleted_g2_0.75nm_sororin_sirna				13.7048128946588	appendix_fig_s2e	0.432058
+230304_1802_wapl_dep_sor_si_0_75nm_rep1_zoom4_8_dna_scc1_sor-01-38.czi #1.tif_registered.tif	wapl_depleted_g2_0.75nm_sororin_sirna				5.31352409670089	appendix_fig_s2e	0.761439
+230304_1802_wapl_dep_sor_si_0_75nm_rep1_zoom4_8_dna_scc1_sor-01-38.czi #2.tif_registered.tif	wapl_depleted_g2_0.75nm_sororin_sirna				18.9370045179439	appendix_fig_s2e	0.822016
+230304_1802_wapl_dep_sor_si_0_75nm_rep1_zoom4_8_dna_scc1_sor-01-38.czi #3.tif_registered.tif	wapl_depleted_g2_0.75nm_sororin_sirna				6.77394946153304	appendix_fig_s2e	0.664312
+230304_1802_wapl_dep_sor_si_0_75nm_rep1_zoom4_8_dna_scc1_sor-01-38.czi #4.tif_registered.tif	wapl_depleted_g2_0.75nm_sororin_sirna				12.302016893639	appendix_fig_s2e	0.925536
+230304_1802_wapl_dep_sor_si_0_75nm_rep1_zoom4_8_dna_scc1_sor-01-38.czi #6.tif_registered.tif	wapl_depleted_g2_0.75nm_sororin_sirna				55.5474874409093	appendix_fig_s2e	0.302892
+230304_1802_wapl_dep_sor_si_0_75nm_rep1_zoom4_8_dna_scc1_sor-01-38.czi #7.tif_registered.tif	wapl_depleted_g2_0.75nm_sororin_sirna				44.8621792690397	appendix_fig_s2e	0.387786
+230304_1802_wapl_dep_sor_si_0_75nm_rep1_zoom4_8_dna_scc1_sor-01-38.czi #8.tif_registered.tif	wapl_depleted_g2_0.75nm_sororin_sirna				20.3483985259221	appendix_fig_s2e	0.692948
+230304_1802_s_si_0_75nm_rep2_zoom4_8_dna_scc1_soror-01-45.czi #3.tif_registered.tif	wapl_depleted_g2_0.75nm_sororin_sirna				44.9239183096972	appendix_fig_s2e	0.270379
+230304_1802_s_si_0_75nm_rep2_zoom4_8_dna_scc1_soror-01-45.czi #6.tif_registered.tif	wapl_depleted_g2_0.75nm_sororin_sirna				24.3029048664053	appendix_fig_s2e	0.634615
+230304_1802_s_si_0_75nm_rep2_zoom4_8_dna_scc1_soror-01-45.czi #7.tif_registered.tif	wapl_depleted_g2_0.75nm_sororin_sirna				43.9590967731723	appendix_fig_s2e	0.33937
+230304_1802_s_si_0_75nm_rep2_zoom4_8_dna_scc1_soror-01-47.tif_registered.tif	wapl_depleted_g2_0.75nm_sororin_sirna				52.8984830078186	appendix_fig_s2e	0.280682
+230304_1802_s_si_0_75nm_rep2_zoom4_8_dna_scc1_soror-02-46.tif_registered.tif	wapl_depleted_g2_0.75nm_sororin_sirna				74.9537295127662	appendix_fig_s2e	0.210113
+230304_1802_wapl_dep_sor_si_0_75nm_rep1_zoom4_8_dna_scc1_sor-01-38.czi #5.tif_registered.tif	wapl_depleted_g2_0.75nm_sororin_sirna				20.6811852686254	appendix_fig_s2e	0.720753
+230304_1802_wapl_dep_sor_si_0_75nm_rep1_zoom4_8_dna_scc1_sor-02-39.tif_registered.tif	wapl_depleted_g2_0.75nm_sororin_sirna				32.2407087563215	appendix_fig_s2e	0.364108
+230304_1802_wapl_dep_sor_si_0_75nm_rep1_zoom4_8_dna_scc1_sor-02-40.tif_registered.tif	wapl_depleted_g2_0.75nm_sororin_sirna				38.8304249367257	appendix_fig_s2e	0.26942
+230304_1802_sor_si_16nm_rep2_zoom4_8_dna_scc1_sor-02-43.tif_registered.tif	wapl_depleted_g2_16nm_sororin_sirna	73.039		82.282	88.7666804404365	appendix_fig_s2e	0.101829
+230304_1802_sor_si_16nm_rep2_zoom4_8_dna_scc1_sor-03-44.czi #1.tif_registered.tif	wapl_depleted_g2_16nm_sororin_sirna	69.518		77.446	89.7631898354983	appendix_fig_s2e	0.159026
+230304_1802_sor_si_16nm_rep2_zoom4_8_dna_scc1_sor-03-44.czi #3.tif_registered.tif	wapl_depleted_g2_16nm_sororin_sirna	65.608		82.252	79.7646257841755	appendix_fig_s2e	0.185088
+230304_1802_sor_si_16nm_rep2_zoom4_8_dna_scc1_sor-03-44.czi #5.tif_registered.tif	wapl_depleted_g2_16nm_sororin_sirna	57.887		70.192	82.469512195122	appendix_fig_s2e	0.232828
+230304_1802_sor_si_16nm_rep2_zoom4_8_dna_scc1_sor-03-44.czi #6.tif_registered.tif	wapl_depleted_g2_16nm_sororin_sirna	34.832		41.141	84.6649327921052	appendix_fig_s2e	0.073576
+230304_1802_wapl_dep_sor_si_16nm_rep1_zoom4_8_dna_scc1_sor-01-27-30.tif_registered.tif	wapl_depleted_g2_16nm_sororin_sirna	52.177		57.603	90.5803517177925	appendix_fig_s2e	0.199854
+230304_1802_wapl_dep_sor_si_16nm_rep1_zoom4_8_dna_scc1_sor-01-27-31.tif_registered.tif	wapl_depleted_g2_16nm_sororin_sirna	52.07		61.472	84.7052316501822	appendix_fig_s2e	0.204416
+230304_1802_wapl_dep_sor_si_16nm_rep1_zoom4_8_dna_scc1_sor-01-27-32.tif_registered.tif	wapl_depleted_g2_16nm_sororin_sirna	43.824		53.344	82.1535692861427	appendix_fig_s2e	0.149717
+230304_1802_wapl_dep_sor_si_16nm_rep1_zoom4_8_dna_scc1_sor-01-27-33.tif_registered.tif	wapl_depleted_g2_16nm_sororin_sirna	45.657		52.524	86.9259766963674	appendix_fig_s2e	0.246958
+230304_1802_wapl_dep_sor_si_16nm_rep1_zoom4_8_dna_scc1_sor-02-36-37.tif_registered.tif	wapl_depleted_g2_16nm_sororin_sirna	55.667		65.779	84.6273126681768	appendix_fig_s2e	0.18153

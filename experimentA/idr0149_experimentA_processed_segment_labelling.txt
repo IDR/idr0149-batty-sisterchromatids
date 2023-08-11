@@ -1,0 +1,37 @@
+image_name	condition	length_chromatin	length_0_segment	length_1_segment	length_2_segment	percentage_0_segments_labelled	percentage_1_segment_labelled	percentage_2_segments_labelled	figure_panel
+220207_5389_WT_c1_rep2_prometa_60min_stlc_fully_zoom5-01-13-15.tif_registered.tif	wt_prometa_two_sister_labelled	26.909	1.093	0.0	25.88	4.06183804675016	0.0	96.1760005945966	fig_ev1b
+220207_5389_WT_c2_rep1_prometa_60min_stlc_fully_zoom5-01-24.czi #2.tif_registered.tif	wt_prometa_two_sister_labelled	23.488	0.283	0.0	23.208	1.20487057220708	0.0	98.8079019073569	fig_ev1b
+211108_5325_WT_12h_release_fully_60min_STLC_zoom5_stain_smc4_cycb1_prometa_rep1-02-08.czi #1.tif_registered.tif	wt_prometa_two_sister_labelled	24.649	0.0	0.0	24.649	0.0	0.0	100.0	fig_ev1b
+211108_5325_WT_12h_release_fully_60min_STLC_zoom5_stain_smc4_cycb1_prometa_rep1-02-08.czi #2.tif_registered.tif	wt_prometa_two_sister_labelled	24.23	0.0	0.0	24.23	0.0	0.0	100.0	fig_ev1b
+211108_5325_WT_12h_release_fully_60min_STLC_zoom5_stain_smc4_cycb1_prometa_rep1-02-08.czi #3.tif_registered.tif	wt_prometa_two_sister_labelled	26.09	0.0	0.0	26.09	0.0	0.0	100.0	fig_ev1b
+220207_5389_WT_c1_rep1_prometa_60min_stlc_fully_zoom5-09-10.czi #4.tif_registered.tif	wt_prometa_two_sister_labelled	21.821	0.0	0.0	21.821	0.0	0.0	100.0	fig_ev1b
+220207_5389_WT_c1_rep2_prometa_60min_stlc_fully_zoom5-02-23.czi #2.tif_registered.tif	wt_prometa_two_sister_labelled	18.089	0.0	0.0	18.089	0.0	0.0	100.0	fig_ev1b
+220207_5389_WT_c1_rep2_prometa_60min_stlc_fully_zoom5-02-23.czi #3.tif_registered.tif	wt_prometa_two_sister_labelled	33.644	0.0	0.0	33.644	0.0	0.0	100.0	fig_ev1b
+220207_5389_WT_c1_rep2_prometa_60min_stlc_fully_zoom5-02-23.czi #4.tif_registered.tif	wt_prometa_two_sister_labelled	20.24	0.0	0.0	20.24	0.0	0.0	100.0	fig_ev1b
+220207_5389_WT_c2_rep1_prometa_60min_stlc_fully_zoom5-01-24.czi #1.tif_registered.tif	wt_prometa_two_sister_labelled	20.206	0.0	0.0	20.206	0.0	0.0	100.0	fig_ev1b
+220207_5389_WT_c2_rep2_prometa_60min_stlc_fully_zoom5-03-25.czi #4.tif_registered.tif	wt_prometa_two_sister_labelled	18.478	0.0	0.0	18.478	0.0	0.0	100.0	fig_ev1b
+220207_5389_WT_c2_rep2_prometa_60min_stlc_fully_zoom5-03-25.czi #5.tif_registered.tif	wt_prometa_two_sister_labelled	23.308	0.0	0.0	23.308	0.0	0.0	100.0	fig_ev1b
+220530_5517_WT_fully_prometa_rep1_stlc-05-03.tif_registered.tif	wt_prometa_two_sister_labelled	15.556	0.0	0.0	15.556	0.0	0.0	100.0	fig_ev1b
+220530_5517_WT_fully_prometa_rep2_stlc-01-68-04.czi #1.tif_registered.tif	wt_prometa_two_sister_labelled	23.555	0.0	0.0	23.555	0.0	0.0	100.0	fig_ev1b
+220530_5517_WT_fully_prometa_rep2_stlc-01-68-04.czi #2.tif_registered.tif	wt_prometa_two_sister_labelled	16.256	0.0	0.0	16.256	0.0	0.0	100.0	fig_ev1b
+211108_5325_WT_12h_release_hemi_60min_STLC_zoom5_prometa_rep1-03-04.czi #9.tif_registered.tif	wt_prometa_one_sister_labelled	38.748	0.81	38.115	0.387	2.09043047383091	98.3663672963766	0.998761226385878	fig_ev1c
+220207_5389_WT_c1_rep1_prometa_60min_stlc_hemi_zoom5-07-37-42.tif_registered.tif	wt_prometa_one_sister_labelled	21.895	1.129	20.272	0.565	5.1564284083124	92.5873487097511	2.58049783055492	fig_ev1c
+220207_5389_WT_c2_rep1_prometa_60min_stlc_hemi_zoom5-09-76.czi #1.tif_registered.tif	wt_prometa_one_sister_labelled	25.595	0.564	23.903	0.74	2.20355538191053	93.3893338542684	2.89118968548545	fig_ev1c
+220207_5389_WT_c2_rep2_prometa_60min_stlc_hemi_zoom5-03-77.czi #3.tif_registered.tif	wt_prometa_one_sister_labelled	28.418	0.669	28.211	0.0	2.35414174114998	99.2715884298684	0.0	fig_ev1c
+220530_5517_WT_hemi_15h_G2_prometa_rep2_stlc-01-09-10.tif_registered.tif	wt_prometa_one_sister_labelled	25.139	0.318	24.576	0.0	1.2649667846772	97.7604518875055	0.0	fig_ev1c
+220207_5389_WT_c2_rep1_prometa_60min_stlc_hemi_zoom5-06-75.czi #4.tif_registered.tif	wt_prometa_one_sister_labelled	0.0	0.0	14.883	0.0	0.0	100.0	0.0	fig_ev1c
+211108_5325_WT_12h_release_hemi_60min_STLC_zoom5_prometa_rep1-03-04.czi #8.tif_registered.tif	wt_prometa_one_sister_labelled	0.0	0.0	8.745	0.0	0.0	100.0	0.0	fig_ev1c
+211108_5325_WT_12h_release_hemi_60min_STLC_zoom5_prometa_rep2-05-05.czi #1.tif_registered.tif	wt_prometa_one_sister_labelled	0.0	0.0	18.196	0.0	0.0	100.0	0.0	fig_ev1c
+220207_5389_WT_c1_rep1_prometa_60min_stlc_hemi_zoom5-07-37-41.tif_registered.tif	wt_prometa_one_sister_labelled	0.0	0.0	18.968	0.0	0.0	100.0	0.0	fig_ev1c
+220207_5389_WT_c1_rep1_prometa_60min_stlc_hemi_zoom5-08-45.czi #1.tif_registered.tif	wt_prometa_one_sister_labelled	0.0	0.0	14.387	0.0	0.0	100.0	0.0	fig_ev1c
+220207_5389_WT_c1_rep2_prometa_60min_stlc_hemi_zoom5-01-48-49.tif_registered.tif	wt_prometa_one_sister_labelled	0.0	0.0	21.682	0.0	0.0	100.0	0.0	fig_ev1c
+220207_5389_WT_c2_rep1_prometa_60min_stlc_hemi_zoom5-06-75.czi #6.tif_registered.tif	wt_prometa_one_sister_labelled	0.0	0.0	14.6	0.0	0.0	100.0	0.0	fig_ev1c
+220207_5389_WT_c2_rep2_prometa_60min_stlc_hemi_zoom5-03-77.czi #1.tif_registered.tif	wt_prometa_one_sister_labelled	0.0	0.0	16.436	0.0	0.0	100.0	0.0	fig_ev1c
+220207_5389_WT_c2_rep2_prometa_60min_stlc_hemi_zoom5-03-77.czi #4.tif_registered.tif	wt_prometa_one_sister_labelled	0.0	0.0	16.361	0.0	0.0	100.0	0.0	fig_ev1c
+220207_5389_WT_c2_rep2_prometa_60min_stlc_hemi_zoom5-03-77.czi #5.tif_registered.tif	wt_prometa_one_sister_labelled	0.0	0.0	11.424	0.0	0.0	100.0	0.0	fig_ev1c
+220207_5389_WT_c2_rep2_prometa_60min_stlc_hemi_zoom5-04-78.czi #2.tif_registered.tif	wt_prometa_one_sister_labelled	0.0	0.0	21.23	0.0	0.0	100.0	0.0	fig_ev1c
+220405_wt_prometa_rep2_hemi_stain_smc4_cycb1_zoom4_8-02-148.czi #2.tif_registered.tif	wt_prometa_one_sister_labelled	0.0	0.0	22.452	0.0	0.0	100.0	0.0	fig_ev1c
+220405_wt_prometa_rep2_hemi_stain_smc4_cycb1_zoom4_8-02-148.czi #4.tif_registered.tif	wt_prometa_one_sister_labelled	0.0	0.0	14.349	0.0	0.0	100.0	0.0	fig_ev1c
+220530_5517_WT_hemi_15h_G2_prometa_rep2_stlc-01-09-15.tif_registered.tif	wt_prometa_one_sister_labelled	0.0	0.0	13.752	0.0	0.0	100.0	0.0	fig_ev1c
+220530_5517_WT_hemi_15h_G2_prometa_rep4_stlc-05-07.czi #3.tif_registered.tif	wt_prometa_one_sister_labelled	0.0	0.0	21.084	0.0	0.0	100.0	0.0	fig_ev1c
+220530_5517_WT_hemi_15h_G2_prometa_rep4_stlc-05-07.czi #5.tif_registered.tif	wt_prometa_one_sister_labelled	0.0	0.0	21.089	0.0	0.0	100.0	0.0	fig_ev1c

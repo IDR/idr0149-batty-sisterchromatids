@@ -1,0 +1,430 @@
+# FILL IN AS MUCH INFORMATION AS YOU CAN.  HINTS HAVE BEEN PUT IN SOME FIELDS AFTER THE HASH # SYMBOL. REPLACE THE HINT WITH TEXT WHERE APPROPRIATE.			
+																																	
+# STUDY DESCRIPTION SECTION																																	
+# Section with generic information about the study including title, description, publication details (if applicable) and contact details																		
+																																	
+Comment[IDR Study Accession]	idr0149																																
+Study Title	Cohesin-mediated DNA loop extrusion resolves sister chromatids in G2 phase																															
+Study Type	protein localization																																
+Study Type Term Source REF	EFO																																
+Study Type Term Accession	GO_0008104																																
+Study Description	Genetic information is stored in linear DNA molecules, which fold extensively inside cells. DNA replication along the folded template path yields two sister chromatids that initially occupy the same nuclear region in a highly intertwined arrangement. Dividing cells must disentangle and condense the sister chromatids into separate bodies such that a microtubule-based spindle can move them to opposite poles. While the spindle-mediated transport of sister chromatids has been studied in detail, the chromosome-intrinsic mechanics pre-segregating sister chromatids have remained elusive. Here, we show that human sister chromatids resolve extensively already during interphase, in a process dependent on the loop-extruding activity of cohesin, but not that of condensins. Increasing cohesin’s looping capability increases sister DNA resolution in interphase nuclei to an extent normally seen only during mitosis, despite the presence of abundant arm cohesion. That cohesin can resolve sister chromatids so extensively in the absence of mitosis-specific activities indicates that DNA loop extrusion is a generic mechanism for segregating replicated genomes, shared across different Structural Maintenance of Chromosomes (SMC) protein complexes in all kingdoms of life.															
+Study Key Words	Chromosomes	sister chromatids	mitosis	cohesin	condensin	SMC protein complexes	loop extrusion	sister chromatid resolution																											
+Study Organism	Homo sapiens																															
+Study Organism Term Source REF	NCBITaxon																																
+Study Organism Term Accession	9606																																
+Study Experiments Number	6																																
+Study External URL	https://github.com/gerlichlab/Batty_et_al_EMBO.J_2023		
+Study BioImage Archive Accession																														
+Study Public Release Date	2023-08-17																																
+																																	
+# Study Publication																																	
+Study PubMed ID	37357575																																
+Study Publication Title	Cohesin-mediated DNA loop extrusion resolves sister chromatids in G2 phase																														
+Study Author List	Batty P, Langer CCH, Takacs Z, Tang W, Blaukopf C, Peters J-M, Gerlich DW															
+Study PMC ID																																	
+Study DOI	https://doi.org/10.15252/embj.2023113475																																
+																																	
+# Study Contacts																																	
+Study Person Last Name	Batty	Gerlich																																
+Study Person First Name	Paul	Daniel																															
+Study Person Email	paul.batty@imba.oeaw.ac.at	daniel.gerlich@imba.oeaw.ac.at																														
+Study Person Address	Institute of Molecular Biotechnology (IMBA), Dr Bohr-Gasse 3, 1030 Vienna, Austria	Institute of Molecular Biotechnology (IMBA), Dr Bohr-Gasse 3, 1030 Vienna, Austria					
+Study Person ORCID	0000-0002-9807-5099	0000-0003-1637-3365																														
+Study Person Roles	submitter	corresponding author																																																																
+																																	
+# Study License and Data DOI																																	
+Study License	CC BY 4.0																															
+Study License URL	https://creativecommons.org/licenses/by/4.0/																																
+Study Copyright	Batty et al																															
+Study Data Publisher	University of Dundee																																
+Study Data DOI																																	
+																																	
+Term Source Name	NCBITaxon	EFO	CMPO	FBbi																													
+Term Source URI	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/cmpo/	http://purl.obolibrary.org/obo/																													
+																													
+																																	
+# EXPERIMENT SECTION																																	
+# Experiment Section containing all information relative to each experiment in the study including materials used, protocols names and description, phenotype names and description. For multiple experiments this section should be repeated.  Copy and paste the whole section below and fill out for the next experiment																	
+																																	
+Experiment Number	1 																															
+Comment[IDR Experiment Name]	idr0149-batty-sisterchromatids/experimentA
+Experiment Sample Type	cell																																
+Experiment Description	Visualisation of wild type, SMC4 depleted, and NIPBL depleted HeLa Kyoto cells synchronised to prometaphase or G2 phase, where sister chromatids were labelled on either one or two sister chromatids by F-ara-EdU (as specified), with DNA counterstained using Hoechst 33342, as in Fig. 1, Fig. EV2F, Fig. EV3, Fig. EV4 of Batty et al, 2023.  																													
+Experiment Size	5D Images: 	Average Image Dimension (XYZCT): 740, 740, 112, 4 (prometaphase), 772, 772, 71, 4 (G2)	Total Tb: 0.237 Tb																											
+Experiment Example Images	220207_5389_WT_c2_rep2_prometa_60min_stlc_hemi_zoom5-03-77.czi #3.tif_registered.tif																														
+Experiment Imaging Method	array-scan confocal microscopy																												
+Experiment Imaging Method Term Source REF	Fbbi																																
+Experiment Imaging Method Term Accession	Fbbi_00000393																																
+Experiment Organism																														
+Experiment Organism Term Source REF	NCBITaxon																																
+Experiment Organism Term Accession																																
+Experiment Comments	Airyscan microscopy
+																															
+																																	
+# assay files																																	
+Experiment Assay File	idr0149-experimentA-annotation																															
+Experiment Assay File Format	tab-delimited text																																
+Assay Experimental Conditions	Wild type, SMC4 depleted, or NIPBL depleted HeLa Kyoto cells labelled on one or two sister chromatids with F-ara-EdU, and synchronised to prometaphase by STLC or G2 by RO-3306.																
+Assay Experimental Conditions Term Source REF																																	
+Assay Experimental Conditions Term Accession																																
+Quality Control Description	
+																																
+																																	
+# Protocols																																	
+Protocol Name	growth protocol	treatment protocol  image acquisition and feature extraction protocol	data analysis protocol																													
+Protocol Type	growth protocol	treatment protocol	image acquisition and feature extraction protocol	data analysis protocol																													
+Protocol Type Term Source REF	EFO	EFO																															
+Protocol Type Term Accession	EFO_0003789	EFO_0003969																															
+Protocol Description	Cells were pre-synchronised to the G1/S boundary by incubation with 2 mM thymidine (Sigma Aldrich, T1895) in wild type medium for 16 – 18 h. Cells were then washed twice with pre-warmed PBS and released into fresh medium. 10 – 12 h after release, cells were blocked again using 3 μg mL-1 aphidicolin (Sigma Aldrich, A0781) for 16 – 18 h. To generate one-sister chromatid labelled cells, 10 μM F-ara-EdU (Sigma Aldrich, T511293) was added to cells 15 h after the second release into S phase (after the first release for the NIPBL-AID cell line) to generate a pool of the compound within the cell, while the cells were in aphidicolin. The following day, cells were washed twice with pre-warmed PBS and released into fresh medium containing 10 μM F-ara-EdU. A final block with aphidicolin was then performed as described above. The following day, cells were washed twice with pre-warmed PBS and released into fresh nucleotide-free medium, such that the cells became labelled on only one sister chromatid. To generate sister chromatids labelled on two chromatids, 10 μM F-ara-EdU was added at the time of the final aphidicolin block. For the final S phase release, cells were then released into medium containing 10 μM F-ara-EdU. After labelling of one or two sister chromatids, cells were synchronised to G2 using the CDK1 inhibitor RO-3306 (Sigma Aldrich, SML0569). RO-3306 was added 5 – 6 h after the release from the final aphidicolin block. To generate prometaphase samples, 7 μM RO-3306 was added to cells as described above. 15 h after release from the final aphidicolin block, cells were washed three times with pre-warmed wild ype medium. After the final wash, cells were released into wild type medium containing 5 μM STLC (Enzo Life Sciences, ALX-105-011-M500), and fixed 30 - 60 minutes later.	To generate G2 samples, 8 μM RO-3306 was added and cells were fixed 15 h after the final S-phase release. SMC4 was depleted through the addition of 1 μM 5-Ph-IAA 1 h before the final S phase release. NIPBL was depleted through the addition of 1 μM 5-Ph-IAA 10 h after the final release into S phase.
+	Cells were imaged on a custom Zeiss LSM 980 microscope fitted with an additional Airyscan2 detector, using a 63 x NA 1.4 oil DIC Plan-Aphrochromat (Zeiss) objective and ZEN 3.3 Blue 2020 software. Experiments were performed with optimal sectioning (150 nm between each Z-slice) using the AiryScan SR (Super Resolution) mode. 3D Airyscan processing was performed for each acquired image using default parameters. Airyscan processed images were then registered to correct for chromatic shift from the microscope using either TetraSpeck™ Fluorescent Microspheres Size Kit (mounted on slide) (Thermo Fisher Scientific, T14792, 0.2 µm bead size) or TetraSpeck™ Microspheres, 0.2 µm (Thermo Fisher Scientific, T7280, prepared in-house and spread onto glass slides) in combination with a custom Fiji(Schindelin et al, 2012) script. A four colour Z-stack image of the bead slide was acquired using the same Z-section interval and zoom as the images to be registered, before running the script to register the cells in X, Y and Z dimensions. As the AiryScan processing procedure added an additional 10000 grey pixel values to each processed image, 10000 pixel values were subtracted from each registered image in Fiji using the ‘Subtract’ module before quantification.
+	Processed file 1: The separation score for each condition was calculated using a custom pipeline written in Python. In brief, the pipeline performed the following steps. For each processed Z-stack image, the central slice was calculated by determining the centre of mass of the chromatin (Hoechst) channel, using the scipy ‘ndimage’ module. A subset of slices around the central slice (5 above, 5 below, 11 slices in total) was chosen for the F-ara-EdU and Hoechst channels for each image. For each chosen slice, the Hoechst channel was segmented using Otsu thresholding to generate a chromatin mask. By default, objects which touched the image border were excluded using the ‘clear_border’ functionality from the skimage ‘segmentation’ module. These cells were subsequently analysed separately with the ‘clear_border’ parameter switched off. Small objects and cellular debris were excluded from the mask with a size filter using the ‘remove_small_objects’ functionality from the skimage ‘morphology’ module. The chromatin mask was applied to the F-ara-EdU and Hoechst channels, and all pixel values within the mask were extracted. The Spearman correlation coefficient (SCC) between the two channels was then calculated to give a single SCC value per slice. This operation was performed for each chosen slice, before subsequently calculating the mean SCC per cell. The SCC value per cell for each condition was then normalised relative to the mean SCC values of wild type two (0 value) and one (1 value) sister labelled prometaphase cells, to generate the separation score metric. 	Processed file 2: To calculate the percentage of labelled sister chromatid segments, wild type two and one-sister chromatid labelled prometaphase cells, sister chromatid pairs were identified using the Hoechst (to identify DNA) and SMC4 (to identify axes) channels. With only these two channels switched on, line profiles were drawn in Fiji (5-pixel line width) along the length of the chromatid pair. The length of each line for the Hoechst channel was then measured for each line in the cell, the ROIs saved, and the measurements saved as a csv file. For each measured line, the F-ara-EdU channel was then switched on, and the length of 0, 1 or 2 sister chromatid labelled fragments measured within the original measured line, and then saved as a csv file. A custom Python script was then used to sort and group the data such that the percentage of 0, 1 or 2-sister labelled fragments was calculated on a per cell basis. 																													
+																																	
+# Phenotypes																																	
+Phenotype Name	Wild type, SMC4 depleted, NIPBL depleted.																													
+Phenotype Description																																	
+Phenotype Score Type																																	
+Phenotype Term Source REF	CMPO																																
+Phenotype Term Name																																
+Phenotype Term Accession			 																														
+																																	
+																																	
+# Feature Level Data Files (give individual file details unless there is one file per well)																																	
+Feature Level Data File Name																																	
+Feature Level Data File Format																																	
+Feature Level Data File Description																																	
+Feature Level Data Column Name																																	
+Feature Level Data Column Description																																	
+																																	
+#  Processed Data Files 																																	
+Processed Data File Name	idr0149_experimentA_processed_sister_chromatid_labelling.txt	idr0149_experimentA_processed_segment_labelling																															
+Processed Data File Format	tab-delimited text																																
+Processed Data File Description	Spearman correlation coefficient and between F-ara-EdU and Hoechst for central Z-sections of 3D stack for the conditions listed in experiment 1, for cells labelled on one or two sister chromatids by F-ara-EdU. Normalised separation score (plotted in figures) also provided.																																
+Processed Data Column Name	image_name	condition	spearman_correlation_coefficient	separation_score	figure_panel, image_name	condition	length_chromatin	length_0_segment	length_1_segment	length_2_segment	percentage_0_segments_labelled	percentage_1_segment_labelled	percentage_2_segments_labelled, figure_panel																																			
+Processed Data Column Type	reagent_identifier	experimental_condition	data	data	reagent_identifier, reagent_identifier	experimental_condition	data	data	data	data	data	data	data	reagent_identifier,																															
+Processed Data Column Annotation Level	First file, data column 1, for each image, value is the average Spearman correlation coefficient of 11 slices around centre of 3D stack for the thresholded chromatin.	Data column 2, average per cell (one image = one cell). Second file, each row corresponds to measurements from one cell.																													
+Processed Data Column Description	First file, data column 1, Spearman correlation coefficient between F-ara-EdU and Hoechst for subset of 11 slices around centre of 3D stack.	Data column 2, Normalisation of spearman correlation coefficient values to generate separation score metric. Normalisation performed relative to the mean Spearman correlation coefficient of two-sister labelled (0 value) and one-sister labelled (1 value) wild type prometaphase chromosomes. Second file, length of segments labelled on 0, 1, or 2 sister chromatid in one and two sister chromatid labelled wild type prometaphase chromosomes, and the percentage of 0, 1, or 2 labelled segments.
+Processed Data Column Link To Assay File	image_name	condition
+
+
+
+
+
+
+
+Experiment Number	2 																															
+Comment[IDR Experiment Name]	idr0149-batty-sisterchromatids/experimentB
+Experiment Sample Type	cell																																
+Experiment Description	Wild type late prophase HeLa Kyoto cells labelled on one sister chromatid. Control, WAPL depleted, Sororin depleted, WAPL + Sororin depleted, or WAPL +SMC4 depleted G2 HeLa Kyoto cells labelled on one sister chromatid with F-ara-EdU, and synchronised to G2 by RO-3306, as in Fig. 2, 3, EV5 of Batty et al, 2023.																													
+Experiment Size	5D Images: 	Average Image Dimension (XYZCT): 740, 740, 112, 4 (prometaphase), 772, 772, 71, 4 (G2)	Total Tb: 0.102 Tb																											
+Experiment Example Images	220211_5389_2096_c2_rep2_wapl_dep_on_hemi_g2_zoom4_8-05-74.czi #1.tif_registered.tif																													
+Experiment Imaging Method	array-scan confocal microscopy																													
+Experiment Imaging Method Term Source REF	Fbbi																																
+Experiment Imaging Method Term Accession	Fbbi_00000393																																
+Experiment Organism																												
+Experiment Organism Term Source REF	NCBITaxon																																
+Experiment Organism Term Accession																																	
+Experiment Comments	Airyscan microscopy																														
+																																	
+# assay files																																	
+Experiment Assay File	idr0149-experimentB-annotation																													
+Experiment Assay File Format	tab-delimited text																																
+Assay Experimental Conditions	Wild type late prophase HeLa Kyoto cells labelled on one sister chromatid. Control, WAPL depleted, Sororin depleted, WAPL + Sororin depleted, or WAPL +SMC4 depleted G2 HeLa Kyoto cells labelled on one sister chromatid with F-ara-EdU, and synchronised to G2 by RO-3306.																																
+Assay Experimental Conditions Term Source REF																																	
+Assay Experimental Conditions Term Accession																																
+Quality Control Description	
+																																
+																																	
+# Protocols																																	
+Protocol Name	growth protocol	treatment protocol  image acquisition and feature extraction protocol	data analysis protocol																													
+Protocol Type	growth protocol	treatment protocol	image acquisition and feature extraction protocol	data analysis protocol																													
+Protocol Type Term Source REF	EFO	EFO																															
+Protocol Type Term Accession	EFO_0003789	EFO_0003969																															
+Protocol Description	Cells were pre-synchronised to the G1/S boundary by incubation with 2 mM thymidine (Sigma Aldrich, T1895) in wild type medium for 16 – 18 h. Cells were then washed twice with pre-warmed PBS and released into fresh medium. 10 – 12 h after release, cells were blocked again using 3 μg mL-1 aphidicolin (Sigma Aldrich, A0781) for 16 – 18 h. To generate one-sister chromatid labelled cells, 10 μM F-ara-EdU (Sigma Aldrich, T511293) was added to cells 15 h after the second release into S phase (after the first release for the NIPBL-AID cell line) to generate a pool of the compound within the cell, while the cells were in aphidicolin. The following day, cells were washed twice with pre-warmed PBS and released into fresh medium containing 10 μM F-ara-EdU. A final block with aphidicolin was then performed as described above. The following day, cells were washed twice with pre-warmed PBS and released into fresh nucleotide-free medium, such that the cells became labelled on only one sister chromatid.After labelling of sister chromatids, cells were synchronised to G2 using the CDK1 inhibitor RO-3306 (Sigma Aldrich, SML0569). For G2 samples 10 μM RO-3306 was added 5 – 6 h after the release from the final aphidicolin block. WAPL was depleted through the addition of 1 μM dTAG-7 14 h after the final S phase release. SMC4 was depleted through the addition of 1 μM 5-Ph-IAA 1 h before the final release into S phase. Sororin was depleted using siRNA. Control, WAPL depleted, Sororin depleted, WAPL/Sororin depleted, and WAPL/SMC4 depleted cells were fixed 24 h after the final S-phase release. To generate prophase samples, 7 μM RO-3306 was added as described above, after 15 h S-phase release, cells were washed 3 times with wild type medium and released into 5 μM STLC-containig medium.
+	Cells were imaged on a custom Zeiss LSM 980 microscope fitted with an additional Airyscan2 detector, using a 63 x NA 1.4 oil DIC Plan-Aphrochromat (Zeiss) objective and ZEN 3.3 Blue 2020 software. Experiments were performed with optimal sectioning (150 nm between each Z-slice) using the AiryScan SR (Super Resolution) mode. 3D Airyscan processing was performed for each acquired image using default parameters. Airyscan processed images were then registered to correct for chromatic shift from the microscope using either TetraSpeck™ Fluorescent Microspheres Size Kit (mounted on slide) (Thermo Fisher Scientific, T14792, 0.2 µm bead size) or TetraSpeck™ Microspheres, 0.2 µm (Thermo Fisher Scientific, T7280, prepared in-house and spread onto glass slides) in combination with a custom Fiji(Schindelin et al, 2012) script. A four colour Z-stack image of the bead slide was acquired using the same Z-section interval and zoom as the images to be registered, before running the script to register the cells in X, Y and Z dimensions. As the AiryScan processing procedure added an additional 10000 grey pixel values to each processed image, 10000 pixel values were subtracted from each registered image in Fiji using the ‘Subtract’ module before quantification.
+	Processed file 1: The separation score for each condition was calculated using a custom pipeline written in Python. In brief, the pipeline performed the following steps. For each processed Z-stack image, the central slice was calculated by determining the centre of mass of the chromatin (Hoechst) channel, using the scipy ‘ndimage’ module. A subset of slices around the central slice (5 above, 5 below, 11 slices in total) was chosen for the F-ara-EdU and Hoechst channels for each image. For each chosen slice, the Hoechst channel was segmented using Otsu thresholding to generate a chromatin mask. By default, objects which touched the image border were excluded using the ‘clear_border’ functionality from the skimage ‘segmentation’ module. These cells were subsequently analysed separately with the ‘clear_border’ parameter switched off. Small objects and cellular debris were excluded from the mask with a size filter using the ‘remove_small_objects’ functionality from the skimage ‘morphology’ module. The chromatin mask was applied to the F-ara-EdU and Hoechst channels, and all pixel values within the mask were extracted. The Spearman correlation coefficient (SCC) between the two channels was then calculated to give a single SCC value per slice. This operation was performed for each chosen slice, before subsequently calculating the mean SCC per cell. The SCC value per cell for each condition was then normalised relative to the mean SCC values of wild type two (0 value) and one (1 value) sister labelled prometaphase cells, to generate the separation score metric.	Processed files 2 and 3: Line profiles were drawn across single or split SMC protein axes in Fiji using the line profile tool with a line width of 5 pixels. All cells analysed were one-sister chromatid labelled. The line profiles were drawn across axes in a consistent way, moving always from the F-ara-EdU labelled chromatid to the unlabelled chromatid. The line profile coordinates and pixel intensities at each position were then extracted and saved as a csv file using a custom Fiji script. All line profile regions of interest (ROIs) from this analysis were also saved. The data was then further analysed using a custom Python script. The line profile distances and pixel intensities for the SCC1/SMC4, F-ara-EdU and Hoechst channels were extracted from the csv file. A min/max normalisation was performed on each channel to account for the differences in raw signal intensity. To overcome the limitation that only one sister chromatid was specifically labelled using F-ara-EdU in our protocol, the normalised F-ara-EdU signal was subtracted from the normalised Hoechst signal at positions where the normalised F-ara-EdU values were greater than the normalised Hoechst values. This subtraction operation generated a separate ‘Hoechst minus F-ara-EdU’ plot profile. The Hoechst minus F-ara-EdU profile (here on referred to simply as Hoechst) was then again min/max normalised to rescale the data. A polynomial fit was then performed on the normalised SCC1/SMC4, F-ara-EdU and Hoechst profiles using the numpy ‘poly1d’ operation. Peaks were then identified for the three profiles using the scipy ‘signal’ module (Virtanen et al, 2020). For WAPL depleted cells, only profiles with a single peak for the SCC1, F-ara-EdU and Hoechst channels were considered for the downstream analysis. For all other conditions, where split axes are expected, only profiles with two peaks for the SCC1/SMC4 channel and a single peak for the F-ara-EdU and Hoechst channels were considered. The amount of sister chromatid resolution around single or split SMC protein axes was calculated by measuring the peak-to-peak distance of the normalised F-ara-EdU and Hoechst profiles. To calculate the radial displacement of sister chromatids relative to a single axis, the distance between the SCC1 peak and the F-ara-EdU peak was calculated. To calculate the radial displacement of sister chromatids relative to split SMC protein axes, the distance between the F-ara-EdU peak and the closest SCC1/SMC4 axis was calculated. To plot the data, normalised Hoechst and F-ara-EdU mean curves were aligned relative to single or split SMC protein axes. For resolved sister chromatids around a single cohesin axis, for each set of profiles the peak of the normalised SCC1 channel was identified (as described above) and the normalised F-ara-EdU and Hoechst channels aligned relative to this. For cells with split axes, the two peaks for the normalised SCC1 or SMC4 profile were identified and the midpoint between the two peaks calculated. The normalised Hoechst and F-ara-EdU profiles were then aligned relative to this midpoint.																												
+																																	
+# Phenotypes																																	
+Phenotype Name	Late prophase (Wild type), G2 (WAPL depleted, Sororin depleted, WAPL + Sororin depleted, WAPL + SMC4 depleted).																													
+Phenotype Description	Cells were identified as late prophase through immunostaining to determine cyclin B1 and SMC4 mean intensity and localisation, in addition to staining with Hoechst 33342 to assess chromosome morphology. Mean nuclear cyclin B1 fluorescence was determined in a central Z-section as described above, and the cells classified into three classes (early, mid, late prophase) based on mean nuclear cyclin B1 intensity. After this stratification, cells were manually verified based on chromosome morphology, extent of SMC4 axis formation and localisation of cyclin B1.																															
+Phenotype Score Type																																	
+Phenotype Term Source REF	CMPO																																
+Phenotype Term Name																																
+Phenotype Term Accession			 																														
+																																	
+																																	
+# Feature Level Data Files (give individual file details unless there is one file per well)																																	
+Feature Level Data File Name																																	
+Feature Level Data File Format																																	
+Feature Level Data File Description																																
+Feature Level Data Column Name																																	
+Feature Level Data Column Description	
+																																
+																																	
+#  Processed Data Files 																																	
+Processed Data File Name	idr0149_experimentB_processed_sister_chromatid_labelling.txt	idr0149_experimentB_processed_sister_chromatid_labelling.txt	idr0149_experimentB_processed_mean_curves.txt																																
+Processed Data File Format	tab-delimited text																																
+Processed Data File Description	File 1, Spearman correlation coefficient and between F-ara-EdU and Hoechst for central Z-sections of 3D stack for the conditions listed in experiment B, for cells labelled on one sister chromatid by F-ara-EdU. Normalised separation score (plotted in figures) also provided.	File 2, peak to peak distance between sister chromatids, and radial displacement of sister chromatids from SMC protein axes, as in Fig. 3D-E of Batty et al.	File 3, mean line profiles for SCC1/SMC4, F-ara-EdU and Hoechst drawn around split condensin/cohesin or single cohesin axes as Fig. 3A-C of Batty et al.																																
+Processed Data Column Name	image_name	condition	spearman_correlation_coefficient	separation_score	figure_panel, image_name	condition	sister_chromatid_peak_to_peak_distance	radial_displacement	figure_panel, 	condition	distance	aligned_distance_around_axes	scc1_fluorescence	f-ara-edu_fluorescence	hoechst_fluorescence	figure_panel	smc4_fluorescence																													
+Processed Data Column Type	reagent_identifier	experimental_condition	data	data	reagent_identifier, reagent_identifier, experimental_condition	data	data	reagent_identifier, 	experimental_condition	data	data	data	data	data	reagent_identifier	data																							
+Processed Data Column Annotation Level	File 1, Data column 1, for each image, value is the average Spearman correlation coefficient of 11 slices around centre of 3D stack for the thresholded chromatin.	Data column 2, average per cell (one image = one cell).	File 2, each row corresponds to line profile measurement for a single cell.	File 3, mean line profile measurements for the channels of interest. Lines from wild type late prophase (n = 157 lines from 31 cells). ΔWAPL G2 cells (n = 110 lines from 18 cells). ΔWAPL ΔSororin G2 cells (n = 138 lines from 18 cells) were analysed. 																															
+Processed Data Column Description	Data column 1, Spearman correlation coefficient between F-ara-EdU and Hoechst for subset of 11 slices around centre of 3D stack.	Data column 2, Normalisation of spearman correlation coefficient values to generate separation score metric. Normalisation performed relative to the mean Spearman correlation coefficient of two-sister labelled (0 value) and one-sister labelled (1 value) wild type prometaphase chromosomes. File 2, File 2, peak to peak distance between sister chromatids, and radial displacement of sister chromatids from SMC protein axes.	File 3, average normalised fluorescence intensity aligned around split or single cohesin/condensin axes, as in Fig. 3A-C of Batty et al.																												
+Processed Data Column Link To Assay File	image_name	condition
+
+
+
+
+
+
+
+Experiment Number	3 																															
+Comment[IDR Experiment Name]	idr0149-batty-sisterchromatids/experimentC
+Experiment Sample Type	cell																															
+Experiment Description	WAPL depleted, WAPL/SMC4 depleted, and WAPL/SMC4/Sororin HeLa Kyoto cells labelled on one sister chromatid with F-ara-EdU, and synchronised to prometaphase by STLC, as in Fig. 4A, B of Batty et al, 2023. Control prometaphase chromosomes acutely depleted of condensins for either 120 or 240 min, as in Fig. 4C-E of Batty et al, 2023. 																												
+Experiment Size	5D Images: 	Average Image Dimension (XYZCT): 740, 740, 112, 4	Total Tb: 0.0565 Tb																											
+Experiment Example Images	230316_2108_ctrl_rep1_hemi_stlc_60min_zoom5-06-04.tif_registered.tif																													
+Experiment Imaging Method	array-scan confocal microscopy																											
+Experiment Imaging Method Term Source REF	Fbbi																																
+Experiment Imaging Method Term Accession	Fbbi_00000393																															
+Experiment Organism																														
+Experiment Organism Term Source REF	NCBITaxon																																
+Experiment Organism Term Accession																																	
+Experiment Comments	Airyscan microscopy	
+																															
+																																	
+# assay files																																	
+Experiment Assay File	idr0149-experimentC-annotation																														
+Experiment Assay File Format	tab-delimited text																																
+Assay Experimental Conditions	WAPL depleted, WAPL/SMC4 depleted, and WAPL/SMC4/Sororin HeLa Kyoto cells labelled on one sister chromatid with F-ara-EdU, and synchronised to prometaphase by STLC. Control prometaphase chromosomes acutely depleted of condensins for either 120 or 240 min.																															
+Assay Experimental Conditions Term Source REF																																	
+Assay Experimental Conditions Term Accession																																	
+Quality Control Description	
+																															
+																																	
+# Protocols																																	
+Protocol Name	growth protocol	treatment protocol  image acquisition and feature extraction protocol	data analysis protocol																													
+Protocol Type	growth protocol	treatment protocol	image acquisition and feature extraction protocol	data analysis protocol																													
+Protocol Type Term Source REF	EFO	EFO																															
+Protocol Type Term Accession	EFO_0003789	EFO_0003969																															
+Protocol Description	Cells were pre-synchronised to the G1/S boundary by incubation with 2 mM thymidine (Sigma Aldrich, T1895) in wild type medium for 16 – 18 h. Cells were then washed twice with pre-warmed PBS and released into fresh medium. 10 – 12 h after release, cells were blocked again using 3 μg mL-1 aphidicolin (Sigma Aldrich, A0781) for 16 – 18 h. To generate one-sister chromatid labelled cells, 10 μM F-ara-EdU (Sigma Aldrich, T511293) was added to cells 15 h after the second release into S phase (after the first release for the NIPBL-AID cell line) to generate a pool of the compound within the cell, while the cells were in aphidicolin. The following day, cells were washed twice with pre-warmed PBS and released into fresh medium containing 10 μM F-ara-EdU. A final block with aphidicolin was then performed as described above. The following day, cells were washed twice with pre-warmed PBS and released into fresh nucleotide-free medium, such that the cells became labelled on only one sister chromatid.After labelling of sister chromatids, cells were synchronised to G2 using the CDK1 inhibitor RO-3306 (Sigma Aldrich, SML0569). For G2 samples 10 μM RO-3306 was added 5 – 6 h after the release from the final aphidicolin block. WAPL was depleted through the addition of 1 μM dTAG-7 14 h after the final S phase release. SMC4 was depleted through the addition of 1 μM 5-Ph-IAA 1 h before the final release into S phase. Sororin was depleted using siRNA. To generate prometaphase samples in the SMC4-AID_WAPL-dTAG cell line, 10 μM RO-3306 was added to cells as described above. In Fig. 4A, B, 24 h after the release from the final aphidicolin block, cells were washed three times with pre-warmed wild type medium and fixed 30 – 60 minutes later. In Fig. 4C-E, cells were washed three times with pre-warmed wild type medium, before release into wild type medium containing 5 μM STLC for 60 minutes. After 60 minutes release, STLC-containing medium supplemented with 1 μM 5-Ph-IAA was added to the cells to deplete SMC4. Cells were then fixed after either 120 min or 240 min of treatment with 5-Ph-IAA. Control samples were fixed 60 min after washout into STLC-containing medium.
+	Cells were imaged on a custom Zeiss LSM 980 microscope fitted with an additional Airyscan2 detector, using a 63 x NA 1.4 oil DIC Plan-Aphrochromat (Zeiss) objective and ZEN 3.3 Blue 2020 software. Experiments were performed with optimal sectioning (150 nm between each Z-slice) using the AiryScan SR (Super Resolution) mode. 3D Airyscan processing was performed for each acquired image using default parameters. Airyscan processed images were then registered to correct for chromatic shift from the microscope using either TetraSpeck™ Fluorescent Microspheres Size Kit (mounted on slide) (Thermo Fisher Scientific, T14792, 0.2 µm bead size) or TetraSpeck™ Microspheres, 0.2 µm (Thermo Fisher Scientific, T7280, prepared in-house and spread onto glass slides) in combination with a custom Fiji(Schindelin et al, 2012) script. A four colour Z-stack image of the bead slide was acquired using the same Z-section interval and zoom as the images to be registered, before running the script to register the cells in X, Y and Z dimensions. As the AiryScan processing procedure added an additional 10000 grey pixel values to each processed image, 10000 pixel values were subtracted from each registered image in Fiji using the ‘Subtract’ module before quantification.	
+	The separation score for each condition was calculated using a custom pipeline written in Python. In brief, the pipeline performed the following steps. For each processed Z-stack image, the central slice was calculated by determining the centre of mass of the chromatin (Hoechst) channel, using the scipy ‘ndimage’ module. A subset of slices around the central slice (5 above, 5 below, 11 slices in total) was chosen for the F-ara-EdU and Hoechst channels for each image. For each chosen slice, the Hoechst channel was segmented using Otsu thresholding to generate a chromatin mask. By default, objects which touched the image border were excluded using the ‘clear_border’ functionality from the skimage ‘segmentation’ module. These cells were subsequently analysed separately with the ‘clear_border’ parameter switched off. Small objects and cellular debris were excluded from the mask with a size filter using the ‘remove_small_objects’ functionality from the skimage ‘morphology’ module. The chromatin mask was applied to the F-ara-EdU and Hoechst channels, and all pixel values within the mask were extracted. The Spearman correlation coefficient (SCC) between the two channels was then calculated to give a single SCC value per slice. This operation was performed for each chosen slice, before subsequently calculating the mean SCC per cell. The SCC value per cell for each condition was then normalised relative to the mean SCC values of wild type two (0 value) and one (1 value) sister labelled prometaphase cells, to generate the separation score metric.																																		
+																																	
+# Phenotypes																																	
+Phenotype Name	Control, SMC4 depleted, WAPL depleted, SMC4 + WAPL depleted, SMC4 + WAPL + Sororin depleted.																													
+Phenotype Description																																
+Phenotype Score Type																																	
+Phenotype Term Source REF	CMPO																																
+Phenotype Term Name																																
+Phenotype Term Accession			 																														
+																																	
+																																	
+# Feature Level Data Files (give individual file details unless there is one file per well)																																	
+Feature Level Data File Name																																	
+Feature Level Data File Format																																	
+Feature Level Data File Description																																
+Feature Level Data Column Name	
+Feature Level Data Column Description	
+																																
+																																	
+#  Processed Data Files 																																	
+Processed Data File Name	idr0149_experimentC_processed_sister_chromatid_labelling.txt																																
+Processed Data File Format	tab-delimited text																																
+Processed Data File Description	Spearman correlation coefficient and between F-ara-EdU and Hoechst for central Z-sections of 3D stack for the conditions listed in experiment C, for cells labelled on one sister chromatid by F-ara-EdU. Normalised separation score (plotted in figures) also provided.																																
+Processed Data Column Name	image_name	condition	spearman_correlation_coefficient	separation_score	figure_panel																																	
+Processed Data Column Type	reagent_identifier	experimental_condition	data	data	reagent_identifier																																
+Processed Data Column Annotation Level	Data column 1, for each image, value is the average Spearman correlation coefficient of 11 slices around centre of 3D stack for the thresholded chromatin.	Data column 2, average per cell (one image = one cell). 																																
+Processed Data Column Description	Data column 1, Spearman correlation coefficient between F-ara-EdU and Hoechst for subset of 11 slices around centre of 3D stack.	Data column 2, Normalisation of spearman correlation coefficient values to generate separation score metric. Normalisation performed relative to the mean Spearman correlation coefficient of two-sister labelled (0 value) and one-sister labelled (1 value) wild type prometaphase chromosomes.																														
+Processed Data Column Link To Assay File	image_name	condition
+
+
+
+
+
+
+Experiment Number	4 																															
+Comment[IDR Experiment Name]	idr0149-batty-sisterchromatids/experimentD
+Experiment Sample Type	cell																															
+Experiment Description	Measurement of mean intensity in central slice of 3D stack. Validation of cell cycle stage for wild type and WAPL depleted cells as in Fig. EV2, EV5 of Batty et al, 2023. Measurement of mean SMC4 intensity in Fig. 4D of Batty et al, 2023.																													
+Experiment Size	5D Images: 	Average Image Dimension (XYZCT): 740, 740, 76, 4	Total Tb: 0.0675 Tb																											
+Experiment Example Images	220919_5618_wt_hemi_prometa_60min_stlc_h3s10p_cycb1_zoom5_rep4-01.czi #09.tif_registered.tif																													
+Experiment Imaging Method	array-scan confocal microscopy																													
+Experiment Imaging Method Term Source REF	Fbbi																																
+Experiment Imaging Method Term Accession	Fbbi_00000393																																
+Experiment Organism																														
+Experiment Organism Term Source REF	NCBITaxon																																
+Experiment Organism Term Accession																																	
+Experiment Comments	Airyscan microscopy.  The wild type G2 cells stained for cyclin B1 that were analysed in Fig. EV2D can be found in experiment A. The prometaphase cells stained for SMC4 that were analysed in Fig. 4D can be found in experiment C.																																
+																																	
+# assay files																																	
+Experiment Assay File	idr0149-experimentD-annotation																															
+Experiment Assay File Format	tab-delimited text																																
+Assay Experimental Conditions	Wild type G2, prophase and prometaphase chromosomes were stained for cyclin B1 and Histone H3-Ser10-P. WAPL depleted G2 and prometaphase chromosomes were stained for Histone H3-Ser10-P. Control and SMC4 depleted prometaphase chromosomes were stained for SMC4.																													
+Assay Experimental Conditions Term Source REF																																	
+Assay Experimental Conditions Term Accession																																	
+Quality Control Description
+																																
+																																	
+# Protocols																																	
+Protocol Name	growth protocol	treatment protocol  image acquisition and feature extraction protocol	data analysis protocol																													
+Protocol Type	growth protocol	treatment protocol	image acquisition and feature extraction protocol	data analysis protocol																													
+Protocol Type Term Source REF	EFO	EFO																															
+Protocol Type Term Accession	EFO_0003789	EFO_0003969																															
+Protocol Description	Cells were pre-synchronised to the G1/S boundary by incubation with 2 mM thymidine (Sigma Aldrich, T1895) in wild type medium for 16 – 18 h. Cells were then washed twice with pre-warmed PBS and released into fresh medium. 10 – 12 h after release, cells were blocked again using 3 μg mL-1 aphidicolin (Sigma Aldrich, A0781) for 16 – 18 h. To generate one-sister chromatid labelled cells, 10 μM F-ara-EdU (Sigma Aldrich, T511293) was added to cells 15 h after the second release into S phase (after the first release for the NIPBL-AID cell line) to generate a pool of the compound within the cell, while the cells were in aphidicolin. The following day, cells were washed twice with pre-warmed PBS and released into fresh medium containing 10 μM F-ara-EdU. A final block with aphidicolin was then performed as described above. The following day, cells were washed twice with pre-warmed PBS and released into fresh nucleotide-free medium, such that the cells became labelled on only one sister chromatid.After labelling of sister chromatids, cells were synchronised to G2 using the CDK1 inhibitor RO-3306 (Sigma Aldrich, SML0569). For G2 samples 10 μM RO-3306 was added 5 – 6 h after the release from the final aphidicolin block. WAPL was depleted through the addition of 1 μM dTAG-7 14 h after the final S phase release. Wild type G2 cells were fixed after 15 h S phase release. WAPL depleted G2 cells were fixed 24 h after the final S-phase release. To generate prophase samples, 7 μM RO-3306 was added as described above, after 15 h S-phase release, cells were washed 3 times with wild type medium and released into 5 μM STLC-containig medium.  
+	Cells were imaged on a custom Zeiss LSM 980 microscope fitted with an additional Airyscan2 detector, using a 63 x NA 1.4 oil DIC Plan-Aphrochromat (Zeiss) objective and ZEN 3.3 Blue 2020 software. Experiments were performed with optimal sectioning (150 nm between each Z-slice) using the AiryScan SR (Super Resolution) mode. 3D Airyscan processing was performed for each acquired image using default parameters. Airyscan processed images were then registered to correct for chromatic shift from the microscope using either TetraSpeck™ Fluorescent Microspheres Size Kit (mounted on slide) (Thermo Fisher Scientific, T14792, 0.2 µm bead size) or TetraSpeck™ Microspheres, 0.2 µm (Thermo Fisher Scientific, T7280, prepared in-house and spread onto glass slides) in combination with a custom Fiji(Schindelin et al, 2012) script. A four colour Z-stack image of the bead slide was acquired using the same Z-section interval and zoom as the images to be registered, before running the script to register the cells in X, Y and Z dimensions. As the AiryScan processing procedure added an additional 10000 grey pixel values to each processed image, 10000 pixel values were subtracted from each registered image in Fiji using the ‘Subtract’ module before quantification.																														
+																																	
+# Phenotypes																																	
+Phenotype Name	Wild type G2, prophase and prometaphase chromosomes were stained for cyclin B1 and Histone H3-Ser10-P. WAPL depleted G2 and prometaphase chromosomes were stained for Histone H3-Ser10-P. Control and SMC4 depleted prometaphase chromosomes were stained for SMC4.																											
+Phenotype Description	Cells were identified as late prophase through immunostaining to determine cyclin B1 and SMC4 mean intensity and localisation, in addition to staining with Hoechst 33342 to assess chromosome morphology. Mean nuclear cyclin B1 fluorescence was determined in a central Z-section as described above, and the cells classified into three classes (early, mid, late prophase) based on mean nuclear cyclin B1 intensity. After this stratification, cells were manually verified based on chromosome morphology, extent of SMC4 axis formation and localisation of cyclin B1.																																
+Phenotype Score Type																																	
+Phenotype Term Source REF	CMPO																																
+Phenotype Term Name																																
+Phenotype Term Accession			 																														
+																																	
+																																	
+# Feature Level Data Files (give individual file details unless there is one file per well)																																	
+Feature Level Data File Name																																	
+Feature Level Data File Format																																	
+Feature Level Data File Description																																	
+Feature Level Data Column Name																																	
+Feature Level Data Column Description	
+																																
+																																	
+#  Processed Data Files 																																	
+Processed Data File Name	idr0149_experimentD_processed_measure_fluorescence_single_cells.txt																															
+Processed Data File Format	tab-delimited text																																
+Processed Data File Description	Measurement of protein levels in a chromatin mask for central Z-sections of 3D stacks of single cells. SMC4 fluorescence measured in control and SMC4 depleted prometaphase chromosomes as in Fig. 4D. Phospho-H3Ser10 fluorescence measured in wild type G2, prophase and prometaphase cells (Fig. EV2B), and WAPL depleted G2 and prometaphase cells (Fig. EV5E). Cyclin B1 measured in wild type G2, prophase and prometaphase cells (Fig. EV2D).																																
+Processed Data Column Name	image_name	condition	mean_smc4_fluorescence	normalised_smc4_fluorescence	figure_panel	mean_h3s10p_fluorescence	normalised_h3s10p_fluorescence	mean_cyclinb1_fluorescence	normalised_cyclinb1_fluorescence																															
+Processed Data Column Type	reagent_identifier	experimental_condition	data	data	reagent_identifier	data	data	data	data																																
+Processed Data Column Annotation Level	Each measurement is the mean fluorescence intensity for the protein of interest for a central Z-section of a single image.																															
+Processed Data Column Description	Mean fluorescence for protein of interest within the thresholded chromatin for a central slice in the 3D stack. Normalisation of the fluorescence intensities performed as in the data analysis protocol. 																																
+Processed Data Column Link To Assay File	image_name	condition	
+
+
+
+
+
+Experiment Number	5 																															
+Comment[IDR Experiment Name]	idr0149-batty-sisterchromatids/experimentE
+Experiment Sample Type	cell																																
+Experiment Description	Validation of protein depletion across different cell lines by measurement of mean nuclear intensities of proteins of interest, as in Fig. EV3, EV4, Appendix Fig. S1, S2, S4 of Batty et al, 2023.																													
+Experiment Size	5D Images: 	Average Image Dimension (XYZCT): 1912, 1912, 3	Total Tb: 0.0128 Tb																											
+Experiment Example Images	2056_well1_plus_aux_stain_hoechst_smc4-halo-tmr_pos23-39 #04.tif																													
+Experiment Imaging Method	confocal microscopy																													
+Experiment Imaging Method Term Source REF	FBbi																																
+Experiment Imaging Method Term Accession	FBbi_00000251																															
+Experiment Organism																														
+Experiment Organism Term Source REF	NCBITaxon																																
+Experiment Organism Term Accession																																	
+Experiment Comments	
+																															
+																																	
+# assay files																																	
+Experiment Assay File	idr0149-experimentE-annotation																														
+Experiment Assay File Format	tab-delimited text																																
+Assay Experimental Conditions	The following cell lines were analysed: SMC4-AID, NIPBL-AID, WAPL-AID, WAPL-dTAG, SMC4-AID_WAPL-dTAG, Sororin-AID, under control conditions and conditions where the protein of interest was depleted. The following proteins were analysed: SMC4-mAID-Halo (SMC4-AID, SMC4-AID_WAPL-dTAG, Fig. EV3C, Appendix Fig. S1E), NIPBL-mAID-EGFP (NIPBL-AID, Fig. EV4C), HA-WAPL-dTAG (WAPL-dTAG, SMC4-AID_WAPL-dTAG, Fig. Appendix Fig. S1E), Sororin (WAPL-AID, Sororin-AID, Appendix Fig. S2B), Halo-mAID-WAPL (WAPL-AID, Appendix Fig. S4I)																													
+Assay Experimental Conditions Term Source REF																																	
+Assay Experimental Conditions Term Accession																																	
+Quality Control Description	
+																																
+																																	
+# Protocols																																	
+Protocol Name	growth protocol	treatment protocol  image acquisition and feature extraction protocol	data analysis protocol																													
+Protocol Type	growth protocol	treatment protocol	image acquisition and feature extraction protocol	data analysis protocol																													
+Protocol Type Term Source REF	EFO	EFO																															
+Protocol Type Term Accession	EFO_0003789	EFO_0003969																															
+Protocol Description	DNA was stained with Hoechst 33342 in all cases. SMC4-AID cells were incubated for 3 h with (ΔSMC4) or without (Control) 1 μM 5-Ph-IAA before subsequently staining of SMC4 with TMR-HaloTag ligand. NIPBL-AID cells were incubated for 2 h with (ΔNIPBL) or without (Control) 1 μM 5-Ph-IAA before subsequently fixing and staining for mEGFP with an anti-GFP nanobody. WAPL-dTAG cells were incubated for 3 h with (ΔWAPL) or without (Control) 1 μM dTAG-7 before subsequently fixing and staining for HA-WAPL and SCC1, with anti-HA and anti-SCC1 antibodies respectively. WAPL-dTAG_SMC4-AID cells were incubated with 5-Ph-IAA or dTAG-7 in the following combinations: untreated (Control), 3 h 5-Ph-IAA (ΔSMC4), 3 h dTAG-7 (ΔWAPL), 3 h 5-Ph-IAA + dTAG-7 (ΔSMC4 ΔWAPL). SMC4 was stained with TMR-HaloTag ligand and HA-WAPL and SCC1 were stained using antibodies. WAPL-AID cells were incubated for 2 h with (ΔWAPL) or without (Control) 500 μM auxin before subsequently staining of WAPL with TMR-HaloTag ligand. To stain Sororin in HeLa cells homozygously tagged for Halo-mAID-WAPL (ΔWAPL) or Sororin-mAID-mEGFP (ΔSororin), cells were synchronised to G2 phase by RO-3306. WAPL and Sororin were depleted through the addition of 500 μM auxin (IAA) for 10 h. ΔWAPL cells were treated with 16 nM Control (siControl) or Sororin (siSororin) siRNAs as indicated. Sororin was stained using an anti-Sororin antibody.
+	Cells were imaged on a custom Zeiss LSM 780 microscope using a 63 x NA 1.4 oil DIC Plan-Aphrochromat (Zeiss) objective and ZEN Black 2011 software.
+	Fields of cells were analysed using a custom Python script. Before measuring mean fluorescence to assess protein depletion efficiency, the following criterion was pre-established: only interphase cells were considered for the analysis. A size filter was applied to the data to exclude mitotic cells, so that the range of measured values was not distorted by proteins which either dissociate from chromosomes during mitosis (e.g., NIPBL), or are enriched on chromosomes during mitosis (e.g., SMC4). A Gaussian blur was applied to the Hoechst channel (sigma = 1.0) using the skimage ‘filters’ module and the Hoechst channel was then segmented using Li thresholding. Cells which touched the border of the image were excluded using the ‘clear_border’ functionality from the skimage ‘segmentation’ module. Individual masks were labelled and applied to each cell in the field. Overlapping cells were distinguished using the ‘watershed’ functionality of the skimage ‘segmentation’ module. The area of the nuclear mask and mean fluorescence within the mask was then calculated. In Fig. EV3D, Appendix Fig. S1F, S4J, wild type cells were stained with Halo-TMR and the mean Halo-TMR fluorescence within the segmented nuclei then calculated. The data were then normalised relative to the mean nuclear Halo-TMR fluorescence of wild type cells (0 value) and control cells (1 value). In Fig. EV4D, Appendix Fig. S1D, S1G, S2C, background fluorescence in the channel of interest was calculated by measuring fluorescence in non-cell areas of three fields and calculating the mean. The data were then normalised relative to the mean background fluorescence of the channel of interest (0 value) and the mean nuclear fluorescence of the protein of interest in control cells (1 value).																													
+																																	
+# Phenotypes																																	
+Phenotype Name	Control, SMC4 depleted, NIPBL depleted, WAPL depleted, Sororin depleted, WAPL + Sororin depleted, WAPL + SMC4 depleted.																													
+Phenotype Description																																
+Phenotype Score Type																																	
+Phenotype Term Source REF	CMPO																																
+Phenotype Term Name																																
+Phenotype Term Accession			 																														
+																																	
+																																	
+# Feature Level Data Files (give individual file details unless there is one file per well)																																	
+Feature Level Data File Name																																	
+Feature Level Data File Format																																	
+Feature Level Data File Description																																	
+Feature Level Data Column Name																																	
+Feature Level Data Column Description	
+																																
+																																	
+#  Processed Data Files 																																	
+Processed Data File Name	idr0149_experimentE_processed_measure_nuclear_protein_levels_all_conditions.txt																																
+Processed Data File Format	tab-delimited text																																
+Processed Data File Description	Measurement of nuclear protein levels in fields of cells. Control cells and cells where the protein is depleted analysed, as specified in experiment E.																																
+Processed Data Column Name	condition	mean_nuclear_wapl_fluorescence	normalised_wapl_fluorescence	figure_panel	mean_nuclear_sororin_fluorescence	normalised_sororin_fluorescence	mean_nuclear_smc4_fluorescence	normalised_smc4_fluorescence	mean_nuclear_nipbl_fluorescence	normalised_nipbl_fluorescence	mean_halo-tmr_fluorescence																														
+Processed Data Column Type	experimental_condition	data	data	reagent_identifier	data	data	data	data	data	data	data 																																
+Processed Data Column Annotation Level	Mean fluorescence intensity for protein of interest for many cells within individual fields.	Condition specified.																														
+Processed Data Column Description	Data column 1 (mean_nuclear(protein of interest) mean nuclear fluorescence for the protein of interest within the thresholded chromatin.	Data column 2, normalised (protein of interest) fluorescence. Normalised fluorescence intensity for the protein of interest, performed as specified in the data analysis protocol.																															
+Processed Data Column Link To Assay File	condition	
+
+
+
+
+
+
+Experiment Number	6 																															
+Comment[IDR Experiment Name]	idr0149-batty-sisterchromatids/experimentF
+Experiment Sample Type	cell																															
+Experiment Description	Immunofluorescence of nuclear Sororin fluorescence and SCC1 axis formation in WAPL depleted G2 cells, as in Appendix Fig. S2D of Batty et al, 2023.																													
+Experiment Size	5D Images: 	Average Image Dimension (XYZCT): 772, 772, 76, 3	Total Tb: 0.0144 Tb																											
+Experiment Example Images	230304_1802_wapl_dep_ctrl_si_rep2_zoom4_8_dna_scc1_sor-01-26.czi #8.tif_registered.tif																													
+Experiment Imaging Method	array-scan confocal microscopy																												
+Experiment Imaging Method Term Source REF	Fbbi																																
+Experiment Imaging Method Term Accession	Fbbi_00000393																																
+Experiment Organism																														
+Experiment Organism Term Source REF	NCBITaxon																																
+Experiment Organism Term Accession																																
+Experiment Comments	Airyscan microscopy
+																															
+																																	
+# assay files																																	
+Experiment Assay File	idr0149-experimentF-annotation																														
+Experiment Assay File Format	tab-delimited text																															
+Assay Experimental Conditions	SCC1 and Sororin were stained using antibodies in WAPL depleted cells synchronised to G2 by RO-3306. Cells were treated with control (16 nM) or Sororin (0.75 nM or 16 nM siRNAs). Sororin was stained in a Sororin-AID cell line treated with auxin as a control. DNA was stained using Hoechst 33342.												
+Assay Experimental Conditions Term Source REF																																	
+Assay Experimental Conditions Term Accession																																	
+Quality Control Description	
+																															
+																																	
+# Protocols																																	
+Protocol Name	growth protocol	treatment protocol  image acquisition and feature extraction protocol	data analysis protocol																													
+Protocol Type	growth protocol	treatment protocol	image acquisition and feature extraction protocol	data analysis protocol																													
+Protocol Type Term Source REF	EFO	EFO																															
+Protocol Type Term Accession	EFO_0003789	EFO_0003969																															
+Protocol Description	To assess nuclear Sororin fluorescence in Sororin depleted, WAPL depleted and WAPL/Sororin depleted G2 cells, cells were first pre-synchronised to the G1/S boundary by incubation with 2 mM thymidine (Sigma Aldrich, T1895) in wild type medium for 16 – 18 h. Cells were then washed twice with pre-warmed PBS and released into fresh wild type medium. 6 h after the first release, WAPL-AID cells were treated with Control (16 nM) or Sororin (0.75 nM or 16 nM, as specified) siRNAs as described below (section: siRNA transfection). 10 – 12 h after the first release, cells were blocked for the second time using 3 μg mL-1 aphidicolin (Sigma Aldrich, A0781) for 16 – 18 h. The following day, cells were washed twice with pre-warmed PBS and released into fresh wild type medium. 6 h after the second release, RO-3306 was added to a final concentration of 10 μM to arrest cells in G2 phase. 14 h after the second release, 500 μM auxin was added to the cells to deplete WAPL (WAPL-AID) or Sororin (Sororin-AID) respectively. After 10 h depletion, cells were fixed and stained for immunofluorescence.	
+	Cells were analysed on a custom Zeiss LSM 980 microscope fitted with an additional Airyscan2 detector, using a 63 x NA 1.4 oil DIC Plan-Aphrochromat (Zeiss) objective and ZEN 3.3 Blue 2020 software. Experiments were performed with optimal sectioning (150 nm between each Z-slice) using the AiryScan SR (Super Resolution) mode. 3D Airyscan processing was performed for each acquired image using default parameters. Airyscan processed images were then registered to correct for chromatic shift from the microscope using either TetraSpeck™ Fluorescent Microspheres Size Kit (mounted on slide) (Thermo Fisher Scientific, T14792, 0.2 µm bead size) or TetraSpeck™ Microspheres, 0.2 µm (Thermo Fisher Scientific, T7280, prepared in-house and spread onto glass slides) in combination with a custom Fiji(Schindelin et al, 2012) script. A four colour Z-stack image of the bead slide was acquired using the same Z-section interval and zoom as the images to be registered, before running the script to register the cells in X, Y and Z dimensions. As the AiryScan processing procedure added an additional 10000 grey pixel values to each processed image, 10000 pixel values were subtracted from each registered image in Fiji using the ‘Subtract’ module before quantification.
+	Cohesin or condensin axes were identified using the SCC1/SMC4 channels. Line profiles were then drawn in Fiji (5-pixel line width) using the segmented line tool to trace along the length of the axes. The length of each drawn axis was first measured along the entire length of the line for each line in the cell, the ROIs saved, and the measurements saved as a csv file. For each measured line, the length of segments with single (ΔWAPL) or split (ΔWAPL ΔSororin, late prophase) axes was then measured, the ROIs saved, and the measurements saved as a csv file. A custom Python script was then used to group the data to determine the percentage of single or split SMC axes on a per cell basis for each condition. 																											
+																																	
+# Phenotypes																																	
+Phenotype Name	WAPL depleted G2, WAPL + Sororin depleted G2. Sororin was depleted using 0.75 nM or 16 nM siRNAs. Wild type late prophase.																										
+Phenotype Description																																	
+Phenotype Score Type																																	
+Phenotype Term Source REF	CMPO																																
+Phenotype Term Name																																
+Phenotype Term Accession		 																														
+																																	
+																																	
+# Feature Level Data Files (give individual file details unless there is one file per well)																																	
+Feature Level Data File Name																																	
+Feature Level Data File Format																																
+Feature Level Data File Description																																
+Feature Level Data Column Name																																	
+Feature Level Data Column Description	
+																															
+																																	
+#  Processed Data Files 																																	
+Processed Data File Name	idr0149_experimentF_processed_axis_splitting.txt																																
+Processed Data File Format	tab-delimited text																																
+Processed Data File Description	Percentage of split cohesin (G2) or condensin (late prophase) axes per cell, as in Appendix Fig. S2A, E. For cells from Fig. S2E, the mean nuclear Sororin fluorescence is also measured. 																																
+Processed Data Column Name	image_name	condition	length_split_axis	length_single_axis	length_smc_axis	percentage_split_smc_axes	figure_panel	normalised_nuclear_sororin_fluorescence																															
+Processed Data Column Type	reagent_identifier	experimental_condition	data	data	data	data	reagent_identifier	data																															
+Processed Data Column Annotation Level	One row corresponds to values for a single image.																															
+Processed Data Column Description	Data column 1, length of split cohesin or condensins axes along the length of the whole smc axis length. Data column 2, length of single cohesin axes along the length of the whole smc axis length.	Data column 3, length of whole cohesin/condensin axis. Data column 4, percentage of split condensin/cohesin axes. Data column 5, normalised nuclear Sororin fluorescence.																															
+Processed Data Column Link To Assay File	image_name	condition	

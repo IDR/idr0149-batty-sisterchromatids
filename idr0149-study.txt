@@ -38,7 +38,7 @@ Study License	CC BY 4.0
 Study License URL	https://creativecommons.org/licenses/by/4.0/																																
 Study Copyright	Batty et al																															
 Study Data Publisher	University of Dundee																																
-Study Data DOI																																	
+Study Data DOI	https://doi.org/10.17867/10000191																																	
 																																	
 Term Source Name	NCBITaxon	EFO	CMPO	FBbi																													
 Term Source URI	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/cmpo/	http://purl.obolibrary.org/obo/																													
@@ -49,6 +49,7 @@ Term Source URI	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http:/
 																																	
 Experiment Number	1 																															
 Comment[IDR Experiment Name]	idr0149-batty-sisterchromatids/experimentA
+Experiment Data DOI	https://doi.org/10.17867/10000191a
 Experiment Sample Type	cell																																
 Experiment Description	Visualisation of wild type, SMC4 depleted, and NIPBL depleted HeLa Kyoto cells synchronised to prometaphase or G2 phase, where sister chromatids were labelled on either one or two sister chromatids by F-ara-EdU (as specified), with DNA counterstained using Hoechst 33342, as in Fig. 1, Fig. EV2F, Fig. EV3, Fig. EV4 of Batty et al, 2023.  																													
 Experiment Size	5D Images: 	Average Image Dimension (XYZCT): 740, 740, 112, 4 (prometaphase), 772, 772, 71, 4 (G2)	Total Tb: 0.237 Tb																											
@@ -114,6 +115,7 @@ Processed Data Column Link To Assay File	image_name	condition
 
 Experiment Number	2 																															
 Comment[IDR Experiment Name]	idr0149-batty-sisterchromatids/experimentB
+Experiment Data DOI	https://doi.org/10.17867/10000191b
 Experiment Sample Type	cell																																
 Experiment Description	Wild type late prophase HeLa Kyoto cells labelled on one sister chromatid. Control, WAPL depleted, Sororin depleted, WAPL + Sororin depleted, or WAPL +SMC4 depleted G2 HeLa Kyoto cells labelled on one sister chromatid with F-ara-EdU, and synchronised to G2 by RO-3306, as in Fig. 2, 3, EV5 of Batty et al, 2023.																													
 Experiment Size	5D Images: 	Average Image Dimension (XYZCT): 740, 740, 112, 4 (prometaphase), 772, 772, 71, 4 (G2)	Total Tb: 0.102 Tb																											
@@ -179,6 +181,7 @@ Processed Data Column Link To Assay File	image_name	condition
 
 Experiment Number	3 																															
 Comment[IDR Experiment Name]	idr0149-batty-sisterchromatids/experimentC
+Experiment Data DOI	https://doi.org/10.17867/10000191c
 Experiment Sample Type	cell																															
 Experiment Description	WAPL depleted, WAPL/SMC4 depleted, and WAPL/SMC4/Sororin HeLa Kyoto cells labelled on one sister chromatid with F-ara-EdU, and synchronised to prometaphase by STLC, as in Fig. 4A, B of Batty et al, 2023. Control prometaphase chromosomes acutely depleted of condensins for either 120 or 240 min, as in Fig. 4C-E of Batty et al, 2023. 																												
 Experiment Size	5D Images: 	Average Image Dimension (XYZCT): 740, 740, 112, 4	Total Tb: 0.0565 Tb																											
@@ -244,6 +247,7 @@ Processed Data Column Link To Assay File	image_name	condition
 
 Experiment Number	4 																															
 Comment[IDR Experiment Name]	idr0149-batty-sisterchromatids/experimentD
+Experiment Data DOI	https://doi.org/10.17867/10000191d
 Experiment Sample Type	cell																															
 Experiment Description	Measurement of mean intensity in central slice of 3D stack. Validation of cell cycle stage for wild type and WAPL depleted cells as in Fig. EV2, EV5 of Batty et al, 2023. Measurement of mean SMC4 intensity in Fig. 4D of Batty et al, 2023.																													
 Experiment Size	5D Images: 	Average Image Dimension (XYZCT): 740, 740, 76, 4	Total Tb: 0.0675 Tb																											
@@ -306,6 +310,7 @@ Processed Data Column Link To Assay File	image_name	condition
 
 Experiment Number	5 																															
 Comment[IDR Experiment Name]	idr0149-batty-sisterchromatids/experimentE
+Experiment Data DOI	https://doi.org/10.17867/10000191e
 Experiment Sample Type	cell																																
 Experiment Description	Validation of protein depletion across different cell lines by measurement of mean nuclear intensities of proteins of interest, as in Fig. EV3, EV4, Appendix Fig. S1, S2, S4 of Batty et al, 2023.																													
 Experiment Size	5D Images: 	Average Image Dimension (XYZCT): 1912, 1912, 3	Total Tb: 0.0128 Tb																											
@@ -371,6 +376,7 @@ Processed Data Column Link To Assay File	condition
 
 Experiment Number	6 																															
 Comment[IDR Experiment Name]	idr0149-batty-sisterchromatids/experimentF
+Experiment Data DOI	https://doi.org/10.17867/10000191f
 Experiment Sample Type	cell																															
 Experiment Description	Immunofluorescence of nuclear Sororin fluorescence and SCC1 axis formation in WAPL depleted G2 cells, as in Appendix Fig. S2D of Batty et al, 2023.																													
 Experiment Size	5D Images: 	Average Image Dimension (XYZCT): 772, 772, 76, 3	Total Tb: 0.0144 Tb																											
